@@ -1,0 +1,1121 @@
+track_name,track_artist,language,playlist_genre,playlist_subgenre,genre_encoded,language_encoded,beta_vae_kmeans_cluster,autoencoder_kmeans_cluster,pca_kmeans_cluster,umap_1,umap_2
+Aaj Ei Dintake,Kishore Kumar,bn,Bangla Film,Retro Film Melody,1,0,0,12,5,-0.5988809,5.6740355
+Amar Swapna Tumi Ogo,Asha Bhosle|Kishore Kumar,bn,Bangla Film,Romantic Duet,1,0,0,9,3,-0.8266951,7.083178
+Ami Chini Go Chini Tomare,Kishore Kumar,bn,Rabindra Sangeet,Tagore Romantic,7,0,8,11,10,-1.8337997,6.66295
+Purano Sei Diner,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Nostalgia,7,0,6,4,7,2.21508,8.15653
+Aamar Pujar Phool,Kishore Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,11,9,0,3.845056,8.892109
+Se Jeno Aamar Pashe,Kishore Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,0,0,5,-1.4180683,6.0478797
+Mone Pore Ruby Roy,R. D. Burman,bn,Adhunik Bangla,Urban Nostalgia,0,0,3,8,3,-3.2086027,4.0786176
+Coffee Houser Sei Addata Aaj Aar Nei,Manna Dey,bn,Adhunik Bangla,Urban Nostalgia,0,0,6,7,9,1.7059639,7.464257
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,6,8,7,1.5174011,7.3797593
+Ei Path Jodi Na Shes Hoy,Sandhya Mukherjee|Hemant Kumar,bn,Bangla Film,Romantic Duet,1,0,13,8,7,-3.0094416,5.725067
+Tumi Kon Kananer Phul,Asha Bhosle,bn,Rabindra Sangeet,Tagore Romantic,7,0,3,8,3,-2.998382,3.4196396
+Amar Swapna Je Satyi,Kishore Kumar|Lata Mangeshkar,bn,Bangla Film,Romantic Retro,1,0,6,7,9,1.7912017,7.3574157
+Nayan Sarasi Keno Bhoreche Jaale,Kishore Kumar,bn,Adhunik Bangla,Melancholic Modern,0,0,8,9,12,-1.3347278,6.880488
+Jodi Hoi Chorkanta,Asha Bhosle|Kishore Kumar,bn,Bangla Film,Romantic Retro,1,0,8,4,7,-1.7539047,7.553295
+Mon-Majhi Re,R. D. Burman,bn,Bangla Folk,Folk-inspired Modern,2,0,0,7,9,0.35895595,5.9481325
+Tare Ami Chokhe Dekhini,Kishore Kumar,bn,Adhunik Bangla,Mystical Modern,0,0,3,0,12,-3.080777,3.3180408
+Aamar Bhalobasar Rajprasade,Manna Dey,bn,Adhunik Bangla,Romantic Modern,0,0,8,4,7,-1.2729495,7.9510317
+Aaj Milan Tithir Purnima Chand,Kishore Kumar,bn,Bangla Film,Romantic Retro,1,0,9,4,7,0.21391933,8.493775
+Jakhan Keu Amake Pagol Bale,Manna Dey,bn,Adhunik Bangla,Philosophical Modern,0,0,5,7,9,8.360214,8.929479
+Coffee Houser Sei Addata Aaj Aar Nei,Manna Dey,bn,Adhunik Bangla,Urban Nostalgia,0,0,12,7,9,9.510435,9.031001
+Chokher Jaler Hoyna Kono Rang,Kishore Kumar,bn,Adhunik Bangla,Melancholic Modern,0,0,8,9,0,-0.5901705,7.177166
+Chirodini Tumi Je Aamar- Male,Kishore Kumar,bn,Bangla Film,Romantic Film Ballad,1,0,0,7,9,0.67553574,6.4673986
+Jani Tomar Premer Jogyo Ami To Noi,Manna Dey,bn,Adhunik Bangla,Melancholic Modern,0,0,11,2,10,3.4842448,9.254383
+Bandhagharer Andhakare,Asha Bhosle|Kishore Kumar,bn,Adhunik Bangla,Philosophical Modern,0,0,9,4,7,-0.49020836,8.3420725
+O Chand Samle Rakho Jochhnake,Manna Dey,bn,Adhunik Bangla,Romantic Modern,0,0,8,0,5,-1.8905329,6.697908
+Na Na Na Kachhe Esona,Asha Bhosle|S. P. Balasubrahmanyam,bn,Bangla Film,Playful Romantic,1,0,8,0,5,-1.4387678,6.930438
+Sundari Go Dohai Dohai,Manna Dey,bn,Bangla Film,Playful Folk-Film,1,0,0,9,12,-0.011495396,6.0777917
+Asha Chhilo Bhalobasa Chhilo,Kishore Kumar,bn,Adhunik Bangla,Melancholic Modern,0,0,8,0,5,-1.2340188,7.1695232
+Hoyto Amake Karo Mone,Kishore Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,11,12,5,3.343459,8.280259
+Mone Porle,Arijit Singh,bn,Adhunik Bangla,Romantic Modern,0,0,0,7,9,-1.7477338,5.5111694
+Gunjane Dole Je Bhramar,Asha Bhosle|Kishore Kumar,bn,Bangla Film,Romantic Duet,1,0,3,8,3,-3.3882322,3.9155416
+Phulkali Re Phulkali,Asha Bhosle|Kishore Kumar,bn,Bangla Film,Light Romantic,1,0,0,9,12,0.3750448,6.031523
+Keno Re Tui Chorli,Kishore Kumar,bn,Adhunik Bangla,Melancholic Modern,0,0,3,8,3,-3.0462859,3.6009283
+"Rangini Kato Mon, Mon Dite Chay",Manna Dey,bn,Adhunik Bangla,Romantic Modern,0,0,6,0,5,0.2887102,6.886165
+Bolchi Tomar Kane Kane- Female,Lata Mangeshkar,bn,Bangla Film,Romantic Solo,1,0,11,7,9,5.2676005,9.387807
+Din Khon Mapa Ache,Arijit Singh,bn,Adhunik Bangla,Romantic Modern,0,0,9,11,10,0.5581171,9.2137
+Lalita Go Oke Aaj Chole Jete Bal Na,Manna Dey,bn,Bangla Film,Emotional Retro,1,0,6,8,7,1.6334757,7.7599535
+Prithibi Bodle Gechhe,Kishore Kumar,bn,Adhunik Bangla,Philosophical Modern,0,0,11,2,2,4.516661,8.97515
+Ek Tanete Jemon Temon,Kishore Kumar|Swapan Chakraborty,bn,Bangla Folk,Folk-inspired Light,2,0,6,9,5,1.790904,7.195672
+Aaj Theke Aar Bhalobasar,Kishore Kumar,bn,Adhunik Bangla,Breakup Modern,0,0,6,11,5,0.3187212,6.9641886
+Hridayer Gaan Shikhe To Gaay Go Sabai,Manna Dey,bn,Adhunik Bangla,Philosophical Modern,0,0,11,4,2,3.4070976,9.220333
+E Gaane Prajapati (Stereo),Sandhya Mukherjee,bn,Bangla Film,Light Romantic,1,0,11,2,10,4.048778,8.58273
+Chhero Na Chhero Na Haath,Kishore Kumar|Sabina Yasmeen,bn,Bangla Film,Romantic Duet,1,0,9,4,0,0.5620901,9.232687
+Ami Cheye Cheye Dekhi,Shyamal Mitra,bn,Adhunik Bangla,Romantic Modern,0,0,8,12,5,-1.0086757,7.2040133
+Dole Dodul Dole Jhulana,Manabendra Mukherjee|Shyamal Mitra,bn,Bangla Film,Semi-Classical Film,1,0,13,11,3,-2.5462763,5.62228
+Tomay Porechhe Mone,Kishore Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,9,12,7,0.5023381,8.338176
+Mangaldeep Jwele (Part 1),Lata Mangeshkar|Others,bn,Devotional,Puja Spiritual,5,0,2,7,9,5.2977595,9.337565
+Shono Mon Boli Tomay,R. D. Burman,bn,Adhunik Bangla,Philosophical Modern,0,0,8,4,7,-1.0679045,7.965168
+Tora Je Ja Bolish,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Playful,7,0,0,9,12,-1.1566331,5.9189997
+Chirodini Tumi Je Aamar- Female,Asha Bhosle,bn,Bangla Film,Romantic Film Ballad,1,0,0,7,9,-1.668509,5.7474027
+Aamar Swapna Je,Lata Mangeshkar|Kishore Kumar,bn,Bangla Film,Romantic Retro,1,0,6,7,9,1.3828253,7.578269
+Ka Phonta Chokher Jal Phelechho,Manna Dey,bn,Adhunik Bangla,Melancholic Modern,0,0,6,9,12,1.0017439,7.0895104
+Katoi Ranga Dekhi Duniyay,Amar Pal,bn,Bangla Film,Comic Satire,1,0,8,2,0,-1.5244638,7.500067
+Bhalo Bashi Bhalo Bashi,Amit Kumar|Kavita Krishnamurthy,bn,Rabindra Sangeet,Tagore Romantic,7,0,8,12,0,-2.4500573,6.5733347
+Sandhya Belay Tumi Ami,Asha Bhosle,bn,Adhunik Bangla,Romantic Modern,0,0,0,9,12,0.5295861,6.4028378
+Chole Jete Jete Din,Lata Mangeshkar,bn,Adhunik Bangla,Melancholic Modern,0,0,13,8,3,-1.6582597,5.374861
+Bulbul Pakhi Maiana,Antara Chwdhury,bn,Children's Music,Children's Rhyme,4,0,6,4,7,1.3500261,8.09931
+Janmadin,Kishore Kumar,bn,Children's Music,Birthday Song,4,0,8,8,10,-2.0625224,7.2235665
+Ami Jamini Tumi Shashi Hey,Manna Dey,bn,Bangla Film,Romantic Semi-Classical,1,0,9,12,7,1.2588564,8.242551
+Ami Taar Thikana Rakhini,Manna Dey,bn,Adhunik Bangla,Romantic Modern,0,0,6,4,7,1.225636,7.8841863
+Aar Ki Tomay Chharchhi,Asha Bhosle|R. D. Burman,bn,Adhunik Bangla,Romantic Modern,0,0,0,12,5,0.15731314,6.0322156
+Bom Bhole,Kishore Kumar,bn,Devotional,Shiva Devotional,5,0,8,9,7,-0.80083674,7.1377077
+Gahan Megher Chhaya Ghanay,Manna Dey,bn,Adhunik Bangla,Monsoon Modern,0,0,9,8,10,0.41676778,8.147723
+Kato Naree Achhe E Gokule,Asha Bhosle|Kishore Kumar|Tanuja,bn,Bangla Film,Comic Folk-Film,1,0,9,2,0,0.45209906,8.5432205
+Karo Keu Naiko Aami,Kishore Kumar,bn,Adhunik Bangla,Melancholic Modern,0,0,3,0,12,-2.8617342,4.3023014
+Balo Ki Achhe Go,R. D. Burman,bn,Bangla Film,Romantic Duet,1,0,13,11,3,-2.9273872,5.1687884
+Ami Gaan Shonabo,Hemant Kumar,bn,Adhunik Bangla,Light Modern,0,0,3,12,5,-2.4081464,3.7591064
+Na Mon Lage Na,Lata Mangeshkar,bn,Bangla Film,Romantic Retro,1,0,3,0,12,-2.9952378,4.1246023
+Najar Diyo Na,Kishore Kumar,bn,Adhunik Bangla,Playful Modern,0,0,6,11,10,0.81400746,7.19842
+Mon Janala Khule Dena,Kishore Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,13,4,7,-2.3951285,6.400517
+Pora Banshi Shunle E Mon,Asha Bhosle,bn,Adhunik Bangla,Folk-inspired Modern,0,0,13,0,12,-2.96945,4.7983937
+Amar Deep Nebhano Raat,Kishore Kumar,bn,Adhunik Bangla,Melancholic Modern,0,0,13,0,5,-2.1263552,4.8372107
+O Mor Moyna Go,Lata Mangeshkar,bn,Bangla Folk,Folk Song,2,0,13,0,5,-1.5750215,6.0421624
+Abhimane Chole Jeo Na,Manna Dey,bn,Adhunik Bangla,Romantic Modern,0,0,13,0,12,-3.2687666,4.3495936
+Prem Baro Madhur,Kishore Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,11,2,0,3.558971,9.17731
+Na Na Na Aaj Raate Aar,Manna Dey,bn,Bangla Film,Playful Romantic,1,0,3,8,3,-3.3911564,3.8098285
+Sedino Akashe Chhilo Kato Tara,Kishore Kumar,bn,Adhunik Bangla,Nostalgic Modern,0,0,6,9,7,0.9810305,7.4466476
+Bhuter Raja Dilo Bor,Anup Ghoshal|Rabi Ghosh,bn,Children's Music,Fantasy Film Song,4,0,9,2,10,0.78985435,8.831701
+Naam Amar Kishore Kumar Ganguly,Kishore Kumar,bn,Adhunik Bangla,Tribute Song,0,0,2,7,9,5.8129697,9.689601
+Bhoy Dekhas Na (Male) Voice & Guitars,Arijit Singh,bn,Adhunik Bangla,Acoustic Modern,0,0,9,7,9,0.052662395,7.6789904
+Hoyto Tomari Janya,Manna Dey,bn,Bangla Film,Romantic Film Song,1,0,6,12,0,0.6094466,7.7818074
+Piya Bholo Abhimaan,Ajoy Chakrabarty,bn,Bangla Film,Romantic Retro,1,0,9,7,9,0.2013349,7.6478376
+Ami Nei Ami Nei,Kishore Kumar,bn,Adhunik Bangla,Melancholic Modern,0,0,6,0,5,0.9285869,7.4385934
+Shono Mon Boli Tomay,R. D. Burman,bn,Adhunik Bangla,Philosophical Modern,0,0,9,12,10,0.42345998,8.160831
+Hai Hai Ki Herilam,Utpalendu Chowdhury,bn,Bangla Folk,Folk Ballad,2,0,9,12,5,0.47429755,8.353337
+Kolkata Kolkata,Bappi Lahiri,bn,Bangla Film,City Travel,1,0,6,2,10,1.478877,7.499137
+Gharete Bhramar Elo Gunguniye,Arundhati Holme Chowdhury,bn,Adhunik Bangla,Folk-inspired Modern,0,0,8,9,0,-0.303335,7.3067656
+Mor Bhabanare Ki Haoway Matalo,Hemant Kumar,bn,Rabindra Sangeet,Tagore Nature,7,0,13,8,10,-3.084481,4.738817
+Ami Ek Jajabar,Bhupen Hazarika,bn,Adhunik Bangla,Wanderer Song,0,0,8,4,7,-1.8327291,7.346488
+Dekhore Nayan Melay,Anup Ghoshal,bn,Bangla Folk,Folk Ballad,2,0,8,4,7,-1.5184418,7.304744
+Ek Je Chhilo Raja,Anup Ghoshal|Rabi Ghosh,bn,Children's Music,Story Song,4,0,13,0,12,-2.9232578,5.232681
+Ei Meghla Dine Ekla,Hemant Kumar,bn,Adhunik Bangla,Monsoon Modern,0,0,8,9,12,-1.4454902,6.587494
+Ami Pathbhola Ek Pathik Esechhi (Duet),Kanika Banerjee|Suchitra Mitra|Hemant Kumar,bn,Bangla Film,Romantic Duet,1,0,8,11,10,-1.4754953,6.557885
+Shudhu Bhalobasha Diye,Hemant Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,0,0,5,0.38963914,6.4501104
+Deke Deke Kato,R. D. Burman,bn,Bangla Film,Romantic Retro,1,0,13,4,7,-2.7576358,6.0898285
+Manush Manusher Jannya,Bhupen Hazarika,bn,Bangla Patriotic,Humanist Song,3,0,9,12,5,0.6524638,8.442318
+Aha Ki Ananda,Anup Ghoshal,bn,Children's Music,Fantasy Film Song,4,0,13,4,3,-3.0311997,5.8534074
+Darjeeling Jatra,R. D. Burman,bn,Children's Music,Travel Comic,4,0,0,12,7,-0.1781063,7.1309843
+Moner Manush :- (Mon Jakhan Jagli Nare and Milan Habe Kata Dine),Dohar,bn,Bangla Folk,Lalon Baul,2,0,0,7,9,0.4313691,5.9982014
+Katha Diye Ele Na,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,9,7,-2.091895,6.740984
+Amar Shilpi Tumi Kishore Kumar,Kumar Sanu,bn,Bangla Film,Romantic Playback,1,0,2,7,9,6.057363,9.614245
+Champa Chameli Golaperi Baage,Manna Dey|Sandhya Mukherjee,bn,Bangla Film,Duet Playback,1,0,9,12,0,0.30524144,7.6349645
+Nishidin Nishidin,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,3,0,5,-2.6002774,4.3272886
+Jete Jete Pathe Holo,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,9,4,10,-0.12351539,8.738048
+Saat Bhai Champa Jagore,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,13,12,3,-3.1434596,4.196913
+Antabihin Kate Na Aar Jeno (Baro Shunya Shunya),Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,11,2,10,3.1292825,9.23736
+Ei Mom Jochhonay Ango Bhijiye,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,9,2,0,0.72650313,9.146531
+Tomar Pujar Chhaley,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Devotional,7,0,11,9,0,2.7670562,8.389957
+Tomate Amate Dekha Hoyechhilo,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-2.4214046,3.6894586
+Jete Jete Pathe Holo,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,8,12,7,-1.5319599,7.6190453
+Ei Sundar Swarnali Sandhaye,Geeta Dutt,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-1.225489,7.6928678
+Mayur Aakaash,Bappi Lahiri,bn,Bangla Film,Romantic Playback,1,0,6,8,7,0.5805719,6.482364
+Olir Katha Shune Bakul Hase,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,13,11,3,-3.0814729,4.2298574
+Aebar Pujoye Chaaye,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,11,11,9,2.7563562,8.659948
+Jani Na Aaj Je Apon,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,6,4,7,1.5076414,8.277635
+Takhon Tomar Ekush Bachhar,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,13,0,5,-1.7308925,5.548655
+Nagor Amar Kancha Peerit,Asha Bhosle|Shailender Singh,bn,Bangla Film,Duet Playback,1,0,9,4,10,-0.1328784,8.7380495
+Oi Dustu Chokher Mishti Hasi,Sandhya Mukherjee|Hemant Kumar,bn,Bangla Film,Duet Playback,1,0,13,0,5,-2.6228468,4.893463
+Mor Bina Othe Kon Sure Baji,Swagatalakshmi Dasgupta,bn,Rabindra Sangeet,Tagore Classic,7,0,2,2,2,5.742465,8.959336
+Phire Eso Anuradha,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,13,12,3,-3.015985,4.5472
+Sajani Go Premer Katha,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,8,9,7,-1.5137484,7.0433326
+Jete Dao Amay Dekona,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,13,8,3,-1.9276117,5.191916
+Jibane Ki Pabo Na,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,6,9,12,1.9820182,7.316692
+Tolo Chhinnabeena,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,6,9,0,1.9766457,7.304717
+Kalo Meyer Payer Tolaaye,Panna Lal Bhattacharjee,bn,Devotional,Shyama Sangeet,5,0,13,11,0,-2.8438015,5.226622
+O Amar Sajani Go,Kishore Kumar|Lata Mangeshkar,bn,Bangla Film,Duet Playback,1,0,3,7,9,-3.146888,3.5373244
+Chhande Chhande Gaane Gaane,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,13,11,10,-2.950191,6.0315394
+Badhu Kon Alo (Part 1),Arundhati Holme Chowdhury,bn,Rabindra Sangeet,Tagore Nature,7,0,6,7,9,1.7224122,7.8761506
+Eshe Hirok Deshe,Anup Ghoshal,bn,Children's Music,Comic Song,4,0,3,8,3,-3.1234376,3.4931567
+Jana - Gana - Mana - Orchestra,Akashvani Vadya Vrinda,bn,Children's Music,Comic Song,4,0,3,0,5,-3.4713545,3.4785292
+O Tui Nayan Pakhi Amar Re,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,9,2,10,1.5903969,8.875256
+Aasbo Aar Ekdin Aaj Jai,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,13,0,5,-1.6831797,5.471371
+Chokhe Chokhe Katha Balo,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,9,4,3,0.47373357,7.876614
+Phire Eso Anuradha,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,0,9,12,0.49333122,6.4305396
+Ami Dur Hote Tomarei Dekhechhi,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,9,4,7,0.6060415,8.392781
+Hey Nutan Dekha Dik Aar-Bar,Swagatalakshmi Dasgupta,bn,Rabindra Sangeet,Tagore Classic,7,0,3,0,3,-2.5691361,3.7037551
+Ek Je Chhilo Maachhi,Antara Chwdhury,bn,Children's Music,Children's Song,4,0,3,0,3,-2.8402982,3.274218
+Ami Mon Diye Chi,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,11,7,9,4.092698,8.923585
+Bidhir Bandhan Katbe Tumi,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,9,12,10,1.9815645,8.914967
+Maharaja Tomarey Shelam,Anup Ghoshal|Rabi Ghosh,bn,Children's Music,Fantasy Song,4,0,8,4,0,-1.5078557,6.2908235
+Ami Je Jalsaghare (Stereo),Sandhya Mukherjee,bn,Bangla Film,Romantic Playback,1,0,9,11,10,0.2767426,8.085614
+Aamar Eche Korche Bhalo,Bappi Lahiri|Asha Bhosle,bn,Bangla Film,Duet Playback,1,0,13,7,9,-2.805409,4.5480294
+Balo Ki Achhe Go,R. D. Burman,bn,Bangla Film,Romantic Duet,1,0,13,12,3,-3.1114788,4.6135297
+Tomari Chalar Pathe,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,8,5,-1.2973899,7.2586756
+Ore Baba Dekho Cheye,Anup Ghoshal,bn,Children's Music,Comic Song,4,0,12,2,2,8.871419,8.381504
+Keno Kichhu Katha Balo Na,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-0.9247573,8.146492
+Aayre Chhute Aai,Antara Chwdhury,bn,Children's Music,Comic Song,4,0,3,0,12,-2.4571865,3.8288562
+Je Khanei Thako Sukhe Thako,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,0,7,12,0.69216067,6.7712173
+Dekhle Kemon Tumi Khel,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,11,7,9,2.1614318,8.745977
+Aei Gaaneri Shure Shure,Mohammad Aziz,bn,Bangla Film,Romantic Playback,1,0,8,7,9,-1.1427581,6.854147
+Phire Elam Dure Giye,Asha Bhosle|R. D. Burman,bn,Bangla Film,Duet Playback,1,0,6,4,7,0.95214224,7.538591
+Pa Ma Ga Re Sa,Lata Mangeshkar,bn,Devotional,Spiritual,5,0,6,2,10,0.5638963,7.7690725
+Na Dir Dir Da,Antara Chwdhury,bn,Children's Music,Comic Song,4,0,13,8,3,-3.3705254,4.2524767
+Swapna Mahale Ajo Nishirate,Bappi Lahiri,bn,Bangla Film,Romantic Playback,1,0,0,9,12,-0.105357155,5.8888197
+Nadir Paare Uthchhe Dhonya,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,13,7,9,-2.2045538,5.594252
+Keu Jane Na Tumi Je Amar,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,2,2,2,7.30692,9.288068
+Ore Amar Mon,Dwijen Mukherjee,bn,Adhunik Bangla,Romantic Modern,0,0,6,9,7,1.4529498,7.95383
+Bujhbe Na Keu Bujhbe Na,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,0,8,3,-0.9029604,5.53487
+Taare Bole Diyo,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-3.2539725,3.1350107
+Aami Ekjon Saanto Sishto,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,0,0,5,0.52234656,6.383593
+Halla Cholechhe Juddhe,Kamu Mukherjee|Jahor Roy,bn,Children's Music,Comic Song,4,0,6,2,12,2.1512458,7.828403
+"O,sona Byang",Antara Chwdhury,bn,Children's Music,Children's Song,4,0,9,11,10,0.62864786,9.244266
+Ki Ashai Bandhi Khelaghar,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,6,11,2,1.7741232,8.536884
+Chand Aar Shurjo,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,5,2,1,7.409276,9.352856
+Jana Ajana Pathey Cholechhi,Kishore Kumar|Asha Bhosle,bn,Bangla Film,Duet Playback,1,0,13,8,10,-1.6254576,5.8005314
+Aay Aay Chhute Aay,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,3,8,3,-3.0353868,3.6284664
+Oi Mahasindhur Opar Theke,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-3.0815797,3.7059364
+Ei Chhande Chhande Bhara,Sandhya Mukherjee|Hemant Kumar,bn,Bangla Film,Duet Playback,1,0,8,12,0,-1.6231778,7.166101
+Dinguli Mor,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Nostalgia,7,0,11,2,10,2.0023077,8.488815
+Hridayer Gaan Shikhe To Gaay Go Sabai,Manna Dey,bn,Adhunik Bangla,Philosophical Modern,0,0,0,12,5,-0.9011137,5.4297013
+Mone Pore Ruby Roy,R. D. Burman,bn,Adhunik Bangla,Urban Nostalgia,0,0,13,8,12,-2.8544083,4.2713428
+Tumi Jodi Thaktey,Kumar Sanu,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-3.1561542,3.3445976
+Mor Bhabonare (Duet),Saptarshi|SAHANA BAJPEI,bn,Rabindra Sangeet,Tagore Classic,7,0,5,2,2,7.741233,9.14653
+Namo Mata Saraswati,Sandhya Mukherjee|Tarun Banerjee|Aarti Mukherji,bn,Bangla Film,Duet Playback,1,0,13,7,9,-1.7864543,5.670125
+O Prajapati Prajapati,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,0,8,3,-1.3423902,5.45982
+Sagar Sangame,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,9,11,10,0.7816121,8.685182
+Katha Dao Aabar Asbe,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,13,11,3,-2.5406885,5.3788853
+Tomake Lagche Bhari Chena,Bappi Lahiri|Alka Yagnik,bn,Bangla Film,Duet Playback,1,0,13,7,3,-2.9072044,5.785559
+Esho Go Jweley,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,3,8,3,-3.2977846,3.2646704
+Amar Sakal Raser Dhara,Hemant Kumar|Aarti Mukherji,bn,Bangla Film,Duet Playback,1,0,3,0,12,-3.0862215,3.850609
+"Ore Bondhure, Ore Sathi Re",Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,0,8,5,-0.38246357,5.7292714
+Na Bole Esechhi,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,11,9,0,3.547366,8.37569
+Ja Ja Ja Bhule Ja,Lata Mangeshkar,bn,Bangla Film,Melancholy Playback,1,0,0,9,12,-0.38480702,5.8114457
+Keno Je Kandao Bare Bare,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,11,9,12,3.296542,8.22889
+E Ki Chanchalata Jage,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,3,12,3,-3.4014096,3.2796893
+Moner Janala Dhore Unki Diye,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,13,8,3,-2.3628955,5.829584
+Ogo Moner Duyare Danriye Theko Na,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,11,2,2,3.891201,8.3565235
+Kichhu To Chahini Ami,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,8,9,12,-1.6752474,6.34211
+Ektu Baso Chole Jeo Na,Asha Bhosle,bn,Bangla Film,Melancholy Playback,1,0,0,8,7,-0.74150467,6.1012244
+Akash Keno Daake,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,11,2,10,4.2507834,8.6949005
+Aakash Bhara,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Nature,7,0,13,4,7,-2.8543937,5.1018953
+Dhoronako Shantrimoshai,Anup Ghoshal,bn,Children's Music,Comic Song,4,0,3,0,5,-2.5250635,4.1682987
+Aaj Jiban Khunje Pabi,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,3,0,12,-3.051655,3.1175642
+Bhoy Dekhas Na (The Agnee Version),Mohan Kannan,bn,Adhunik Bangla,Romantic Modern,0,0,8,7,9,-0.16392808,7.528578
+Ami Sahebo Noi Golamo Noi,Hemant Kumar,bn,Bangla Film,Melancholy Playback,1,0,8,4,7,-1.2015908,7.643194
+Hayre Pora Banshi,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,8,9,7,-0.9283255,7.3360786
+Tomader Aasare Aaj,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,8,2,0,-1.1498536,7.5048265
+Amar Mon Manne Na,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,0,8,3,-0.0110498145,6.0230837
+Gun Gun Kare Mon,Amit Kumar|Asha Bhosle,bn,Bangla Film,Duet Playback,1,0,9,9,12,0.13066566,7.55303
+Phule Gandha Nei,Asha Bhosle,bn,Bangla Film,Melancholy Playback,1,0,13,9,12,-1.3663628,5.0216193
+Katha Hoyechhilo,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,11,7,2,3.8841755,8.438152
+Ami Dukkhake Sukh Bhebe,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,8,11,0,-1.5218211,7.013917
+E Monihar Amay,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,13,9,7,-2.980734,5.0281
+Ek Din Aaro Gelo,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,0,8,5,0.43228146,6.265454
+Na Ekhoni Noy Jabe,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,6,4,7,1.125213,7.7178407
+Tomar Akash Duti Chokhe,Nirmal Mishra,bn,Adhunik Bangla,Romantic Modern,0,0,6,11,5,1.4174877,7.069991
+Aar Bilamba Noy,Anup Ghoshal,bn,Children's Music,Comic Song,4,0,13,12,5,-3.0017314,4.627605
+Tumi Ele Anek Diner Pare,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,9,4,0,-0.44979283,8.510525
+Kajol Kajol Chokhe,Geeta Dutt|Hemant Kumar,bn,Bangla Film,Duet Playback,1,0,9,2,10,1.5291628,8.769276
+Tomaar Holo Shuru (db),Debabrata Biswas,bn,Rabindra Sangeet,Tagore Nostalgia,7,0,8,9,12,-0.9222584,6.8864713
+Phul Phute Jhore Jaay,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,11,12,0,2.541205,8.793068
+Ele Na Tumi Je,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,9,4,0,2.0369825,8.691582
+Khelbo Holi Rang Debo Na,Asha Bhosle|Kavita Krishnamurthy,bn,Bangla Film,Duet Playback,1,0,13,12,3,-2.613641,4.435203
+Sajani Go Premer Katha,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,13,12,5,-2.9899743,4.871671
+Ek Din Pakhi Ure Jabe,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-1.9220114,6.9809813
+Ek Tanete Jemon Temon,Kishore Kumar|Swapan Chakraborty,bn,Bangla Folk,Folk-inspired Light,2,0,0,9,7,-0.4233868,7.2244253
+Ek Din Pakhi Ure Jabe,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,13,0,5,-2.3232071,4.5104184
+Emon Madhur Sandhyay,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,0,7,9,0.52371484,6.1960797
+Aamar Bhalobasar Rajprasade,Manna Dey,bn,Adhunik Bangla,Romantic Modern,0,0,13,8,10,-2.5832403,6.095039
+Naari Charitra Bejaay Jatil,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,0,12,5,0.26546037,6.7096257
+Bhalobeshe Dekei Dekho Na,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,13,8,3,-3.3837304,4.397856
+Gaane Bhuban Bhoriye Debe,Shyamal Mitra,bn,Adhunik Bangla,Romantic Modern,0,0,9,4,0,0.7537897,8.754715
+Ei Korechho Bhalo,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,13,0,5,-1.3677845,5.786606
+Baro Asha Kore Esechhi Go,Arundhati Holme Chowdhury|Hemant Kumar,bn,Rabindra Sangeet,Tagore Classic,7,0,0,9,12,-1.1584909,5.0664735
+Ore Batas Phulshakhate,Sandhya Mukherjee|Hemant Kumar,bn,Bangla Film,Duet Playback,1,0,6,9,7,1.3950124,8.169026
+Kine De Reshmi Churi,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,4,5,-1.1743671,7.899414
+Moner Naam Madhumati,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,0,0,5,-1.1803747,5.96651
+Nadir Paare Uthchhe Dhonya,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,8,11,9,-1.0007559,7.446732
+Bristi Bristi Bristi,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,9,9,7,0.5317831,7.882157
+Guru Bine Bondhu Naai Re Aar,Amar Pal,bn,Bangla Folk,Regional Folk,2,0,0,0,12,-1.2927805,5.114899
+Cigarette Naho Tumi Swet-Pari,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,6,12,5,0.91509736,7.3762617
+Charon Dhorite Diyo Go (Female),Arundhati Holme Chowdhury,bn,Rabindra Sangeet,Tagore Classic,7,0,8,0,5,-1.0205424,6.7225204
+Ke Jabi Aay,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,13,4,3,-2.5435457,6.053374
+Ebar Ami Amar Theke,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,13,4,7,-3.0929341,5.1745687
+Tumi Aamar Asha,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,11,7,9,3.4926019,8.095271
+Chokhe Naame Brishti,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,6,12,10,2.3755865,7.850574
+Ami Premer Pather Pathik,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,8,2,0,-1.7356083,7.2606535
+Tarpar Tar Aar Par Nei,Hemant Kumar,bn,Bangla Film,Melancholy Playback,1,0,8,4,7,-1.383597,7.721411
+Aay Khuku Aay (Keta Na Somay),Hemant Kumar|Sravanti Mazumder,bn,Bangla Film,Duet Playback,1,0,13,7,3,-2.1570616,5.0125384
+Ektuku Chhonwa Lage,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,11,2,0,4.067597,9.16121
+Danriye Achho Tumi Amar Gaaner O Paare,Sandhya Mukherjee,bn,Bangla Film,Romantic Playback,1,0,9,4,7,1.336217,8.442241
+Moyna Balo Tumi,Asha Bhosle,bn,Bangla Folk,Regional Folk,2,0,8,0,7,-1.913934,6.6742144
+Keu Jane Na Tumi Je Amar,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,0,7,3,-0.6440435,7.229175
+Du Chokhe Brishti,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,13,9,3,-2.177337,5.352168
+Emon Ekta Jhinuk Khunje,Nirmal Mishra,bn,Adhunik Bangla,Romantic Modern,0,0,13,12,3,-2.5647094,5.9288936
+Thuilam Re Mon Padmapatay,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,3,11,3,-3.308389,3.5756242
+Jana Gana Mana - Military Band,Normon Richardazz|Harbert Murril,bn,Adhunik Bangla,Romantic Modern,0,0,13,0,5,-3.1359956,4.793308
+Bone Noy Mone Mor,Manabendra Mukherjee,bn,Adhunik Bangla,Romantic Modern,0,0,9,8,7,0.59939826,8.448357
+Dake Loke Amake Clown,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,0,0,5,0.44725886,6.309005
+Kolahal To Baron Holo,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,8,2,0,-1.6816121,7.3467627
+"Aar Nai Re Bela, Namlo Chhaya",Sumitra Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,3,8,3,-3.4604287,3.4168503
+Ami Cholte Cholte Theme Gechhi,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,0,9,12,-0.549316,5.604536
+Swapan Jodi Madhur Emon,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,6,12,2,2.235577,7.987871
+Madhumas Jay,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,0,8,12,-0.29330176,5.6443357
+Shamla Gaanyer Kajla Meye,Hemant Kumar|Aarti Mukherji,bn,Bangla Film,Duet Playback,1,0,8,11,10,-1.1564499,7.286914
+Dil Dariyar Majhete,Purna Das Baul,bn,Bangla Folk,Baul,2,0,8,0,5,-1.6801491,6.546552
+Ami Chaee Chaee Chaee,Sapna Mukherjee,bn,Bangla Film,Romantic Playback,1,0,11,9,7,3.589941,9.017705
+Tari:- (Ebar Tor Mora Gange and Samal Samal Samal),Dohar,bn,Bangla Folk,Regional Folk,2,0,12,7,9,9.393733,9.000448
+Madhobi Modhupey Holo Mitali,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-1.7691157,7.1336007
+Ki Je Kori Dure Jete Hay,Lata Mangeshkar,bn,Bangla Film,Melancholy Playback,1,0,9,2,10,1.8174957,8.83016
+Ami Je Jalsaghare,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,0,9,12,-0.0865436,5.693581
+Mon Bolchhe,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,0,0,5,-1.1954772,5.4699125
+Amar Balar Kichhu Chhilo Na,Haimanti Shukla,bn,Adhunik Bangla,Romantic Modern,0,0,3,12,3,-3.1757796,3.6131082
+Chaaridike Paaper Andhar (Manush Janam Diye Bidhi),Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,13,8,7,-3.0259635,4.625725
+Ami Je Ke Tomar,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,11,2,10,3.494449,9.210775
+Shaon Raate Jodi,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,0,12,5,-0.78911567,6.5696163
+Rui Katla Ilish To Noy,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,11,2,10,3.4129944,9.314197
+Hay Re Kala Eki Jwala,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,13,4,3,-3.0339575,5.7146325
+Mukhe Bolleye Prem Hoye Na,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,6,7,9,0.9733465,7.053846
+Chakrita Ami Peyegechi Bela 2441139,Anjan Dutt,bn,Adhunik Bangla,Romantic Modern,0,0,0,9,12,0.38741922,5.924446
+O Amar Pran Sajani (Champabothi Kanya),Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,11,2,10,2.401378,8.752707
+Jodi Bhabo Bhalobeshe,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,9,7,9,-0.74914783,8.032392
+Andhakarer Ei Raater Sheshe,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,6,12,5,0.72711104,6.564816
+Amar Raat Pohaalo (d B),Debabrata Biswas,bn,Rabindra Sangeet,Tagore Nature,7,0,6,9,7,0.90326923,7.87023
+Bangla:- (Ami Bangla Mayer Chhele and Amar Sonar Bangla),Dohar,bn,Bangla Folk,Regional Folk,2,0,11,7,9,3.408584,7.9388795
+Sukno Patar Nupur Paye,Feroza Begum,bn,Nazrul Geeti,Nazrul Romantic,6,0,13,8,3,-2.0793064,5.148923
+Jodi Kagoje Lekho Naam,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,8,11,10,-2.4747844,6.646835
+Na Chahile Jare Paoya Jaay - Manna Dey,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,9,2,10,2.7965856,9.217104
+Jhilik Jhilik Jhinuk,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,9,2,10,1.0044525,9.058102
+Purano Sei Diner Kotha,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,13,4,7,-3.030602,5.7919464
+O Tota Pakhi Re,Nirmal Mishra,bn,Adhunik Bangla,Romantic Modern,0,0,6,8,7,0.7454855,7.9921503
+She Keno Amay,Pankaj Udhas,bn,Adhunik Bangla,Romantic Modern,0,0,9,2,10,1.4921283,8.780399
+Jeevanamaraner,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Devotional,7,0,8,4,7,-1.3035685,7.805545
+Eureka Eureka,Kishore Kumar|Ranu Mukherjee|Chorus,bn,Bangla Film,Duet Playback,1,0,13,9,12,-1.6344382,5.781463
+Chhinnapatar Sajai Taranee,Sumitra Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,8,8,10,-1.4387949,7.7440357
+Amar Chetana Chaitanya Kore,Panna Lal Bhattacharjee,bn,Devotional,Spiritual,5,0,8,2,10,-0.8575824,8.228947
+Amar Hriday Tomar Aapan Haater Dole (Duet),Arundhati Holme Chowdhury|Santu Mukherjee,bn,Rabindra Sangeet,Tagore Classic,7,0,5,2,2,8.093093,8.97058
+Ek Din Aaro Gelo,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,8,8,10,-1.5575879,7.3215833
+Madhumas Jay,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,3,0,12,-2.951986,3.8973093
+Hotam Jodi Tota Pakhi,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,11,12,0,2.3166182,8.72899
+Aadho Aalo Chhayte,Kishore Kumar|Asha Bhosle,bn,Bangla Film,Duet Playback,1,0,6,9,12,0.3481218,7.4847813
+Ami Tomar Majhe Pelam Khunje,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,0,9,0,-0.67306817,5.874965
+Ore Mon-Mayana,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,8,4,3,-2.5082169,6.439304
+Machher Kanta Khonpar Kanta,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,2,2,10,6.0225053,9.022845
+Bhalobese Sakhi Nibhrite Jatane,Chinmoy Chatterjee,bn,Rabindra Sangeet,Tagore Nature,7,0,3,0,12,-2.410769,3.7736568
+Nahin Surya Nahin Jyoti,Anup Jalota,bn,Devotional,Bhajan,5,0,5,2,10,7.617422,8.480924
+Ek Baishakhe Dekha Holo Dujanay,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,6,9,7,0.9050173,7.088917
+Ei Sundar Raatri,Sandhya Mukherjee,bn,Bangla Film,Romantic Playback,1,0,8,11,10,-1.4461849,6.2973437
+O Montrimoshai,Rabi Ghosh|Anup Ghoshal,bn,Children's Music,Comic Song,4,0,3,9,12,-2.5467987,3.7911294
+Iskabaner Deshe,Antara Chwdhury,bn,Children's Music,Comic Song,4,0,3,8,3,-3.2580194,3.3488045
+Gun Gun Gun Kunje Amar,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,3,0,3,-3.055595,3.5278277
+Golemale Gole Male Pirit Koiro Na,Purna Das Baul,bn,Bangla Folk,Baul,2,0,0,9,12,-0.4318949,5.5600276
+Tomaro Ashimey,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Devotional,7,0,8,2,0,-1.1829603,7.951103
+Amar Moner Ei Mayurmahale,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-2.161837,6.874838
+Ami Je Ke Tomar,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,0,7,9,0.43474665,6.52165
+Tomate Amate Dekha Hoyechhilo,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,8,4,12,-1.0536036,6.5026083
+Raat Je Madhumati,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,9,12,0,0.5098667,8.775023
+Ei Brishtite Bhije Mati,Manna Dey|Lata Mangeshkar,bn,Bangla Folk,Regional Folk,2,0,13,0,12,-2.9107292,5.2913184
+Ke Pratham Kachhe Esechhi,Lata Mangeshkar|Manna Dey,bn,Bangla Film,Duet Playback,1,0,8,2,0,-1.8151695,7.159259
+Pherano Jabe Na Aar,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-1.5298998,7.4894934
+Chanchal Moyuri E Raat,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,13,8,7,-1.4795126,5.4725847
+Ei To Bhalo Legechhilo - Hemanta Mukherjee,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,8,8,3,-2.4363925,6.4254827
+Eso Pranbharan,Arundhati Holme Chowdhury|Bitu Samajpati,bn,Rabindra Sangeet,Tagore Classic,7,0,13,11,3,-2.1679869,5.4930964
+Ami Aaj Bhebechhi Mone,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,3,9,12,-3.2231195,4.0547056
+Baro Eka Laage,Manna Dey,bn,Bangla Film,Melancholy Playback,1,0,13,4,3,-2.7018328,5.9642363
+Nohi Jantra,Anup Ghoshal,bn,Children's Music,Comic Song,4,0,11,2,0,3.9878075,8.663535
+Pranbhara Swapna,Kishore Kumar|Chandrani Mukherjee,bn,Bangla Film,Duet Playback,1,0,8,12,5,-1.8624738,6.18429
+Sabar Aarale,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,6,9,0,2.553818,8.01909
+Tapur Tupur Sara Dupur,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,11,2,2,4.0147433,8.5822735
+Amay Bolo Na Gahite,Suchitra Mitra,bn,Rabindra Sangeet,Tagore Classic,7,0,13,4,3,-3.041148,5.6428404
+Ore Sujan Naiya,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,8,11,10,-2.1760566,6.971016
+Aami Dasyir Sathey Kori Dosti,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,13,4,7,-3.0353067,4.857109
+Na Na Emon Korey,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,13,11,0,-2.8500428,6.1004577
+Katha Hoyechhilo,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,6,2,10,2.0600429,8.402095
+Pathey Chhile Jetey,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,13,8,3,-2.5157707,4.581628
+Jakhan Porbe Na Mor Payer Chinha,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,13,4,7,-2.5012145,6.0177517
+Kana Machhi Bhon Bhon,Antara Chwdhury|Sabita Chowdhury,bn,Children's Music,Comic Song,4,0,3,8,3,-2.3323274,3.8301594
+Dui Naukaye Diya Pa,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,9,2,0,-0.0806135,8.672874
+Shiter Shishir Bheja Raat,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,2,9,2,5.703187,8.939549
+Mon Tomar Ei Bhram Gelo Na,Panna Lal Bhattacharjee,bn,Devotional,Spiritual,5,0,8,8,10,-0.0018775229,7.7547455
+Ami Tomar Preme Habo Sabar,Sagar Sen,bn,Rabindra Sangeet,Tagore Romantic,7,0,8,12,5,-2.2693017,6.705749
+Mahabiswey Mahabiswey,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,13,11,10,-2.883399,5.458845
+Priyotamo Ki Likhi Tomay,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,13,0,5,-2.3470037,4.931891
+O Bideshi Bandhu,Bhupen Hazarika,bn,Adhunik Bangla,Urban Modern,0,0,9,2,0,0.7809554,9.224418
+Nayan Chherey Geley,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,6,12,0,2.053791,8.278627
+Aaro Katodin Ami Khunjechhi Tomake,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,0,0,12,-1.2786758,5.896106
+Kalyankarini Saptanadi Bhagini,Chandrabali Rudra Dutta,bn,Rabindra Sangeet,Tagore Classic,7,0,6,9,4,1.9785954,7.277114
+Shono Go Dakhin Hawa,S. D. Burman,bn,Adhunik Bangla,Romantic Modern,0,0,13,0,12,-2.333582,5.3738723
+Prem Kise Hoy,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,3,0,12,-3.2447996,4.1277375
+King Of The Ghosts Gives 3 Boons,Satyajit Ray,bn,Children's Music,Fantasy Song,4,0,3,9,3,-2.9620726,3.6997285
+Kon Pakhi Dhara Dite Chaaye,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,13,8,7,-2.5025249,4.9943438
+Bharaa Thaak Smritisudhaay,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Nostalgia,7,0,6,11,2,2.0914752,8.423515
+Naam Rekhechhi Bonolata,Shyamal Mitra,bn,Adhunik Bangla,Romantic Modern,0,0,13,8,3,-1.9673076,5.109267
+Ami Apon Koriya Chahini,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,11,9,7,3.9426534,8.842592
+"Barne, Gandhe, Chhande, Gitite",S. D. Burman,bn,Adhunik Bangla,Romantic Modern,0,0,9,2,10,1.207366,8.914443
+Hay Go Amar Mon Mane Na,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,9,4,7,0.49037284,9.155749
+Darjeeling Jatra,R. D. Burman,bn,Children's Music,Travel Comic,4,0,3,8,3,-3.1343193,3.2389765
+Ja Peyechhi,Amit Kumar,bn,Bangla Film,Romantic Playback,1,0,13,9,12,-2.062577,4.346226
+Se To Elo Na,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,3,0,5,-2.8222303,4.293963
+Na Na Jeo Na,Manna Dey,bn,Bangla Film,Melancholy Playback,1,0,8,9,0,-1.567507,6.7401233
+Pratidhwani Suni,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,3,4,3,-3.0761127,4.5157523
+Ke Jay Amritadhamjatri,Ritu Guha,bn,Rabindra Sangeet,Tagore Classic,7,0,13,0,12,-2.3685086,5.3418636
+Badal Kalo Ghirlo Go,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,13,8,7,-2.5602236,5.864634
+Baro Asha Kare,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,2,0,-0.98713666,7.7250633
+Onek Khujechi Khuje Payine,Mohammad Aziz,bn,Bangla Film,Romantic Playback,1,0,3,7,9,-3.0237532,4.1621428
+Aar Nai Je Deri,Chinmoy Chatterjee,bn,Rabindra Sangeet,Tagore Classic,7,0,0,9,12,-0.20069966,5.973938
+Rai Jago Rai Jago Bole,Amar Pal,bn,Bangla Folk,Polli Geeti,2,0,9,4,7,0.8195128,8.59076
+"Ogo Kangal, Amare Kangal Karechho",Ritu Guha,bn,Rabindra Sangeet,Tagore Classic,7,0,0,9,12,0.31360096,6.16529
+Eto Kachhe Dujane,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,6,12,5,0.67212635,6.8103704
+Amra Korbo Joy,Bhupen Hazarika|Chorus,bn,Bangla Patriotic,Inspirational Anthem,3,0,8,8,3,-2.5547988,6.3306527
+E Jiban Premeri Ek Patabahar Kabita,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,6,12,0,1.6296291,7.884433
+Megh Aar Kuyashay Hok,Kishore Kumar|Aarti Mukherji,bn,Bangla Film,Duet Playback,1,0,6,12,2,2.3125768,8.038509
+Amar Bela Je Jai,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-3.1633456,3.0753222
+Badhu Kon Alo (Part 2),Arundhati Holme Chowdhury,bn,Rabindra Sangeet,Tagore Nature,7,0,8,4,7,-0.80826724,7.219931
+Shudhu Jaoya Aasa,Arundhati Holme Chowdhury,bn,Rabindra Sangeet,Tagore Classic,7,0,9,2,10,0.27493632,8.837941
+Chanchal Mon Anmona Hoy,Lata Mangeshkar|Hemant Kumar,bn,Bangla Film,Duet Playback,1,0,0,11,12,0.13948679,6.14738
+Bhola Mon Moner Katha,Shyamal Mitra,bn,Adhunik Bangla,Romantic Modern,0,0,11,4,7,3.8105056,9.002607
+Amar Andhar Bhubane,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,8,8,10,-1.5889847,7.4231434
+Banshi Keno Hai,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,0,9,7,-1.116966,6.098235
+Hey Priyotama Ami To Tomay,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,0,9,12,-1.5271254,5.9034257
+"Sakhi, Bhabana Kahare Bale",Sumitra Sen,bn,Rabindra Sangeet,Tagore Romantic,7,0,11,8,5,3.2391174,8.274763
+Klaanti Aamaar Kshamaa Koro,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,3,0,12,-3.2147121,3.0961072
+Tunhu Mamo Monpran Hey (Stereo),Sandhya Mukherjee,bn,Bangla Film,Romantic Playback,1,0,3,8,5,-2.4232633,3.8092008
+Jabo Ki Jabo Na,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-3.3618314,3.174199
+Dekhe Elam Ruper Agun,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-2.522868,6.4757237
+E Ki Holo,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,9,4,0,-0.27402064,8.631945
+Gharete Bhramar Elo,Sumitra Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,3,0,5,-3.3322704,3.8491187
+Ma Tui Amay Daya Korbi Ki Na Bal,Manna Dey,bn,Devotional,Spiritual,5,0,13,4,12,-3.0534034,4.703564
+Aaj Bikeler Dake Tomar Chithi,Banasree Sengupta,bn,Adhunik Bangla,Romantic Modern,0,0,0,0,5,-0.9076347,5.816777
+Aaro Bhalo Hoto,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,0,12,2,0.13939826,6.6963897
+Tumi Je Amar,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,13,4,5,-2.0464559,5.6674194
+Amar Khela Jakhon Chhilo Tomar Sane,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,9,12,5,0.607533,8.415093
+Shono Ei To Samay,R. D. Burman,bn,Bangla Film,Romantic Playback,1,0,13,11,10,-2.897639,4.7384043
+Ami Gun Kormu Ekjonare,Anuradha Paudwal,bn,Devotional,Bhajan,5,0,8,4,7,-1.1429242,7.8104086
+Nibhrita Praner,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,13,0,5,-2.591759,5.1811614
+Dinguli Mor Sonar Khanchay Roilo Na,Dwijen Mukherjee,bn,Adhunik Bangla,Romantic Modern,0,0,11,9,7,3.5437543,8.325921
+Keno Dure Thako,Hemant Kumar,bn,Bangla Film,Melancholy Playback,1,0,6,11,2,1.5079477,7.1949906
+Jabar Belay Pichhu Theke,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,13,4,7,-3.0607255,5.938527
+Tomake Shonate E Gaan,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,2,2,2,5.9748793,8.988261
+Akash Keno Daake,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,13,0,12,-2.7727,4.304799
+Jani Jani Tumi Esechho E Pathe,Sudeshna Chatterjee,bn,Adhunik Bangla,Romantic Modern,0,0,8,12,0,-1.6605685,7.4697104
+Hey Mor Debota,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,2,2,10,6.204459,8.670509
+Jodi Baran Karo Tabe Gabo Na,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,2,12,10,5.2390165,8.909178
+Ami Jani Na,Asha Bhosle|Abhijeet Bhattacharya,bn,Bangla Film,Duet Playback,1,0,8,4,7,-0.8860977,7.995776
+Aaro Kachakachi,Kishore Kumar|Asha Bhosle,bn,Bangla Film,Duet Playback,1,0,13,0,12,-2.9393628,5.07907
+Ogo Abar Natun Kore,Mukesh,bn,Bangla Film,Romantic Playback,1,0,13,0,12,-3.131391,4.386919
+Deep Nibhey Gechhey,Indrani Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,0,11,5,0.119418025,6.3419604
+Mon Mor Megher Sangi,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,9,2,10,0.66798854,9.230472
+Aachhey Dukkha,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,8,4,7,-1.957313,7.3831663
+Saat Sakaale,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,8,11,10,-1.6088046,7.2203865
+Jakhan Ami Anek Dure,Kishore Kumar,bn,Bangla Film,Melancholy Playback,1,0,11,7,9,3.4346702,8.004086
+Prano Bhariye Trisha Hariye,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,3,0,12,-2.9918492,3.2085605
+Mor Bhabonare (Female),SAHANA BAJPEI,bn,Rabindra Sangeet,Tagore Classic,7,0,9,4,0,-0.27922943,8.37622
+Hai Re Poda Banshi,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,0,7,9,0.504237,6.1095414
+Tomar Oi Dhupchhaya Rang,Shyamal Mitra,bn,Adhunik Bangla,Romantic Modern,0,0,13,0,12,-2.4690545,5.107495
+Je Chhilo Amar Swapancharini,Srikanto Acharya,bn,Adhunik Bangla,Romantic Modern,0,0,3,8,3,-3.509823,3.4307003
+Dinguli Mor,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Nostalgia,7,0,8,2,10,0.28608468,7.7037244
+Mora Dujonai Rajar Jamai,Anup Ghoshal,bn,Children's Music,Fantasy Song,4,0,11,12,5,5.2224298,9.379531
+Amay Nahe Go,Feroza Begum,bn,Nazrul Geeti,Nazrul Romantic,6,0,11,8,5,2.781418,8.61359
+Naam Dhore Kejano,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,8,7,7,-0.15632609,7.474281
+Shai Pakhitar,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,2,11,2,5.665501,9.4707985
+Deko Naa Aamarey,Indrani Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,0,9,12,-1.5144727,5.681965
+O Amar Pran Sajani (Champabothi Kanya),Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,9,4,0,0.44796458,9.14773
+Phote Je Rakta Golap,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,3,11,12,-2.7417068,3.6515858
+Bhulo Na Pratham Se Din,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-1.837992,5.8988733
+Jadi Akash Hoto Ankhi,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,9,0,5,0.8851812,8.9121065
+Tung Tung Tung,C.L.T.,bn,Adhunik Bangla,Romantic Modern,0,0,3,8,3,-3.1502838,3.7488813
+Habuchandra Raja,Antara Chwdhury,bn,Children's Music,Fantasy Song,4,0,0,7,9,-0.8548754,5.6092033
+E Mon Amar Hariye Jay,Asha Bhosle,bn,Bangla Film,Melancholy Playback,1,0,0,8,3,-0.29707673,5.844026
+Rangiye Diye Jao,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,3,0,12,-2.4381356,3.7624493
+Tomar Kaache Jabo,Alka Yagnik,bn,Bangla Film,Romantic Playback,1,0,11,11,2,3.5660217,9.128336
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,bn,Adhunik Bangla,Romantic Modern,0,0,12,2,2,8.089131,9.536377
+Jafrani Rang Akashe,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,9,2,10,1.6635089,8.654209
+Tomar Pujar Chhaley,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Devotional,7,0,13,12,5,-1.4172404,5.2626657
+Shyam Roop Dhariya,S. D. Burman,bn,Adhunik Bangla,Romantic Modern,0,0,9,2,10,0.68933433,8.069656
+O Jhar Jhar Jharna,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,5,2,2,5.73414,8.606091
+"Madhur, Tomar Shesh Jey Na Pai",Indrani Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,13,0,12,-2.703801,4.5616884
+Kar Milano Chao Birahi,Indrani Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,9,11,10,0.67784387,9.226095
+Pran Chay Chokkhu Na Chay,Sagar Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,8,4,3,-1.3237668,6.002599
+Amar Ga Chhamchham Kare,Asha Bhosle|Bappi Lahiri,bn,Bangla Film,Duet Playback,1,0,9,4,0,-0.002376351,8.839782
+Esse Chhile Tobu,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,13,8,3,-2.6142888,5.6174946
+Ore Mon Pakhi,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,0,9,3,-0.2654802,5.652047
+Bare Bare Ke Jeno Dake,Manabendra Mukherjee,bn,Adhunik Bangla,Romantic Modern,0,0,0,12,0,-0.19100653,6.1436906
+Beshi Ki Boli Jakhon Boli,Bappi Lahiri|Asha Bhosle,bn,Bangla Film,Duet Playback,1,0,2,7,9,5.7524934,9.545604
+Chalo Chole Jai Haate Haat Rekhe,Asha Bhosle|R. D. Burman,bn,Bangla Film,Duet Playback,1,0,0,9,12,-0.88370776,6.668685
+Bandha Moner Duar Diyechhi,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-1.1421286,7.49263
+Haowa Megh Saraye Phul Jharaye,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,6,8,5,0.37826937,6.836847
+Khukumani Go Sonaa,Antara Chwdhury|Sabita Chowdhury,bn,Children's Music,Children's Song,4,0,11,2,10,4.1595135,8.505571
+Diner Shese Ghumer Deshe,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,6,7,9,1.6232622,7.979467
+Tari Amar Hathat Dubey Jai,Indrani Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,8,12,5,-2.0978875,6.5588055
+Ami Tomay Jato Shuniyechhilem Gaan,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,0,9,12,-0.0062598293,5.817253
+Tomar Dake Sara Dite,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,6,12,5,0.8600187,7.8198895
+Ki Je Bhabi Elomelo,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,0,5,-2.1927867,6.2545233
+Ekta Gaan Likho Amar Janyo,Pratima Banerjee,bn,Adhunik Bangla,Romantic Modern,0,0,8,8,7,-1.7491763,7.155734
+Ei Agune Haat Rakho,Nachiketa Chakraborty,bn,Adhunik Bangla,Romantic Modern,0,0,13,7,9,-1.7241725,5.637016
+Ami To Tomar Chirodiner Hnasi Kannar Sathi,Nirmal Mishra,bn,Adhunik Bangla,Romantic Modern,0,0,8,4,0,-1.5788802,7.6621866
+Dekte Dekte Din Chole,Mahendra Kapoor,bn,Bangla Film,Romantic Playback,1,0,3,11,3,-3.1467543,4.2577834
+Amio Pather Mato,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-0.8538807,7.5952897
+Dure Dure Kachhe Kachhe,Aarti Mukherji,bn,Bangla Film,Melancholy Playback,1,0,9,12,7,0.80875325,8.726749
+Lakshmiti Dohai Tomar,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-3.209252,3.3969266
+Ekhono Sarengita Bajchhe,Haimanti Shukla,bn,Adhunik Bangla,Romantic Modern,0,0,8,4,3,-2.6843164,6.135508
+Angur Angur Chokh,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,0,9,12,-0.8799943,6.7284164
+Je Jon Premer Bhav Jane Na,Runa Laila,bn,Adhunik Bangla,Romantic Modern,0,0,0,12,5,0.16687801,6.562185
+O Duti Ankhi Jeno,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,8,11,10,-1.4622346,7.2454543
+Tumi Nirmal Karo Mangal Kare,Panna Lal Bhattacharjee,bn,Devotional,Spiritual,5,0,13,9,12,-2.8398557,4.3251257
+Nabo Anande Jago Aaji,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,9,4,7,0.9990265,8.855027
+Kaharba Noy Dadra Bajao,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,9,4,7,0.32403606,8.803511
+Amay Prashna Kare Neel Dhrubatara,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,0,9,12,-1.0877982,5.525156
+Banya Banya E Aranya,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,11,9,7,3.7802734,8.613063
+Ki Gabo Ami Ki Shunabo,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-3.1146922,4.089519
+Praaney Gaan Naai,Indrani Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,6,9,7,1.000134,7.906614
+Dak Pathale Kaal Sakale,Asha Bhosle|R. D. Burman,bn,Bangla Film,Duet Playback,1,0,6,2,7,1.5542803,8.216201
+Tumi Esechhile Porshu,S. D. Burman,bn,Adhunik Bangla,Romantic Modern,0,0,9,2,10,1.5184216,8.778906
+Jani Na Se Kon Sudur Pare,Haimanti Shukla,bn,Adhunik Bangla,Romantic Modern,0,0,9,2,0,0.29621008,8.958856
+Dil Dariyar Majhete,Purna Das Baul,bn,Bangla Folk,Baul,2,0,0,9,7,-0.94158727,6.690043
+Jani Nai Go Sadhan,Debabrata Biswas|Others,bn,Rabindra Sangeet,Tagore Classic,7,0,0,12,5,0.0441968,6.8634872
+Ei Je Nadi Jay Sagare,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,13,0,12,-2.747791,5.495173
+Kar Manjir Baje Rini,Shyamal Mitra,bn,Adhunik Bangla,Romantic Modern,0,0,9,2,0,0.2517804,8.845646
+Khonpar Ei Golap Diye,Sivaji Chatterjee,bn,Adhunik Bangla,Romantic Modern,0,0,6,11,12,1.6845021,7.295266
+Tumi Jey Surer Aagun,Indrani Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,6,8,7,2.161474,8.070487
+Bharat Amar Bharat Barsha,Manna Dey,bn,Bangla Film,Romantic Playback,1,0,13,0,12,-2.7686944,5.3280425
+Din Jaye Raat Jaye,Anuradha Paudwal,bn,Devotional,Bhajan,5,0,13,11,12,-2.8020563,4.3349886
+Bahudiner Agete Godhulir Belate,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,8,4,12,-0.92861515,7.2932415
+Amar Sesh Paraner Kodi,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Romantic,7,0,8,4,7,-2.311821,6.639204
+Aaj Mon Cheyechhe,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,13,8,3,-1.8633509,5.162056
+Ei Je Heri Go Debi Amari,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,0,12,3,-1.0060307,5.326684
+Jiya Manat Na - Thumree,Mahendra Kapoor,bn,Bangla Film,Romantic Playback,1,0,0,7,9,0.76548564,6.3796663
+Akaraney Akaley Mor,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,8,11,10,-1.5297668,7.201383
+Se To Elo Na,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,9,2,10,-0.07580454,8.74669
+Ei Sundar Swarnali Sandhaye,Geeta Dutt,bn,Bangla Film,Romantic Playback,1,0,6,4,7,0.91464823,7.459746
+Payal Baje Chham Chham Chham - Thumree,Mahendra Kapoor,bn,Bangla Film,Romantic Playback,1,0,6,7,9,1.019638,7.3681173
+Chinechhi Chinechhi Tomar E Mon,Aarti Mukherji,bn,Bangla Film,Romantic Playback,1,0,13,8,3,-2.740158,5.99063
+Bhalobashar Moto Bhalo Kauke,Udit Narayan,bn,Bangla Film,Romantic Playback,1,0,0,7,9,0.4408107,6.187754
+Swapney Aamaar Mone Holo,Indrani Sen,bn,Rabindra Sangeet,Tagore Classic,7,0,8,8,5,-1.086021,7.4819937
+Ei Edike Eso Esona,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,11,10,-1.5439501,6.322255
+Milan Hobe Katodine,Farida Parveen,bn,Bangla Folk,Lalon,2,0,0,0,5,-0.7483239,5.4170947
+Baani Tabo Dhai,Debabrata Biswas,bn,Rabindra Sangeet,Tagore Classic,7,0,11,11,5,3.3119326,8.255197
+Na Na Kache Eso Na,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,11,12,0,2.850696,8.913271
+Tomar Bhubane Phuler Mela,Akhil Bandhu Ghosh,bn,Adhunik Bangla,Romantic Modern,0,0,3,8,3,-3.4485078,3.8579316
+Bojho Na Keno Je,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,11,9,7,2.605242,8.455731
+Oi Padma Chokher Neel Jamunay,Shyamal Mitra,bn,Adhunik Bangla,Romantic Modern,0,0,9,4,7,0.33133075,8.354151
+Kon Bhiruke Bhoy Dekhabi,Suchitra Mitra,bn,Rabindra Sangeet,Tagore Classic,7,0,8,11,10,-1.6501334,6.825619
+Pather Shes Kothay,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,13,4,3,-2.4251423,5.6921315
+Jodi Jante Chao Tumi,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,6,9,7,1.1037802,7.5281343
+O Mago Ma,Antara Chwdhury,bn,Children's Music,Comic Song,4,0,8,12,0,-1.6552056,7.410323
+Tomari Jharnatalar Nirjane,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,0,11,10,-0.24372537,7.2430696
+Aaha Ki Darun Dekhtey,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,6,8,7,0.9999626,7.9309344
+Baro Bishad Bhara Rajani,Lata Mangeshkar|Chorus,bn,Bangla Film,Duet Playback,1,0,0,12,3,-1.2789414,5.4188156
+E Kemon Ranga Jadu,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,13,4,7,-2.6517406,5.7742305
+Tobu Bole Keno Sahasai,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,13,0,5,-3.0562353,5.800362
+Krishnachura Shon Shon Shon,Lata Mangeshkar,bn,Bangla Film,Romantic Playback,1,0,8,4,0,-1.0339204,8.083033
+Tui Ki Amar Putul Putul,Manna Dey,bn,Children's Music,Children's Song,4,0,0,12,3,-0.49854028,5.637052
+Naam Amar Kishore Kumar Ganguly,Kishore Kumar,bn,Adhunik Bangla,Tribute Song,0,0,2,7,9,5.818923,9.652845
+Jeno Kichhu Mone Korona,Akhil Bandhu Ghosh,bn,Adhunik Bangla,Romantic Modern,0,0,6,12,2,0.15571477,7.452496
+Chokhe Naame Brishti,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,2,10,-1.5537766,6.7174697
+Opare Thakbo Ami,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,11,12,2,4.3482714,8.836656
+Khub Chena Chena Mukhkhani,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,8,4,7,-1.0332236,7.5700397
+O Shyam Jakhan Takhan,Sujata Mukherjee|Aarti Mukherji,bn,Bangla Film,Duet Playback,1,0,0,0,12,-1.4196773,5.486565
+Baba O Khoka,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,13,4,3,-2.5894759,5.821404
+Amar Mon Manne Na,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,9,11,10,0.98719716,8.356706
+Ekti Kunri Duti Pata,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,0,8,3,-0.4988579,5.8068266
+Putul Putul,Antara Chwdhury,bn,Children's Music,Children's Song,4,0,2,2,2,5.682538,9.092142
+Aamar Moner Kato Sukh Niye,Mukesh,bn,Bangla Film,Romantic Playback,1,0,12,2,2,9.224116,8.290208
+Jaubansarosinire,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,3,0,5,-3.1842782,3.3742213
+O Mor Moyna Go,Lata Mangeshkar,bn,Bangla Folk,Folk Song,2,0,9,4,10,0.1650237,8.909719
+Nijhum Nishithe,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,13,0,12,-2.1100178,5.5762725
+E Manihar Amay Nahi Saje,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,8,8,5,-1.6630517,6.367919
+O Aamar Kandher Anchal,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,9,2,10,1.9586209,8.991295
+Anek Jamano Byatha,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,6,9,0,1.3284762,7.8729334
+Jodi Jante Chao Tumi,Hemant Kumar,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-2.6256502,3.6373603
+Saat Suron Ki Bandh Payeliya,Hemant Kumar|Shakti Thakur,bn,Bangla Film,Duet Playback,1,0,11,2,10,3.2442393,9.293753
+Ekkhana Megh Bhese Elo Akashe,Bhupen Hazarika,bn,Adhunik Bangla,Romantic Modern,0,0,6,12,5,1.5659865,7.8595996
+Chokhe Chokh Rekhe - Kishore Kumar,Kishore Kumar,bn,Bangla Film,Romantic Playback,1,0,3,8,3,-3.295858,3.426708
+Ore Mon Ke Emon Daga,Amit Kumar|Bhupinder Singh|Mohammed Rafi|Aarti Mukherji,bn,Bangla Film,Duet Playback,1,0,6,7,9,0.9219363,6.5332646
+E Mon Mor Jani Na Kotha Je Haralo,Nirmal Mishra,bn,Adhunik Bangla,Romantic Modern,0,0,3,0,12,-2.6163375,3.6395931
+Amar Silpi Kishore Kumar,Kumar Sanu,bn,Bangla Film,Romantic Playback,1,0,11,7,9,3.9132075,8.460359
+Ke Jay Re,Asha Bhosle,bn,Bangla Film,Romantic Playback,1,0,13,11,12,-2.4176435,5.1251936
+Pretty in Pink,The Psychedelic Furs,en,rock,permanent wave,13,1,1,13,6,10.36005,7.8784704
+Good Stuff,UGK,en,rap,southern hip hop,12,1,10,5,13,12.574051,4.9071126
+Upgraded,Capital Kings,en,edm,progressive electro house,8,1,7,5,8,11.675186,5.7812724
+Body Language (feat. Usher & Tinashe),Kid Ink,en,pop,post-teen pop,10,1,5,10,4,8.37196,8.844879
+My Homeboy's Girlfriend,8Ball,en,rap,southern hip hop,12,1,4,6,6,13.46542,4.581963
+The Needle And The Spoon,Lynyrd Skynyrd,en,rock,classic rock,13,1,12,1,1,9.383622,8.704814
+Rain,Status Quo,en,rock,hard rock,13,1,12,13,1,9.357145,8.808213
+X's We Share,Jodeci,en,r&b,new jack swing,11,1,7,6,11,11.112912,6.370383
+Feelin' Alright,Joe Cocker,en,rock,album rock,13,1,7,1,11,11.942607,5.468592
+Hurts 2B Human (feat. Khalid) - Midnight Kids Remix,P!nk,en,edm,big room,8,1,12,1,1,9.525954,9.059204
+No One Knows Who We Are (Radio Edit) (feat. Lights),Kaskade,en,edm,progressive electro house,8,1,1,6,1,10.424952,8.453479
+Stronger,Prismo,en,pop,electropop,10,1,2,3,4,6.5569596,9.305658
+I Feel The Love,Tritonal,en,pop,dance pop,10,1,1,13,6,9.533874,8.008322
+Futsal Shuffle 2020,Lil Uzi Vert,en,rap,hip hop,12,1,2,3,4,6.2514973,9.046253
+Baby I'm Yours - Re-Recorded,Shai,en,r&b,new jack swing,11,1,1,13,6,10.886764,7.6307597
+Come To Life,Neon Feather,en,pop,dance pop,10,1,2,13,2,6.465387,8.5724745
+Homicide (feat. Eminem),Logic,en,rap,hip hop,12,1,7,5,8,11.645565,5.85353
+The Ghost in You,The Psychedelic Furs,en,rock,permanent wave,13,1,12,1,11,9.26322,8.928395
+Is It Love,3LAU,en,latin,tropical,9,1,12,13,1,8.85935,8.76853
+On GOD (with YG & Tyga feat. A$AP Ferg & A$AP Rocky),Mustard,en,rap,hip hop,12,1,4,6,6,13.129817,4.899326
+Glory Days,Bruce Springsteen,en,rock,hard rock,13,1,7,6,1,11.592661,5.039701
+Jungle Boogie,Kool & The Gang,en,r&b,urban contemporary,11,1,10,6,6,12.60279,6.289781
+Everything and More (feat. Aaron Cole),Hollyn,en,pop,dance pop,10,1,5,10,4,7.2456784,9.077079
+In The Lap Of The Gods... Revisited - Remastered 2011,Queen,en,rock,album rock,13,1,2,13,11,5.9916964,8.769878
+The Humpty Dance,Digital Underground,en,r&b,new jack swing,11,1,4,5,13,12.4266615,4.4452543
+Shake Whatcha Mama Gave Ya',Poison Clan,en,rap,southern hip hop,12,1,2,3,13,5.8032684,9.131671
+Have You Ever,Brandy,en,r&b,new jack swing,11,1,5,13,10,7.586917,8.508791
+The Way I Are (Dance with Somebody) (feat. Lil Wayne) - Spotify Version,Bebe Rexha,en,r&b,hip pop,11,1,9,13,2,2.0936997,8.525102
+Don't Check On Me (feat. Justin Bieber & Ink),Chris Brown,en,latin,latin pop,9,1,7,1,11,11.169961,5.7642026
+Hail Mary,2Pac,en,rap,gangster rap,12,1,7,5,13,11.669421,5.5697074
+Centerfold,The J. Geils Band,en,rock,classic rock,13,1,1,1,11,9.606566,7.6731944
+Waverunners,dopeSMOOTHIES,en,rap,southern hip hop,12,1,2,5,13,5.3932323,8.803776
+Hallucinogenics,Matt Maeson,en,pop,indie poptimism,10,1,5,13,6,7.6866393,8.531249
+Somebody I'm Not,Martin Jensen,en,latin,tropical,9,1,7,1,1,11.062918,6.1240883
+Fangirl,Lil Peep,en,r&b,urban contemporary,11,1,11,13,2,4.559303,8.700578
+Lovers on the Sun (feat. Sam Martin),David Guetta,en,edm,electro house,8,1,5,3,4,7.50758,8.912639
+Round and Round,Ratt,en,rock,classic rock,13,1,7,6,1,10.826265,5.644297
+With You,Tony Terry,en,r&b,new jack swing,11,1,12,1,11,9.220556,8.76231
+More Than You Know,Axwell /\ Ingrosso,en,pop,dance pop,10,1,5,3,4,7.2430634,9.149523
+But God,Isaac Carree,en,r&b,neo soul,11,1,10,5,8,13.031036,6.0355144
+OCD (with Dwn2earth),Logic,en,rap,hip hop,12,1,4,6,6,13.172547,4.790193
+Cool,Jonas Brothers,en,r&b,hip pop,11,1,10,6,6,13.068706,5.8492465
+Sunshine (feat. Lea) - Explicit Album Version,Lil' Flip,en,rap,hip hop,12,1,10,6,6,13.163658,5.248315
+Cum on Feel the Noize,Quiet Riot,en,rock,classic rock,13,1,12,3,4,9.147925,9.560707
+Electricity,Culture Code,en,edm,pop edm,8,1,12,13,1,9.298491,8.829152
+Emotion,Mia Rodriguez,en,r&b,hip pop,11,1,2,13,2,7.0967274,9.424735
+Take Me Home (feat. Bebe Rexha),Cash Cash,en,edm,progressive electro house,8,1,7,6,8,11.435781,5.9321923
+Animals,Martin Garrix,en,edm,big room,8,1,5,6,2,7.341392,8.866797
+I Need A Lover,John Mellencamp,en,rock,classic rock,13,1,1,13,1,10.730031,6.787099
+Rock Wit U (Awww Baby),Ashanti,en,r&b,hip pop,11,1,10,10,4,12.911369,5.911466
+Keep Yourself Alive - 2011 Mix,Queen,en,rock,album rock,13,1,5,13,1,8.009757,8.877481
+The Next Time I Fall (with Amy Grant),Peter Cetera,en,rock,album rock,13,1,2,1,11,5.8133826,8.993445
+Where The Hood At,DMX,en,rap,gangster rap,12,1,1,5,8,11.475119,6.0409746
+Animal Instinct,The Cranberries,en,rock,album rock,13,1,5,3,4,7.562295,8.873021
+I'm Ready,Tevin Campbell,en,r&b,new jack swing,11,1,4,6,6,13.199595,4.94168
+The Boys Of Summer,Don Henley,en,rock,album rock,13,1,2,13,11,5.2740483,8.707669
+Did You Ever Think - Remix - Radio Edit,R. Kelly,en,r&b,new jack swing,11,1,10,10,13,13.253383,5.2106256
+Redbone,Childish Gambino,en,r&b,urban contemporary,11,1,5,13,11,7.747524,8.3390465
+I Just Want You,Caleb Hawley,en,r&b,neo soul,11,1,5,10,11,8.319478,8.900587
+Treat You Better,Shawn Mendes,en,pop,dance pop,10,1,7,10,4,11.608852,5.754751
+Bia' Bia',Lil Jon,en,rap,southern hip hop,12,1,4,5,13,13.598113,4.186329
+Clan In Da Front,Wu-Tang Clan,en,rap,southern hip hop,12,1,7,5,13,12.274849,4.8971076
+When I See You Smile,Bad English,en,rock,album rock,13,1,2,1,11,6.6659513,9.277958
+Alladat,Jarren Benton,en,r&b,urban contemporary,11,1,1,5,8,10.281178,7.1921597
+Fireflies,Owl City,en,pop,post-teen pop,10,1,2,13,2,4.8336186,8.811212
+Thinking About You (feat. Ayah Marar),Calvin Harris,en,pop,electropop,10,1,10,10,6,13.001994,6.131322
+Be the One,Dua Lipa,en,pop,electropop,10,1,12,10,4,10.357827,8.556563
+Not Gon' Cry,Mary J. Blige,en,r&b,new jack swing,11,1,5,10,11,8.06721,8.890786
+Feel,Victors,en,pop,indie poptimism,10,1,7,6,6,11.066555,6.433443
+"You're Gonna Go Far, Kid",The Offspring,en,pop,post-teen pop,10,1,1,13,6,11.286421,7.173353
+Can't You See,The Marshall Tucker Band,en,rock,album rock,13,1,2,13,2,7.2186484,9.521992
+Money For Nothing,Dire Straits,en,rock,classic rock,13,1,1,6,9,10.999656,8.234879
+Used To,Drake,en,r&b,urban contemporary,11,1,1,10,4,10.663569,8.635863
+Banquet,Bloc Party,en,rock,album rock,13,1,12,3,4,9.459689,8.802373
+How We Party,R3HAB,en,edm,big room,8,1,7,6,1,10.937754,5.935011
+Outta My System,Bow Wow,en,r&b,hip pop,11,1,4,6,13,13.292682,4.3958845
+2 MUCH (feat. 24hrs) (feat. 24hrs),Flosstradamus,en,rap,trap,12,1,2,3,2,6.2302194,8.86854
+Better Give U Up,FKJ,en,r&b,neo soul,11,1,1,10,4,10.632463,8.796905
+With Me,dvsn,en,r&b,neo soul,11,1,1,6,9,10.939912,7.79441
+Bang Bang,YNW Melly,en,rap,hip hop,12,1,5,5,8,7.8107834,9.225966
+Renaissance (feat. Clairity),Steve James,en,edm,pop edm,8,1,5,1,11,7.591904,8.483946
+2U (feat. Justin Bieber),David Guetta,en,pop,electropop,10,1,2,3,4,5.6108155,9.3441925
+Stutter,Marianas Trench,en,pop,post-teen pop,10,1,10,10,4,12.615706,5.5092273
+Boom Boom Pow,The Black Eyed Peas,en,pop,post-teen pop,10,1,1,6,1,11.210871,6.8785324
+Make tha Trap Say Aye (feat. Gucci Mane),OJ Da Juiceman,en,rap,southern hip hop,12,1,5,5,8,8.9490185,8.348185
+You Are the One Thing,Bright City,en,edm,progressive electro house,8,1,11,3,2,4.8292913,9.118817
+High School Dropout,Neon Dreams,en,pop,electropop,10,1,4,5,8,13.456331,4.6104174
+Make 'Em Say Ugh,Master P,en,rap,southern hip hop,12,1,4,5,13,12.445568,4.429924
+Ruby,Kaiser Chiefs,en,rock,permanent wave,13,1,1,10,4,10.767667,8.729548
+Paranoid,Black Sabbath,en,rock,classic rock,13,1,6,3,2,1.1643804,7.8419876
+Easy Love,Sigala,en,latin,tropical,9,1,7,13,1,12.137263,4.9315705
+Paradise,Demun Jones,en,rap,southern hip hop,12,1,7,1,1,11.788439,5.166547
+The Flute Song,Russ,en,rap,hip hop,12,1,5,10,8,6.862522,8.724641
+Radar Love,Golden Earring,en,rock,album rock,13,1,12,6,9,8.714931,9.584112
+slow motion,flor,en,pop,indie poptimism,10,1,10,6,6,12.682665,6.4527693
+Thief,Ookay,en,rap,trap,12,1,12,13,2,8.825579,8.833551
+Society,Eddie Vedder,en,rock,permanent wave,13,1,0,9,12,-0.26146874,7.2713394
+Starstruck,Christopher Wilde,en,pop,post-teen pop,10,1,5,13,2,7.755643,8.295738
+I Don't Fuck With You,Big Sean,en,pop,post-teen pop,10,1,10,6,6,12.860735,5.9885244
+Still Frame,Trapt,en,rock,hard rock,13,1,4,5,8,12.508989,4.448267
+Issues/Hold On,Teyana Taylor,en,r&b,urban contemporary,11,1,1,1,11,10.177778,8.734837
+Stellar,Jamila Woods,en,r&b,neo soul,11,1,2,1,11,5.158771,8.71144
+Sloppy Seconds,Watsky,en,pop,indie poptimism,10,1,1,10,4,11.284395,7.4955635
+Party Rock Anthem,LMFAO,en,pop,post-teen pop,10,1,5,10,4,8.795301,8.225615
+Right Down the Line,Gerry Rafferty,en,rock,album rock,13,1,1,1,11,9.354659,7.856006
+Ether,Nas,en,rap,gangster rap,12,1,4,5,13,13.58686,4.1758037
+Bootie in Your Face - No Rock Drop,Deorro,en,edm,electro house,8,1,10,6,6,12.302351,6.6143813
+Calm Down,G-Eazy,en,rap,hip hop,12,1,1,5,13,10.23286,7.2904716
+Cheerleader (Felix Jaehn Remix) - Radio Edit,OMI,en,latin,latin hip hop,9,1,1,1,6,10.85027,7.7427835
+Heartbeat,Claptone,en,pop,electropop,10,1,1,10,4,10.8765745,8.413333
+Kali Yuga,Ghostemane,en,rap,gangster rap,12,1,12,13,1,9.54746,8.521905
+First Time - Gryffin Remix,Kygo,en,edm,electro house,8,1,1,6,6,10.504174,7.2091346
+Finally // beautiful stranger,Halsey,en,pop,dance pop,10,1,11,3,4,3.8996408,8.674254
+My Body,Young the Giant,en,pop,indie poptimism,10,1,1,13,1,9.589884,8.073225
+Save It For A Rainy Day,Stephen Bishop,en,rock,classic rock,13,1,12,1,11,8.155436,9.051083
+Do You Think About Me,50 Cent,en,rap,gangster rap,12,1,7,5,13,12.243491,4.6613574
+One Woman Man,Dave Hollister,en,r&b,new jack swing,11,1,7,6,1,11.184692,5.3706045
+No More,Disturbed,en,rock,hard rock,13,1,7,6,1,12.20178,4.813999
+Lullaby - Calvo Remix,Sigala,en,edm,electro house,8,1,5,3,4,7.380235,9.139636
+You Make My Dreams - Remastered,Daryl Hall & John Oates,en,pop,post-teen pop,10,1,5,13,2,7.890202,8.40311
+United We Are,Hardwell,en,edm,big room,8,1,1,10,4,10.90693,8.204268
+Love Will Tear Us Apart - 2010 Remaster,Joy Division,en,pop,electropop,10,1,1,13,6,10.065064,7.656099
+Again,Wun Two,en,latin,tropical,9,1,7,1,11,11.165563,5.844101
+Perfect Strangers,Jonas Blue,en,pop,indie poptimism,10,1,10,13,6,12.450502,6.643583
+Applause,Lady Gaga,en,pop,post-teen pop,10,1,12,3,4,10.194403,8.124659
+Turnin' Me Up,BJ The Chicago Kid,en,r&b,neo soul,11,1,4,6,6,13.461144,4.347696
+Faded - Dash Berlin Remix,Alan Walker,en,pop,electropop,10,1,12,13,2,8.889274,9.2120495
+TRUE - Single Edit,Spandau Ballet,en,pop,electropop,10,1,1,6,11,10.970022,7.7164564
+Heroes (we could be),Alesso,en,pop,dance pop,10,1,5,13,2,8.632485,8.6675625
+Picture Perfect,Man Overboard,en,pop,post-teen pop,10,1,12,13,2,9.250537,8.625448
+Shoot Shoot - 2007 Remastered Version,UFO,en,rock,hard rock,13,1,1,13,6,9.487861,8.145185
+Back In Black,AC/DC,en,pop,post-teen pop,10,1,2,13,2,5.604592,8.906046
+The Weekend - Funk Wav Remix,SZA,en,pop,electropop,10,1,7,1,1,11.055264,5.711311
+Beauty,Dru Hill,en,r&b,urban contemporary,11,1,11,1,11,4.445552,8.561193
+The Boys Are Back In Town,Thin Lizzy,en,rock,hard rock,13,1,7,1,1,10.740536,5.8573546
+Down 4 Whateva,Nuttin' Nyce,en,r&b,new jack swing,11,1,7,6,1,11.688596,5.181927
+Another Day,Jamie Lidell,en,rock,album rock,13,1,10,13,6,12.362325,6.8100758
+Gz And Hustlas (feat. Nancy Fletcher),Snoop Dogg,en,rap,gangster rap,12,1,4,5,13,13.516064,4.291537
+Turning Up,ARASHI,en,pop,dance pop,10,1,10,6,6,13.114047,6.05788
+Sometimes When We Touch,Dan Hill,en,rock,album rock,13,1,2,1,11,5.6071224,8.680402
+Closely,August Roads,en,pop,indie poptimism,10,1,8,9,0,-2.0698576,6.421496
+High Pressure Dave,HEALTH,en,pop,electropop,10,1,1,6,6,10.646699,7.616796
+Metal,Gary Numan,en,rock,permanent wave,13,1,12,1,1,9.3130865,8.652499
+Take Me Home Tonight,Eddie Money,en,rock,album rock,13,1,1,13,6,10.876481,7.1797485
+Blue Lights,Jorja Smith,en,r&b,urban contemporary,11,1,7,1,11,11.160718,5.7551684
+Rehab,Amy Winehouse,en,r&b,neo soul,11,1,10,6,6,12.876232,4.8327885
+Emotionless,Drake,en,r&b,hip pop,11,1,2,5,2,6.2766705,8.837632
+Morning Starship,Morrissey,en,rock,classic rock,13,1,5,13,2,8.87612,8.228091
+Don't Worry (feat. Ray Dalton) - Matoma Remix,Madcon,en,edm,pop edm,8,1,10,6,6,12.717406,6.363404
+CAPO,NLE Choppa,en,rap,gangster rap,12,1,1,13,2,9.1375065,7.950991
+All Night,Parov Stelar,en,edm,electro house,8,1,5,3,4,8.53759,8.311782
+Burden,Foy Vance,en,r&b,neo soul,11,1,6,1,10,1.6262262,8.542326
+Band of Gypsies - Edit,Cypress Hill,en,latin,latin hip hop,9,1,2,10,4,6.3186207,9.684325
+Break Your Heart,Taio Cruz,en,edm,pop edm,8,1,1,13,6,11.328415,6.816551
+Adios,EVERGLOW,en,pop,dance pop,10,1,2,3,4,6.770308,9.069752
+Hate Me Now (feat.- Puff Daddy),Nas,en,rap,gangster rap,12,1,7,5,13,11.883917,5.3105526
+Dancer,Gino Soccio,en,edm,progressive electro house,8,1,12,6,9,10.277783,8.785993
+Look What You Made Me Do,Taylor Swift,en,pop,post-teen pop,10,1,12,3,4,9.4332905,8.53664
+Sever,Red,en,rock,hard rock,13,1,12,10,4,9.262025,9.523009
+"Why You Get Funky On Me - From ""House Party"" Soundtrack",Today,en,r&b,new jack swing,11,1,10,6,6,12.612667,6.5189624
+Snapping,CHUNG HA,en,pop,dance pop,10,1,1,10,4,10.54457,8.239486
+We Are,ONE OK ROCK,en,rock,album rock,13,1,12,13,2,8.057328,9.103281
+Adios,Kim Viera,en,latin,latin pop,9,1,5,13,2,8.316539,8.166227
+Girls Just Want to Have Fun,Cyndi Lauper,en,pop,electropop,10,1,1,13,1,11.484914,6.968549
+Amsterdam,Rick Ross,en,rap,southern hip hop,12,1,1,6,1,10.373818,8.638944
+Intoxicated - Radio Edit,Martin Solveig,en,pop,electropop,10,1,1,6,6,10.714578,7.7047853
+Answer is near,ONE OK ROCK,en,rock,album rock,13,1,2,13,8,5.6551604,8.9192915
+Loyal,ODESZA,en,rap,trap,12,1,5,13,2,8.706469,8.804781
+Work,Rihanna,en,rap,southern hip hop,12,1,7,6,1,11.201941,5.59049
+Go to Sleep Little Baby,Niykee Heaton,en,pop,indie poptimism,10,1,11,1,11,4.568747,8.464048
+Almeda,Solange,en,r&b,neo soul,11,1,1,6,6,9.142568,8.013459
+6 Man,Drake,en,r&b,urban contemporary,11,1,4,5,13,12.494557,4.4340024
+Show Me Love - Original Mix,Sam Feldt,en,edm,progressive electro house,8,1,12,6,9,8.775309,9.137771
+Las Palabras De Amor (The Words Of Love) - Remastered 2011,Queen,en,rock,album rock,13,1,12,6,6,10.081051,8.934272
+Holy,Jamila Woods,en,r&b,neo soul,11,1,11,13,10,4.231133,8.482982
+How Sweet It Is (To Be Loved by You),James Taylor,en,rock,classic rock,13,1,10,1,11,11.909875,7.0464253
+No Fear (feat. Donna Missal),Rudimental,en,edm,electro house,8,1,1,10,6,10.880678,7.747756
+World In My Eyes - 2006 Remastered Version,Depeche Mode,en,pop,electropop,10,1,7,3,4,11.250518,5.659324
+ghostin,Ariana Grande,en,pop,post-teen pop,10,1,11,1,11,3.6208835,8.081585
+Lost,Gareth Emery,en,edm,progressive electro house,8,1,1,13,1,10.171521,7.3850937
+679 (feat. Remy Boyz),Fetty Wap,en,rap,hip hop,12,1,5,5,8,6.928377,8.5069895
+Chemistry,Wiwek,en,edm,progressive electro house,8,1,10,6,6,11.423824,6.779196
+High Hopes,Panic! At The Disco,en,pop,post-teen pop,10,1,4,6,1,12.859489,4.8106127
+Paris,Magic Man,en,pop,indie poptimism,10,1,2,13,2,6.618575,8.476313
+Cameras,Matt and Kim,en,pop,indie poptimism,10,1,5,13,2,7.8224764,9.121483
+Ain't My Fault - R3hab Remix,Zara Larsson,en,rap,trap,12,1,1,13,1,10.195392,7.2789974
+Blue Ocean Floor,Justin Timberlake,en,r&b,urban contemporary,11,1,13,7,9,-2.774083,5.277118
+Behind Barz - Bonus,Drake,en,rap,hip hop,12,1,5,1,10,8.54345,8.748723
+Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,en,pop,indie poptimism,10,1,7,6,1,11.022303,6.4468913
+Sending My Love,Zhané,en,r&b,new jack swing,11,1,1,6,11,10.042133,7.8099837
+Only Girl,Kali Uchis,en,r&b,neo soul,11,1,5,3,4,7.4083757,9.209807
+Feeling Good,Demun Jones,en,rap,southern hip hop,12,1,1,13,1,10.722193,7.1948094
+Invisible Touch - 2007 Remaster,Genesis,en,rock,album rock,13,1,10,13,6,12.63591,6.5719876
+Another Day,Paul McCartney,en,rock,album rock,13,1,12,1,11,9.474441,8.347768
+Hey Now - Arty Remix,London Grammar,en,edm,progressive electro house,8,1,1,6,1,11.219064,6.813713
+Icarus,Kojey Radical,en,r&b,neo soul,11,1,1,5,13,10.555902,8.647442
+I just need U. - Capital Kings Remix,TobyMac,en,edm,progressive electro house,8,1,2,3,4,7.304198,9.32982
+Wait For You (feat. Maia Wright),Mike Williams,en,edm,progressive electro house,8,1,5,10,4,7.521571,8.815302
+It's your life (feat. Chris Willis),David Guetta,en,edm,progressive electro house,8,1,12,13,2,9.170882,8.855003
+Get Down,Nas,en,rap,gangster rap,12,1,4,5,13,13.453177,4.661361
+New Light,John Mayer,en,pop,dance pop,10,1,7,1,1,11.531669,5.1900177
+Nothin' But The Cavi Hit,Mack 10,en,rap,southern hip hop,12,1,10,10,6,13.255694,5.2910366
+Gucci Gang,Lil Pump,en,rap,gangster rap,12,1,1,1,6,9.544851,7.5970397
+Voices In My Head,NIVIRO,en,edm,big room,8,1,2,13,2,6.3832664,8.941297
+Next To Me,Axel Johansson,en,pop,dance pop,10,1,6,13,2,2.2908947,8.076791
+Self Importance,Kilo Kish,en,r&b,neo soul,11,1,2,10,4,5.970749,9.589537
+Neighbour,Verses,en,pop,dance pop,10,1,11,3,4,3.891143,8.725966
+Tonight,MOTi,en,edm,progressive electro house,8,1,5,3,4,7.3298335,9.247373
+It's Alright,Jodeci,en,r&b,new jack swing,11,1,1,3,4,10.681504,8.766141
+Better,Khalid,en,pop,electropop,10,1,2,10,11,6.4018116,9.16047
+Fractures,ILLENIUM,en,edm,pop edm,8,1,2,13,2,6.3645387,8.696693
+Bad - 2012 Remaster,Michael Jackson,en,rock,classic rock,13,1,7,6,1,11.670533,5.0490065
+Don't Miss Me? - UNKLFNKL Remix,Marianas Trench,en,pop,indie poptimism,10,1,7,6,6,11.690609,5.7284718
+Feeling Lonely,boy pablo,en,pop,indie poptimism,10,1,5,3,4,8.6696005,8.711203
+Afternoon,TENDER,en,pop,indie poptimism,10,1,11,3,4,3.2280715,8.895315
+Take It Off,Two Friends,en,pop,indie poptimism,10,1,10,6,6,12.046027,6.838586
+I Luv It,Jeezy,en,rap,southern hip hop,12,1,12,6,1,10.195739,8.863729
+MMMBop,Hanson,en,rock,permanent wave,13,1,7,6,1,11.805408,4.90262
+This Love - Acoustic,Maroon 5,en,latin,latin pop,9,1,10,1,11,11.807861,7.1124725
+Original Don (feat. The Partysquad) [Flosstradamus Remix],Major Lazer,en,rap,trap,12,1,1,13,1,11.23611,6.8900933
+Jailhouse Rock,Elvis Presley,en,rock,classic rock,13,1,2,3,4,5.17339,8.704376
+The House of the Rising Sun,The Animals,en,rock,hard rock,13,1,6,3,4,2.4681911,7.495057
+Ice Cream Man,Tyga,en,r&b,urban contemporary,11,1,1,5,8,11.121099,6.6107774
+Where I Won't Be Found,Seven Lions,en,edm,pop edm,8,1,5,13,2,8.365014,8.370068
+Breakaway,Kelly Clarkson,en,pop,post-teen pop,10,1,6,3,4,2.7200744,7.8006654
+On my shoulders,The Dø,en,rock,album rock,13,1,1,10,4,10.507625,8.624217
+Kids in Love - Don Diablo Remix,Kygo,en,pop,dance pop,10,1,2,3,4,7.154557,9.460781
+2 Of Amerikaz Most Wanted,2Pac,en,rap,southern hip hop,12,1,4,6,1,13.281327,4.4146376
+Torn,LeToya,en,r&b,urban contemporary,11,1,12,5,8,9.218634,9.111539
+Crashing (feat. Bahari),ILLENIUM,en,edm,pop edm,8,1,1,6,1,10.405171,8.704792
+Alarm,Olly James,en,edm,progressive electro house,8,1,10,5,8,11.402121,6.7502174
+Rise (feat. Skylar Grey),David Guetta,en,pop,electropop,10,1,5,10,4,7.334656,8.860444
+Wild Wild Son - Club Mix,Armin van Buuren,en,edm,progressive electro house,8,1,2,10,4,6.0104213,9.569136
+Back on the Chain Gang,Morrissey,en,rock,permanent wave,13,1,12,13,1,9.4309,8.720197
+Save Me Pt 2 (feat. Austin Lam),Ski Mask The Slump God,en,r&b,urban contemporary,11,1,5,1,11,8.393177,8.146011
+West End Girls - 2001 Remaster,Pet Shop Boys,en,rock,permanent wave,13,1,1,3,4,11.082014,8.025649
+Make Me Wanna Die,The Pretty Reckless,en,rock,hard rock,13,1,1,6,1,10.587501,6.150743
+Kobe,Chief Keef,en,rap,southern hip hop,12,1,10,6,8,13.133402,6.029784
+Faded - Tiesto's Northern Lights Remix,Alan Walker,en,edm,electro house,8,1,12,6,2,8.9534645,8.918979
+Get to You Again,Mac Ayres,en,r&b,neo soul,11,1,2,1,11,6.3473577,9.3204565
+Cot Damn (feat. Ab-Liva & Rosco P. Coldchain),Clipse,en,rap,southern hip hop,12,1,4,5,13,13.534801,4.3039145
+Joy To The World,Three Dog Night,en,rock,album rock,13,1,1,1,11,9.45141,7.8393292
+Somebody That I Used To Know - 4FRNT Remix,Gotye,en,edm,pop edm,8,1,10,6,6,13.223621,5.1716185
+Remember the Name (feat. Styles of Beyond),Fort Minor,en,rock,hard rock,13,1,4,6,1,13.057386,4.5404754
+I Decided,Liv Warfield,en,r&b,neo soul,11,1,2,10,11,5.2758684,8.855609
+The Same Way,Don Diablo,en,edm,pop edm,8,1,1,13,6,9.470312,7.948969
+Losing U (feat. Daylight) - Radio Edit,Klingande,en,pop,indie poptimism,10,1,12,13,1,9.280614,8.653254
+Sneak Diss (feat. So6ix),Ghostemane,en,rap,gangster rap,12,1,4,6,1,12.670365,4.8958063
+Cake By The Ocean,DNCE,en,latin,latin hip hop,9,1,10,10,4,12.9409,6.071563
+Molly,Tyga,en,rap,gangster rap,12,1,1,13,6,11.765308,6.813708
+Whole Lotta Love,Santana,en,rock,classic rock,13,1,7,6,1,10.880549,5.8018565
+Do Me!,Bell Biv DeVoe,en,r&b,new jack swing,11,1,4,6,6,13.077203,4.840002
+Black Butterflies,Kill The Buzz,en,edm,big room,8,1,12,13,2,9.071098,8.4884405
+Let Me Love You - Marshmello Remix,DJ Snake,en,rap,trap,12,1,1,6,1,9.918712,7.7970705
+Gullah Gullah Island,Dear Silas,en,r&b,urban contemporary,11,1,9,3,7,0.9053261,8.761946
+Before You Go,Lewis Capaldi,en,pop,post-teen pop,10,1,5,1,10,8.332231,9.160209
+Young,The Chainsmokers,en,pop,electropop,10,1,1,6,1,10.201328,7.3341823
+Big Faces,Geto Boys,en,rap,southern hip hop,12,1,7,5,13,12.47672,4.6177726
+Rumors,Lindsay Lohan,en,pop,post-teen pop,10,1,7,3,4,11.337079,5.7713447
+I Just Wanna Party,YG,en,rap,gangster rap,12,1,12,5,13,8.775331,9.462892
+Sound of da Police,KRS-One,en,rap,southern hip hop,12,1,4,5,13,13.4358835,4.353045
+No Right To Love You - Acoustic,Rhys Lewis,en,r&b,urban contemporary,11,1,12,1,11,9.944027,8.988795
+everything i wanted,Billie Eilish,en,pop,dance pop,10,1,11,1,11,3.251444,8.147113
+There for You,Martin Garrix,en,pop,electropop,10,1,2,10,4,5.899061,9.544197
+Bring Da Ruckus,Wu-Tang Clan,en,rap,southern hip hop,12,1,7,5,13,12.221856,4.750282
+Same Old Song,The Weeknd,en,r&b,urban contemporary,11,1,5,10,4,7.269127,8.825068
+Gimme Back My Bullets,Lynyrd Skynyrd,en,rock,classic rock,13,1,5,13,2,7.6631017,8.351413
+Love My Way,The Psychedelic Furs,en,rock,permanent wave,13,1,1,6,6,10.990082,6.683608
+Limitless - Radio Mix,BURNS,en,edm,progressive electro house,8,1,1,6,6,10.668901,8.028247
+All That I Am,Joe,en,r&b,urban contemporary,11,1,11,10,11,3.369318,8.013987
+Nowhere to Run,Brennan Savage,en,rap,gangster rap,12,1,11,10,11,3.2213557,8.375924
+Cool Side Of The Pillow,Kyle Dion,en,r&b,neo soul,11,1,11,3,8,3.1226149,8.422608
+Wherever You Will Go,The Calling,en,rock,album rock,13,1,1,6,6,10.092481,8.495256
+If The World,Guns N' Roses,en,rock,album rock,13,1,1,13,1,10.383348,7.3559937
+Step by Step,New Kids On The Block,en,r&b,new jack swing,11,1,10,6,6,12.849808,6.2551007
+Silhouettes - Original Radio Edit,Avicii,en,edm,pop edm,8,1,1,3,4,10.515234,7.90063
+Who I Am,Wage War,en,rock,hard rock,13,1,1,6,6,10.936152,8.086696
+747,Bill Callahan,en,r&b,hip pop,11,1,5,1,11,7.657302,9.213099
+Never Know,6LACK,en,r&b,urban contemporary,11,1,12,10,13,9.017914,9.270125
+Rattle Your Cage,Skrizzly Adams,en,rock,classic rock,13,1,11,13,2,4.6955853,8.827228
+Beautiful Life,Lost Frequencies,en,pop,indie poptimism,10,1,2,10,4,5.4098716,9.1756115
+Act a Fool,Rick Ross,en,rap,hip hop,12,1,2,3,4,6.9701333,9.395687
+Yeah!!!,Pastor Troy,en,rap,southern hip hop,12,1,10,13,6,11.853346,6.6129556
+Malibu,Miley Cyrus,en,pop,dance pop,10,1,12,13,1,9.4211645,8.7398205
+Slow Ride,Foghat,en,rock,classic rock,13,1,7,6,9,11.241507,7.330684
+No Denying,J Hus,en,r&b,urban contemporary,11,1,1,5,8,10.531972,8.024784
+Forever Live My Name,Lil Rob,en,latin,latin hip hop,9,1,7,6,1,11.637993,5.1976914
+Dirty Deeds Done Dirt Cheap,AC/DC,en,rock,album rock,13,1,1,3,4,10.45455,8.766753
+"Glowstix, Neon & Blood",Incubite,en,pop,electropop,10,1,1,13,6,10.50971,8.020342
+The One - Radio Edit,Jorja Smith,en,r&b,neo soul,11,1,12,10,6,8.743517,9.077358
+Summiteer,Watch Out Stampede,en,rock,hard rock,13,1,2,3,2,5.1029096,9.042947
+Someday,The Strokes,en,rock,permanent wave,13,1,12,1,1,9.405212,8.327781
+Brightest Light - Radio Edit,FDVM,en,pop,indie poptimism,10,1,5,3,11,7.0478835,9.361964
+SOS - Laidback Luke Tribute Remix / Radio Edit,Avicii,en,pop,dance pop,10,1,12,3,4,8.698748,9.179575
+God Is a DJ,Faithless,en,pop,dance pop,10,1,2,3,4,7.06325,9.596469
+24K Magic - R3hab Remix,Bruno Mars,en,edm,pop edm,8,1,1,10,13,10.591543,8.198515
+Can't Feel My Face,The Weeknd,en,pop,electropop,10,1,1,10,4,10.74393,8.515278
+Lost In Stereo,All Time Low,en,pop,post-teen pop,10,1,12,13,1,9.499651,8.142404
+Message In A Bottle - Remastered 2003,The Police,en,rock,classic rock,13,1,5,3,4,9.8493,8.204996
+Supernatural,Apollo LTD,en,pop,indie poptimism,10,1,7,6,6,11.452255,6.1284947
+Where The Hood At,DMX,en,rap,gangster rap,12,1,1,5,8,10.122012,8.133326
+Hear Me Calling,Juice WRLD,en,rap,trap,12,1,1,10,4,10.77887,8.4681
+Smooth (feat. Rob Thomas),Santana,en,rock,permanent wave,13,1,7,13,1,12.351425,4.728116
+Opposites Attract,Paula Abdul,en,r&b,new jack swing,11,1,4,6,6,13.206559,4.945116
+Into The Great Wide Open,Tom Petty and the Heartbreakers,en,rock,permanent wave,13,1,1,10,11,10.78886,7.9892836
+Sittin' Sidewayz (feat. Big Pokey),Paul Wall,en,rap,hip hop,12,1,10,5,8,12.56198,6.743152
+Shooter,Lil Wayne,en,rap,southern hip hop,12,1,4,5,13,13.550498,4.2252426
+Titanium (feat. Sia),David Guetta,en,pop,post-teen pop,10,1,5,10,4,8.959872,8.226059
+Over And Over,Sylvester,en,edm,progressive electro house,8,1,7,6,1,10.975473,5.682818
+2000 Rounds,Pouya,en,rap,gangster rap,12,1,2,5,8,7.878735,9.396613
+Sweet Emotion - Single Version,Aerosmith,en,rock,hard rock,13,1,1,6,6,10.975027,6.792683
+Sketches of Pain,Audible Mainframe,en,r&b,neo soul,11,1,7,1,1,11.147227,5.662449
+Pray to God - R3hab Remix,Calvin Harris,en,edm,big room,8,1,5,10,4,7.3201995,9.175364
+Confessions Part II - Confessions Special Edition Version,Usher,en,r&b,hip pop,11,1,10,6,6,12.574939,6.683483
+Little Do You Know,Alex & Sierra,en,edm,pop edm,8,1,9,1,10,1.6844838,8.836229
+Fortunate,Maxwell,en,r&b,neo soul,11,1,11,3,4,4.071221,8.899287
+Pon De Floor,Major Lazer,en,latin,latin hip hop,9,1,10,6,6,12.878933,5.812912
+I Wonder if I Take You Home,Full Force,en,r&b,new jack swing,11,1,7,6,1,11.686123,5.113963
+We Are Never Ever Getting Back Together,Taylor Swift,en,pop,post-teen pop,10,1,7,6,1,12.081301,4.872762
+Shower the People,James Taylor,en,rock,classic rock,13,1,5,10,11,8.403163,9.007566
+Carillon (with Achille Lauro),Nahaze,en,pop,dance pop,10,1,6,3,12,2.4967544,7.611834
+Heartbreaker,Her Bright Skies,en,rock,hard rock,13,1,2,3,8,5.4731565,9.157728
+Wicked,GRiZ,en,pop,indie poptimism,10,1,2,10,4,6.1009235,9.737203
+40th Street Black / We Will Fight,Wu-Tang Clan,en,rap,southern hip hop,12,1,1,10,13,10.666613,8.534757
+Woke Up Late (feat. Hailee Steinfeld),Drax Project,en,r&b,hip pop,11,1,5,10,4,7.2832675,8.83121
+Sea Sick,Fat Nick,en,rap,gangster rap,12,1,10,5,8,12.9537,6.261162
+"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,en,latin,latin hip hop,9,1,4,6,1,12.883401,4.63236
+Crazy On You,Heart,en,rock,hard rock,13,1,6,3,12,1.9457566,7.2725754
+Hella Neck,Carnage,en,rap,hip hop,12,1,1,5,13,10.4583645,8.744232
+Walk Away,Franz Ferdinand,en,rock,permanent wave,13,1,1,13,6,10.961516,7.575795
+Watching The World,Surahn,en,r&b,neo soul,11,1,10,6,6,13.160832,5.140362
+Mary Jane's Last Dance,Tom Petty and the Heartbreakers,en,rap,southern hip hop,12,1,2,13,2,7.4526577,9.411532
+Peanut Butter Jelly - Genairo Nvilla Remix,Galantis,en,latin,latin hip hop,9,1,7,6,1,11.373267,6.675627
+Howl,Beware Of Darkness,en,rap,southern hip hop,12,1,12,6,6,10.281744,8.810759
+Paradise,Rex Orange County,en,pop,indie poptimism,10,1,12,1,11,9.278921,8.7309
+I Feel It Coming,The Weeknd,en,pop,post-teen pop,10,1,10,10,6,13.1704035,5.6491776
+Heart Don't Stand a Chance,Anderson .Paak,en,r&b,urban contemporary,11,1,7,6,1,11.028367,5.7665052
+Whyyawannabringmedown,Aranda,en,rock,hard rock,13,1,10,10,4,12.565839,5.466839
+Days Gone By,Van Morrison,en,rock,classic rock,13,1,7,6,9,12.404538,5.152719
+Patek Water,Future,en,rap,gangster rap,12,1,5,3,8,6.9706044,8.711863
+Your Side Of The Bed,Loote,en,pop,indie poptimism,10,1,7,6,1,11.377955,6.122005
+Patiently Waiting,50 Cent,en,rap,gangster rap,12,1,4,5,13,13.51965,4.3512135
+I Need Love,LL Cool J,en,r&b,new jack swing,11,1,10,5,13,12.494268,5.2020874
+The Wrong Ones,JC Stewart,en,latin,latin hip hop,9,1,5,13,2,7.258372,8.304579
+Time of Dying,Three Days Grace,en,rock,hard rock,13,1,9,3,2,0.57013315,8.581271
+Don't Cry (Original),Guns N' Roses,en,rock,classic rock,13,1,2,6,1,7.0989776,9.709518
+Die For You,Red,en,rock,hard rock,13,1,1,13,1,10.215573,7.132862
+Let You Know - Nathan C Remix,Flume,en,edm,progressive electro house,8,1,2,10,4,7.1256495,9.699551
+On Top Of The World,Imagine Dragons,en,latin,latin hip hop,9,1,4,6,6,13.426542,4.6787586
+One Day,UGK,en,rap,southern hip hop,12,1,1,3,8,10.723228,7.930081
+Black Horse And The Cherry Tree,KT Tunstall,en,rock,album rock,13,1,1,3,4,11.285636,7.527933
+You & Me - Flume Remix,Disclosure,en,rap,trap,12,1,12,10,11,8.605146,9.634109
+High On Life (feat. Bonn),Martin Garrix,en,pop,dance pop,10,1,11,3,4,3.829796,8.656431
+"Rhythm Is A Dancer - 7"" Edit",SNAP!,en,pop,dance pop,10,1,12,3,4,9.148337,8.8702755
+Can't Fight This Feeling,REO Speedwagon,en,rock,hard rock,13,1,12,6,11,10.287547,9.097796
+Runaway,Halcyon,en,latin,tropical,9,1,5,5,8,7.919958,9.358426
+Smilin,Demun Jones,en,rap,southern hip hop,12,1,2,13,2,5.190695,8.92001
+BOSS,The Carters,en,r&b,hip pop,11,1,5,3,13,8.5370655,9.184673
+Self Control,Frank Ocean,en,r&b,neo soul,11,1,12,1,11,8.560736,9.603399
+Fool's Gold,Jill Scott,en,r&b,neo soul,11,1,5,10,4,8.327841,8.940939
+Lockjaw (feat. Kodak Black),French Montana,en,rap,gangster rap,12,1,11,3,8,4.11592,9.1697645
+Glory Days,Bruce Springsteen,en,rock,classic rock,13,1,7,6,1,12.389626,4.790085
+Whatever It Takes,Imagine Dragons,en,pop,post-teen pop,10,1,12,3,4,7.7611203,9.693725
+Sunday Bloody Sunday - Remastered 2008,U2,en,rock,classic rock,13,1,7,6,1,12.030572,4.881836
+All or Nothing - Sultan + Shepard Remix,Lost Frequencies,en,latin,tropical,9,1,1,13,1,11.093108,7.241389
+Dive (feat. Cosmos & Creature) (feat. Cosmos & Creature),Attom,en,edm,pop edm,8,1,5,13,2,7.5391536,9.009358
+Kiss You All Over,Exile,en,rock,classic rock,13,1,12,1,11,8.400899,9.110825
+Candy Rain,Soul For Real,en,r&b,new jack swing,11,1,11,3,4,3.2009459,8.163357
+GAMES ON YOUR PHONE,24kGoldn,en,r&b,urban contemporary,11,1,11,3,4,4.8141394,8.86966
+Don't Give Up,Chicane,en,edm,progressive electro house,8,1,2,3,4,7.046718,9.737783
+Time In,Billy Marchiafava,en,rap,trap,12,1,5,13,2,6.7606683,8.447419
+In The Middle,dodie,en,pop,indie poptimism,10,1,5,1,11,8.470619,9.077653
+That's Why (You Go Away) - 2014 Remastered Version,Michael Learns To Rock,en,rock,album rock,13,1,2,1,11,6.398263,9.190141
+I Need A Hot Girl,Hot Boys,en,rap,hip hop,12,1,4,6,6,13.330941,4.7211695
+Express Yourself,Charles Wright & The Watts 103rd Street Rhythm Band,en,r&b,urban contemporary,11,1,10,1,11,12.396989,5.4849606
+BAD KID,Night Lovell,en,rap,gangster rap,12,1,11,2,10,4.751847,8.96795
+Unstoppable,Paperwhite,en,pop,indie poptimism,10,1,12,3,4,9.207593,9.032156
+It's a Sin - 2001 Remaster,Pet Shop Boys,en,pop,electropop,10,1,5,3,4,7.287641,8.922573
+Nothin' But The Cavi Hit,Mack 10,en,rap,gangster rap,12,1,4,10,6,13.282045,5.149504
+Unknown (To You),Jacob Banks,en,r&b,urban contemporary,11,1,11,3,5,2.9745762,8.199257
+Killing In The Name,Rage Against The Machine,en,rock,permanent wave,13,1,4,5,13,13.551849,4.214255
+There Are Too Many Of Us,Blur,en,rock,permanent wave,13,1,1,10,4,11.302102,7.6315074
+Do Me Right,Guy,en,r&b,new jack swing,11,1,7,6,1,11.2528515,5.310492
+Bow Down,I Prevail,en,rock,hard rock,13,1,2,13,2,6.2450852,8.788773
+Glow - JSapp Remix,Britt Nicole,en,edm,progressive electro house,8,1,1,10,4,10.475402,8.134424
+Cough Syrup,Young the Giant,en,pop,post-teen pop,10,1,2,3,4,4.6208334,8.579685
+Blame,Bryson Tiller,en,r&b,neo soul,11,1,11,10,4,4.3423386,8.659286
+Stone,Agnes Obel,en,pop,indie poptimism,10,1,0,9,11,-0.3553409,7.1735425
+Tell Your Friends,The Weeknd,en,r&b,neo soul,11,1,12,10,11,8.493312,8.981226
+Is It Good To You,Teddy Riley,en,r&b,new jack swing,11,1,10,6,6,12.733979,5.2450347
+I Gotta Feeling,The Black Eyed Peas,en,latin,latin hip hop,9,1,1,13,6,11.530407,7.400524
+Carry On - Nicky Romero Remix,Kygo,en,pop,dance pop,10,1,11,3,4,3.7030919,8.580654
+Before You Hit The Ground,Jonny Lang,en,rock,classic rock,13,1,7,10,4,11.934033,4.997514
+Driftin' Blues,Charles Brown,en,rock,classic rock,13,1,0,9,12,-0.41024584,5.7861433
+Between The Devil And The Deep Blue Sea,George Harrison,en,rock,permanent wave,13,1,1,1,11,9.48841,7.726366
+Since U Been Gone,Kelly Clarkson,en,latin,latin hip hop,9,1,1,13,6,9.346991,7.923716
+Miss You Much,Janet Jackson,en,r&b,new jack swing,11,1,1,3,4,10.500908,7.991821
+Stars,VIZE,en,edm,electro house,8,1,1,13,1,10.345747,7.165083
+Flash Funk (feat. Marshmello),League of Legends,en,edm,big room,8,1,5,3,4,7.108957,8.970978
+Oxygen,Maia Mitchell,en,pop,post-teen pop,10,1,1,13,6,10.737679,6.92975
+I Found You (with Calvin Harris),benny blanco,en,pop,dance pop,10,1,1,13,1,10.848902,7.434444
+Don't Stop Me Now - 2011 Mix,Queen,en,rock,album rock,13,1,5,13,2,7.825378,9.213009
+MONOMANIA,The Word Alive,en,rock,hard rock,13,1,1,13,2,10.190469,7.8969903
+This Ain't My Day,Fredro Starr,en,rap,southern hip hop,12,1,1,10,4,10.871084,8.41087
+Do Me Right,Guy,en,r&b,new jack swing,11,1,7,6,1,11.163302,5.370388
+Stitches,Shawn Mendes,en,pop,post-teen pop,10,1,10,13,6,12.338154,6.8627987
+Twenty Eight,The Weeknd,en,r&b,urban contemporary,11,1,11,3,0,4.5184016,8.855109
+In the Morning (feat. Syd & Thundercat),Mac Miller,en,r&b,hip pop,11,1,2,5,8,5.1941004,8.911984
+In Trance - Studio Edit,Scorpions,en,rock,hard rock,13,1,2,13,1,6.726701,9.323716
+Bad Blood,Nao,en,r&b,urban contemporary,11,1,2,10,11,5.685296,9.426736
+Somethin Out of Nothin' (feat. Saara Maria),Joomanji,en,r&b,neo soul,11,1,5,10,13,8.297344,9.322909
+Never Really Over - R3HAB Remix,Katy Perry,en,pop,dance pop,10,1,2,10,4,5.9062395,9.667071
+Bankroll,Taz,en,rap,gangster rap,12,1,2,1,11,5.6793537,8.985985
+Sometimes I Wonder,Darius Rucker,en,r&b,neo soul,11,1,12,10,4,9.272417,9.504
+I Never Loved a Man (The Way I Love You),Aretha Franklin,en,r&b,neo soul,11,1,5,1,11,6.4356995,8.575121
+Me and My Downfall,DeeExpus,en,rock,album rock,13,1,7,6,9,11.797966,5.8790684
+Steambreather,Mastodon,en,rock,hard rock,13,1,12,13,2,8.7237015,9.134365
+Heartbreaker - 1990 Remaster,Led Zeppelin,en,rock,classic rock,13,1,7,6,1,10.7081,6.0307803
+Chainsmoking,Jacob Banks,en,pop,indie poptimism,10,1,2,3,4,5.370793,8.926962
+Tilt,Scott Walker,en,rock,permanent wave,13,1,12,6,11,9.947247,8.961165
+Body Parts,Raphael Saadiq,en,r&b,neo soul,11,1,1,6,6,11.605932,7.3760905
+Tainted Love,Soft Cell,en,rock,classic rock,13,1,9,3,0,1.905262,8.807231
+Love Me Less (feat. Quinn XCII) - Party Pupils Remix,MAX,en,pop,dance pop,10,1,10,6,6,12.877568,5.6698647
+Sweet November,Troop,en,r&b,new jack swing,11,1,1,1,11,9.576439,7.713012
+make daddy proud,blackbear,en,pop,electropop,10,1,1,10,4,11.699631,7.2671905
+The Pressure,The Cranberries,en,rock,album rock,13,1,5,6,6,8.521564,8.505782
+Riot Rhythm,Sleigh Bells,en,rock,album rock,13,1,5,13,2,7.627667,8.311345
+Your Love,Tom Misch,en,r&b,neo soul,11,1,1,6,11,9.6028185,7.895882
+Would You Mind,PRETTYMUCH,en,r&b,hip pop,11,1,1,10,4,10.154113,8.179462
+Odessa,Caribou,en,pop,dance pop,10,1,10,6,6,13.082798,5.869185
+Sanguine Paradise,Lil Uzi Vert,en,rap,hip hop,12,1,2,3,4,5.932446,9.525107
+For Life (feat. Clint Lowery),3 Years Hollow,en,rock,hard rock,13,1,12,13,2,9.27334,8.859439
+Milkshake,Kelis,en,rap,southern hip hop,12,1,10,6,6,13.084612,5.2210217
+Together Forever,Lisette Melendez,en,latin,latin hip hop,9,1,7,6,1,11.971816,4.943807
+Only Can Get Better (feat. Daniel Merriweather),Silk City,en,latin,tropical,9,1,1,13,1,10.490821,7.031891
+Cars,Gary Numan,en,rock,permanent wave,13,1,1,13,6,9.718594,7.6225023
+Travelin' Band,Creedence Clearwater Revival,en,rock,classic rock,13,1,5,13,2,7.783901,9.21384
+Stay (Electro Swing Remix),11 Acorn Lane,en,edm,electro house,8,1,10,13,6,12.614426,6.5531206
+I'm Blessed,Charlie Wilson,en,r&b,urban contemporary,11,1,5,13,2,8.305741,8.36777
+In the Air Tonight,Nonpoint,en,rock,hard rock,13,1,7,6,6,11.537588,6.0366845
+No Love Like Yours,Edward Sharpe & The Magnetic Zeros,en,r&b,neo soul,11,1,2,3,4,6.671837,9.592948
+Now That We Found Love,Heavy D & The Boyz,en,r&b,new jack swing,11,1,5,10,11,8.600898,8.865863
+Beat Of My Drum,POWERS,en,pop,indie poptimism,10,1,10,10,4,13.099416,5.74266
+All Falls Down (feat. Juliander),Alan Walker,en,edm,electro house,8,1,10,13,6,12.996104,6.0529904
+Take Me Out,Franz Ferdinand,en,rock,permanent wave,13,1,2,10,4,6.1161747,9.592988
+Stardust,Gemini Syndrome,en,rock,hard rock,13,1,1,13,1,10.296434,7.3292613
+Swingin Party - 2008 Remaster,The Replacements,en,rock,permanent wave,13,1,12,3,4,8.926195,8.43657
+Mother - Fedde Le Grand Remix,Charlie Puth,en,pop,dance pop,10,1,12,13,1,9.330733,8.791457
+Animals - Radio Edit,Martin Garrix,en,edm,big room,8,1,5,6,2,8.48537,8.614429
+Don't Be Afraid,Aaron Hall,en,r&b,new jack swing,11,1,5,13,2,7.987346,8.319097
+Feels - Jai Wolf Remix,Kiiara,en,pop,indie poptimism,10,1,2,10,0,5.510182,9.3941555
+Palm Beach,Vicente Garcia,en,latin,tropical,9,1,10,1,11,11.9076185,7.033522
+In My Life - Remastered 2009,The Beatles,en,rock,classic rock,13,1,12,1,11,8.064341,9.193889
+Peace of Mind,Boston,en,rock,album rock,13,1,1,13,6,9.677512,7.785379
+Use Somebody,Kings of Leon,en,rock,classic rock,13,1,2,13,2,5.641324,9.035744
+Superstar,Said the Sky,en,edm,pop edm,8,1,12,13,2,9.226224,8.358174
+To Cut a Long Story Short - 2010 Remaster,Spandau Ballet,en,rock,permanent wave,13,1,10,13,6,12.2934265,6.814044
+Check Yo Self - Remix,Ice Cube,en,rap,southern hip hop,12,1,4,5,13,13.57877,4.2160063
+Move To The City - Live In Japan / 1992,Guns N' Roses,en,rock,album rock,13,1,11,7,9,3.3869681,7.984548
+My Way,Limp Bizkit,en,rock,hard rock,13,1,1,6,1,11.400159,6.84996
+Motor City Madhouse - Edit,Ted Nugent,en,rock,hard rock,13,1,1,13,1,10.66644,7.0237985
+Flick Of The Wrist - Remastered 2011,Queen,en,rock,album rock,13,1,2,3,4,5.1731033,9.172386
+Burden,TENDER,en,pop,indie poptimism,10,1,2,10,4,6.9429994,9.756024
+Hardwired,Metallica,en,rock,hard rock,13,1,2,13,2,5.591776,8.855213
+Colors,Black Pumas,en,r&b,hip pop,11,1,9,3,2,1.9986278,8.593716
+High And Dry,Radiohead,en,pop,indie poptimism,10,1,12,6,11,9.3927,9.07955
+Burn - Original Mix,KSHMR,en,edm,electro house,8,1,1,10,4,10.09358,8.298604
+Unwritten,Natasha Bedingfield,en,pop,post-teen pop,10,1,7,6,1,11.871042,4.9941335
+Chocolate Jesus,Tom Waits,en,rock,permanent wave,13,1,2,1,11,4.686401,8.511195
+Neon,Frida Sundemo,en,pop,indie poptimism,10,1,11,2,10,4.002254,8.416419
+Stay,David Guetta,en,edm,progressive electro house,8,1,1,6,6,11.23554,6.813101
+Won't Get Fooled Again - Original Album Version,The Who,en,rock,hard rock,13,1,7,7,9,10.754191,5.7961383
+Is This It,The Strokes,en,rock,permanent wave,13,1,1,1,6,11.180234,6.460131
+Trouble,Cage The Elephant,en,pop,indie poptimism,10,1,1,6,6,11.375849,7.6060658
+do re mi,blackbear,en,rap,hip hop,12,1,12,6,1,9.639181,8.018614
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,en,pop,dance pop,10,1,10,6,6,13.075835,6.0100603
+"What Christmas Means to Me - from ""The Best Man Holiday Original Motion Picture Soundtrack""",Fantasia,en,r&b,neo soul,11,1,10,6,6,12.458887,5.358716
+Wolf,Skott,en,pop,indie poptimism,10,1,12,6,11,9.92985,8.870004
+Thiago Silva,Dave,en,rap,hip hop,12,1,10,5,8,12.615231,6.689489
+Lean On (feat. MØ & DJ Snake) - Tiësto & MOTi Remix,Major Lazer,en,pop,electropop,10,1,1,6,2,10.840021,7.4504786
+Easy Love - Original Mix,Sigala,en,latin,tropical,9,1,7,13,1,12.064036,4.932476
+Thursday,Leven Kali,en,r&b,neo soul,11,1,6,13,10,0.44919473,7.69166
+Feelin' Alright?,Traffic,en,rock,classic rock,13,1,1,1,11,9.766852,7.873435
+Stupid for You,Waterparks,en,pop,post-teen pop,10,1,1,10,4,10.183677,8.112395
+Paranoid,Black Sabbath,en,rock,hard rock,13,1,2,3,2,5.219218,9.152899
+Electric (feat. Khalid),Alina Baraz,en,pop,indie poptimism,10,1,11,1,12,3.2208548,8.08862
+Blowin' Trees (+ Napdonalds Skit),Nappy Roots,en,rap,southern hip hop,12,1,7,5,13,12.375403,4.9874625
+Last Request,Paolo Nutini,en,rock,album rock,13,1,7,6,1,11.018218,5.6448107
+CYANIDE,Daniel Caesar,en,r&b,urban contemporary,11,1,2,5,8,7.7551837,9.278951
+Dang! (feat. Anderson .Paak),Mac Miller,en,r&b,neo soul,11,1,10,5,13,12.554858,4.845846
+Divinity - filous Remix,Porter Robinson,en,pop,indie poptimism,10,1,1,6,6,10.876124,7.3924427
+Without Me,Eminem,en,rap,southern hip hop,12,1,10,6,1,12.712493,5.2490826
+Owner of a Lonely Heart,Yes,en,rock,album rock,13,1,7,13,1,11.2230015,6.150487
+Ghost,Lianne La Havas,en,r&b,neo soul,11,1,6,1,11,3.1947448,8.090032
+Faucet Failure,Ski Mask The Slump God,en,rap,gangster rap,12,1,7,5,13,11.445264,5.7408237
+Ghost,Motorama,en,rock,permanent wave,13,1,12,13,1,9.341432,8.788118
+Spring Summer Feeling,Jill Scott,en,r&b,neo soul,11,1,11,3,0,3.6564736,9.164032
+Dontcha,The Internet,en,r&b,neo soul,11,1,5,1,11,7.3049836,9.144898
+I Think of You,Sandra Lynn,en,r&b,neo soul,11,1,12,6,11,9.59519,8.893092
+Roses,BJ The Chicago Kid,en,r&b,neo soul,11,1,2,10,0,5.5601225,9.207992
+Barracuda,Heart,en,rock,classic rock,13,1,12,3,4,10.065371,8.2118
+Gold,Kiiara,en,pop,indie poptimism,10,1,12,5,13,9.092071,8.905108
+I'm Shakin',Jack White,en,rock,classic rock,13,1,7,5,13,11.387749,5.48838
+SOS,McClenney,en,r&b,neo soul,11,1,1,1,11,10.166822,8.679083
+Glory of Love,Peter Cetera,en,rock,album rock,13,1,2,13,2,6.3679614,8.86221
+Inside the Lines (feat. Casso),Mike Perry,en,latin,tropical,9,1,7,6,1,10.917618,5.972624
+Hard 2 Love,Haystak,en,rap,southern hip hop,12,1,4,6,6,13.550651,4.243934
+It's Going Down,South Circle,en,rap,southern hip hop,12,1,4,6,6,13.569228,4.320231
+The Voices,dreamEater,en,rap,trap,12,1,6,3,2,2.2846174,8.257836
+Superstar,Lupe Fiasco,en,rap,southern hip hop,12,1,7,5,13,11.7803545,5.5114756
+Let's Wait Awhile,Janet Jackson,en,r&b,new jack swing,11,1,9,2,10,0.2434435,7.585185
+Adore You,Maisie Peters,en,pop,post-teen pop,10,1,4,6,6,13.382804,4.4870234
+Ballin,Logic,en,rap,hip hop,12,1,1,3,8,10.136092,8.0803585
+but,Keys of Philadelphia,en,edm,pop edm,8,1,1,1,1,10.121126,7.3315787
+Woman,Wolfmother,en,rock,hard rock,13,1,12,6,2,8.998165,9.035293
+Lovers on the Sun (feat. Sam Martin) - Stadiumx Remix,David Guetta,en,edm,big room,8,1,12,10,4,10.44367,8.984838
+Tropic Love,Diviners,en,pop,electropop,10,1,10,6,6,12.589468,5.705038
+Pizza,Anti Up,en,edm,big room,8,1,12,3,4,9.729101,8.435659
+Cocaine,Eric Clapton,en,rock,album rock,13,1,12,1,11,9.250984,8.372087
+Screwed Up,Ludacris,en,rap,southern hip hop,12,1,4,5,8,12.876686,4.8065867
+Hello,Adele,en,pop,electropop,10,1,6,3,0,2.1220038,8.341205
+Tuesday (feat. Drake),ILOVEMAKONNEN,en,edm,pop edm,8,1,10,6,8,12.973667,6.0471554
+Slam,Onyx,en,rap,gangster rap,12,1,10,5,13,12.704935,5.7750297
+Calypso,Luis Fonsi,en,latin,latin hip hop,9,1,10,10,6,13.152885,5.967053
+Town Called Malice,The Jam,en,rock,permanent wave,13,1,7,6,1,11.165591,5.2586956
+In Love With You,Erykah Badu,en,r&b,neo soul,11,1,11,1,11,4.38439,8.448401
+Anything Could Happen,Ellie Goulding,en,pop,dance pop,10,1,10,6,6,12.823459,5.735659
+Speechless (feat. Erika Sirola) - MOTi Remix,Robin Schulz,en,pop,dance pop,10,1,2,1,11,5.9879537,8.959154
+Backseat,Ari Lennox,en,r&b,urban contemporary,11,1,12,3,4,8.24558,9.496367
+Kaputt,Destroyer,en,pop,dance pop,10,1,7,6,6,11.219131,6.4142127
+Spoonful,Grizfolk,en,pop,indie poptimism,10,1,2,3,4,6.192546,9.154286
+Who Needs Love,Trippie Redd,en,rap,trap,12,1,1,10,11,11.860885,7.181758
+Love,Musiq Soulchild,en,r&b,neo soul,11,1,2,10,11,6.903121,9.326674
+Catalina Breeze,The Blue Jean Committee,en,rock,permanent wave,13,1,5,1,11,8.505885,8.642078
+Uma,Panama Wedding,en,pop,indie poptimism,10,1,10,13,6,12.456946,6.780734
+Lovergirl,Teena Marie,en,r&b,urban contemporary,11,1,1,3,4,10.47202,8.707031
+Lonely (feat. Lorine Chia),Jamila Woods,en,r&b,neo soul,11,1,12,10,4,8.862236,9.4160185
+Be Like You,CVBZ,en,latin,tropical,9,1,7,5,13,12.289773,4.7419715
+Meaning of Life,Disturbed,en,rock,hard rock,13,1,7,6,1,11.866783,4.8638263
+Animals,Maroon 5,en,pop,post-teen pop,10,1,6,3,2,1.090317,7.8322897
+First Things First,Stormzy,en,rap,southern hip hop,12,1,7,10,4,11.530329,5.707463
+Apollo - Radio Edit,Hardwell,en,edm,progressive electro house,8,1,2,13,1,6.257636,9.224855
+I Gotta Clean Up,Marvin Sease,en,rap,southern hip hop,12,1,7,6,4,12.191447,4.7835493
+Still Alive,Prison,en,rock,hard rock,13,1,2,3,4,7.1395097,9.761344
+Got 'Til It's Gone,Janet Jackson,en,r&b,new jack swing,11,1,7,5,13,12.413012,4.886283
+Karma Chameleon,Culture Club,en,pop,electropop,10,1,7,1,11,11.021132,5.628301
+Limelight,Rush,en,rock,classic rock,13,1,1,3,4,10.7678995,7.926183
+Puttin' On The Ritz - Disco Mix Radio Edit,Taco,en,edm,electro house,8,1,10,6,6,12.713182,5.845446
+Mork,The Bloody Beetroots,en,edm,electro house,8,1,7,6,1,11.294442,6.576869
+Climbing Walls,Strange Talk,en,pop,indie poptimism,10,1,1,13,1,11.339127,6.5567718
+No Money,Galantis,en,pop,electropop,10,1,1,3,4,10.307592,8.077652
+2 Cigarettes,Jack & Jack,en,r&b,urban contemporary,11,1,12,10,4,9.086623,9.507701
+Eenie Meenie,Justin Bieber,en,latin,latin hip hop,9,1,10,6,6,12.443339,6.767203
+Stay,Post Malone,en,pop,indie poptimism,10,1,12,1,11,10.057356,8.929027
+Honey Dove,Lee Fields & The Expressions,en,r&b,neo soul,11,1,6,3,0,2.1952498,8.28084
+Hail Mary,2Pac,en,rap,gangster rap,12,1,5,5,8,7.970148,9.52136
+Hey Jealousy,Gin Blossoms,en,rock,permanent wave,13,1,11,3,4,3.6966422,8.582269
+Music,Leela James,en,r&b,neo soul,11,1,10,6,6,12.951699,5.819908
+Low Life,Crobot,en,rock,hard rock,13,1,4,6,1,12.715957,4.585285
+Down to the River,Danny Boone,en,rap,southern hip hop,12,1,7,1,1,11.127637,5.393505
+Side To Side - Slushii Remix,Ariana Grande,en,edm,pop edm,8,1,2,3,4,6.375578,8.9706745
+Susie Q - Single Version,Creedence Clearwater Revival,en,rock,hard rock,13,1,12,3,4,9.421141,8.694759
+Fuck You,CeeLo Green,en,edm,pop edm,8,1,10,13,6,12.723386,5.777786
+Just As I Am,Marshall Marshall,en,pop,dance pop,10,1,2,13,1,6.8978267,9.421521
+Bridges,Broods,en,pop,indie poptimism,10,1,6,3,2,1.1319427,8.001362
+Tears Don't Fall,Bullet For My Valentine,en,rock,hard rock,13,1,2,3,2,5.9469266,9.658561
+Don't Worry Bout Me - Alle Farben Remix,Zara Larsson,en,pop,dance pop,10,1,1,5,8,10.44859,7.0606074
+3 Nights,Dominic Fike,en,latin,latin pop,9,1,5,3,4,8.142523,8.41517
+Love Me Like You Do,Ellie Goulding,en,pop,post-teen pop,10,1,12,10,4,7.8363266,9.711323
+Heaven,The Blaze,en,edm,electro house,8,1,6,10,0,2.4528863,8.304111
+WORKIN ME,Quavo,en,latin,latin pop,9,1,2,13,2,6.4140806,8.629407
+Drops of Jupiter,Train,en,rock,permanent wave,13,1,10,6,6,11.745557,7.172099
+Easy Love,Sigala,en,latin,tropical,9,1,7,13,1,11.869845,5.0521774
+CAN YOU HEAR ME NOW?,Bishop Briggs,en,rock,permanent wave,13,1,1,6,1,11.036551,6.5492487
+Women Who Look Like You (feat. Guapdad 4000),JP Saxe,en,r&b,urban contemporary,11,1,12,10,11,8.712916,9.143617
+Sweet Home Alabama,Lynyrd Skynyrd,en,rap,southern hip hop,12,1,7,1,11,11.09149,5.50386
+Southbound,The Allman Brothers Band,en,rock,classic rock,13,1,12,3,4,7.323926,9.457772
+Da' Dip,Freak Nasty,en,rap,southern hip hop,12,1,7,5,13,11.002659,6.0165386
+High Rises,CHIKA,en,rap,hip hop,12,1,4,5,13,12.461343,4.4573283
+Jekyll and Hyde,Five Finger Death Punch,en,rock,hard rock,13,1,1,13,1,10.426112,7.0333657
+Panic Room,Au/Ra,en,edm,progressive electro house,8,1,12,13,1,10.026905,7.488325
+Funky Town,Lipps Inc.,en,pop,post-teen pop,10,1,1,6,6,11.645176,7.3665814
+I'm Your Baby Tonight,Whitney Houston,en,r&b,new jack swing,11,1,1,13,2,10.253675,7.536514
+Rockstar (feat. DV8),Timmy Trumpet,en,edm,progressive electro house,8,1,11,4,2,4.22075,9.073168
+Kings & Queens (feat. Run The Jewels),DJ Shadow,en,rap,gangster rap,12,1,12,6,2,9.709073,8.620475
+Breaking the Habit,Linkin Park,en,rock,album rock,13,1,1,10,4,10.855162,8.3810215
+Nightrain,Guns N' Roses,en,rock,album rock,13,1,2,13,2,7.187695,9.560818
+End Of The Road,Boyz II Men,en,r&b,new jack swing,11,1,1,6,11,10.800913,8.5670395
+Freefall,Camel,en,rock,album rock,13,1,2,13,9,6.967148,9.655848
+This Is What It Feels Like,Armin van Buuren,en,edm,progressive electro house,8,1,12,13,1,9.307049,8.80792
+Ready For Love,India.Arie,en,r&b,neo soul,11,1,8,1,11,-0.3159815,7.390196
+You Really Got Me,Van Halen,en,rock,classic rock,13,1,1,13,6,9.202041,8.143452
+Every Little Thing I Do - Remix,Soul For Real,en,r&b,new jack swing,11,1,7,10,11,11.636577,7.0396123

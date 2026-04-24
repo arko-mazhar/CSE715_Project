@@ -1,0 +1,17 @@
+{
+    "dataset_size_after_cleaning": 1120,
+    "train_size": 896,
+    "val_size": 224,
+    "input_dim": 111,
+    "batch_size": 32,
+    "beta_vae_hidden_dim1": 128,
+    "beta_vae_hidden_dim2": 64,
+    "beta_vae_latent_dim": 16,
+    "beta": 4.0,
+    "autoencoder_hidden_dim1": 128,
+    "autoencoder_hidden_dim2": 64,
+    "autoencoder_latent_dim": 16,
+    "learning_rate": 0.001,
+    "num_epochs": 30,
+    "random_state": 42
+}
