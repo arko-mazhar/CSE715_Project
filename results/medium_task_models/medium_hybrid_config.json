@@ -1,0 +1,13 @@
+{
+    "dataset_size": 1186,
+    "train_size": 948,
+    "val_size": 238,
+    "input_dim": 111,
+    "batch_size": 32,
+    "hidden_dim1": 128,
+    "hidden_dim2": 64,
+    "latent_dim": 16,
+    "learning_rate": 0.001,
+    "num_epochs": 30,
+    "random_state": 42
+}
