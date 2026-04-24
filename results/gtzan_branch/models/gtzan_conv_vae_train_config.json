@@ -1,0 +1,15 @@
+{
+    "n_total_valid_files": 999,
+    "train_size": 799,
+    "val_size": 200,
+    "input_shape": [
+        1,
+        128,
+        128
+    ],
+    "batch_size": 16,
+    "latent_dim": 32,
+    "learning_rate": 0.001,
+    "num_epochs": 20,
+    "random_state": 42
+}
