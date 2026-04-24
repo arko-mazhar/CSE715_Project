@@ -1,0 +1,9 @@
+{
+    "dataset_size": 1120,
+    "beta_vae_latent_dim": 16,
+    "autoencoder_latent_dim": 16,
+    "pca_feature_dim": 16,
+    "beta_latent_path": "/content/drive/MyDrive/project/results/hard_task_latent/X_hard_beta_vae_latent.npy",
+    "autoencoder_latent_path": "/content/drive/MyDrive/project/results/hard_task_latent/X_hard_autoencoder_latent.npy",
+    "pca_features_path": "/content/drive/MyDrive/project/results/hard_task_latent/X_hard_pca_features.npy"
+}

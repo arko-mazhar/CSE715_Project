@@ -1,0 +1,1187 @@
+track_name,language,playlist_genre,playlist_subgenre,track_artist,kmeans_cluster,agg_cluster,dbscan_cluster
+Aaj Ei Dintake,bn,Bangla Film,Retro Film Melody,Kishore Kumar,0,0,0
+Amar Swapna Tumi Ogo,bn,Bangla Film,Romantic Duet,Asha Bhosle|Kishore Kumar,0,1,0
+Ami Chini Go Chini Tomare,bn,Rabindra Sangeet,Tagore Romantic,Kishore Kumar,0,0,0
+Purano Sei Diner,bn,Rabindra Sangeet,Tagore Nostalgia,Debabrata Biswas,1,0,0
+Aamar Pujar Phool,bn,Adhunik Bangla,Romantic Modern,Kishore Kumar,1,0,0
+Se Jeno Aamar Pashe,bn,Adhunik Bangla,Romantic Modern,Kishore Kumar,0,1,0
+Mone Pore Ruby Roy,bn,Adhunik Bangla,Urban Nostalgia,R. D. Burman,0,1,0
+Coffee Houser Sei Addata Aaj Aar Nei,bn,Adhunik Bangla,Urban Nostalgia,Manna Dey,1,0,0
+Sei Raate Raat Chhilo Purnima,bn,Adhunik Bangla,Romantic Modern,Kishore Kumar,1,0,0
+Ei Path Jodi Na Shes Hoy,bn,Bangla Film,Romantic Duet,Sandhya Mukherjee|Hemant Kumar,1,0,0
+Tumi Kon Kananer Phul,bn,Rabindra Sangeet,Tagore Romantic,Asha Bhosle,0,1,0
+Amar Swapna Je Satyi,bn,Bangla Film,Romantic Retro,Kishore Kumar|Lata Mangeshkar,1,0,0
+Nayan Sarasi Keno Bhoreche Jaale,bn,Adhunik Bangla,Melancholic Modern,Kishore Kumar,1,0,0
+Jodi Hoi Chorkanta,bn,Bangla Film,Romantic Retro,Asha Bhosle|Kishore Kumar,1,0,0
+Mon-Majhi Re,bn,Bangla Folk,Folk-inspired Modern,R. D. Burman,1,0,0
+Tare Ami Chokhe Dekhini,bn,Adhunik Bangla,Mystical Modern,Kishore Kumar,0,1,0
+Aamar Bhalobasar Rajprasade,bn,Adhunik Bangla,Romantic Modern,Manna Dey,0,1,0
+Aaj Milan Tithir Purnima Chand,bn,Bangla Film,Romantic Retro,Kishore Kumar,1,1,0
+Jakhan Keu Amake Pagol Bale,bn,Adhunik Bangla,Philosophical Modern,Manna Dey,1,0,0
+Coffee Houser Sei Addata Aaj Aar Nei,bn,Adhunik Bangla,Urban Nostalgia,Manna Dey,1,0,0
+Chokher Jaler Hoyna Kono Rang,bn,Adhunik Bangla,Melancholic Modern,Kishore Kumar,1,0,0
+Chirodini Tumi Je Aamar- Male,bn,Bangla Film,Romantic Film Ballad,Kishore Kumar,1,0,0
+Jani Tomar Premer Jogyo Ami To Noi,bn,Adhunik Bangla,Melancholic Modern,Manna Dey,0,0,0
+Bandhagharer Andhakare,bn,Adhunik Bangla,Philosophical Modern,Asha Bhosle|Kishore Kumar,1,0,0
+O Chand Samle Rakho Jochhnake,bn,Adhunik Bangla,Romantic Modern,Manna Dey,0,1,0
+Na Na Na Kachhe Esona,bn,Bangla Film,Playful Romantic,Asha Bhosle|S. P. Balasubrahmanyam,0,0,0
+Sundari Go Dohai Dohai,bn,Bangla Film,Playful Folk-Film,Manna Dey,0,1,0
+Asha Chhilo Bhalobasa Chhilo,bn,Adhunik Bangla,Melancholic Modern,Kishore Kumar,0,1,0
+Hoyto Amake Karo Mone,bn,Adhunik Bangla,Romantic Modern,Kishore Kumar,0,1,0
+Mone Porle,bn,Adhunik Bangla,Romantic Modern,Arijit Singh,0,1,0
+Gunjane Dole Je Bhramar,bn,Bangla Film,Romantic Duet,Asha Bhosle|Kishore Kumar,1,0,0
+Phulkali Re Phulkali,bn,Bangla Film,Light Romantic,Asha Bhosle|Kishore Kumar,1,0,0
+Keno Re Tui Chorli,bn,Adhunik Bangla,Melancholic Modern,Kishore Kumar,0,1,0
+"Rangini Kato Mon, Mon Dite Chay",bn,Adhunik Bangla,Romantic Modern,Manna Dey,0,1,0
+Bolchi Tomar Kane Kane- Female,bn,Bangla Film,Romantic Solo,Lata Mangeshkar,1,0,0
+Din Khon Mapa Ache,bn,Adhunik Bangla,Romantic Modern,Arijit Singh,1,0,0
+Lalita Go Oke Aaj Chole Jete Bal Na,bn,Bangla Film,Emotional Retro,Manna Dey,1,1,0
+Prithibi Bodle Gechhe,bn,Adhunik Bangla,Philosophical Modern,Kishore Kumar,0,1,0
+Ek Tanete Jemon Temon,bn,Bangla Folk,Folk-inspired Light,Kishore Kumar|Swapan Chakraborty,0,1,0
+Aaj Theke Aar Bhalobasar,bn,Adhunik Bangla,Breakup Modern,Kishore Kumar,0,1,0
+Hridayer Gaan Shikhe To Gaay Go Sabai,bn,Adhunik Bangla,Philosophical Modern,Manna Dey,0,1,0
+E Gaane Prajapati (Stereo),bn,Bangla Film,Light Romantic,Sandhya Mukherjee,0,0,0
+Chhero Na Chhero Na Haath,bn,Bangla Film,Romantic Duet,Kishore Kumar|Sabina Yasmeen,0,1,0
+Ami Cheye Cheye Dekhi,bn,Adhunik Bangla,Romantic Modern,Shyamal Mitra,0,1,0
+Dole Dodul Dole Jhulana,bn,Bangla Film,Semi-Classical Film,Manabendra Mukherjee|Shyamal Mitra,0,0,0
+Tomay Porechhe Mone,bn,Adhunik Bangla,Romantic Modern,Kishore Kumar,0,1,0
+Mangaldeep Jwele (Part 1),bn,Devotional,Puja Spiritual,Lata Mangeshkar|Others,0,1,0
+Shono Mon Boli Tomay,bn,Adhunik Bangla,Philosophical Modern,R. D. Burman,1,0,0
+Tora Je Ja Bolish,bn,Rabindra Sangeet,Tagore Playful,Debabrata Biswas,0,1,0
+Chirodini Tumi Je Aamar- Female,bn,Bangla Film,Romantic Film Ballad,Asha Bhosle,1,0,0
+Aamar Swapna Je,bn,Bangla Film,Romantic Retro,Lata Mangeshkar|Kishore Kumar,1,0,0
+Ka Phonta Chokher Jal Phelechho,bn,Adhunik Bangla,Melancholic Modern,Manna Dey,1,0,0
+Katoi Ranga Dekhi Duniyay,bn,Bangla Film,Comic Satire,Amar Pal,1,0,0
+Bhalo Bashi Bhalo Bashi,bn,Rabindra Sangeet,Tagore Romantic,Amit Kumar|Kavita Krishnamurthy,0,1,0
+Sandhya Belay Tumi Ami,bn,Adhunik Bangla,Romantic Modern,Asha Bhosle,1,0,0
+Chole Jete Jete Din,bn,Adhunik Bangla,Melancholic Modern,Lata Mangeshkar,0,1,0
+Bulbul Pakhi Maiana,bn,Children's Music,Children's Rhyme,Antara Chwdhury,1,0,0
+Janmadin,bn,Children's Music,Birthday Song,Kishore Kumar,0,1,0
+Ami Jamini Tumi Shashi Hey,bn,Bangla Film,Romantic Semi-Classical,Manna Dey,0,1,0
+Ami Taar Thikana Rakhini,bn,Adhunik Bangla,Romantic Modern,Manna Dey,1,0,0
+Aar Ki Tomay Chharchhi,bn,Adhunik Bangla,Romantic Modern,Asha Bhosle|R. D. Burman,0,1,0
+Bom Bhole,bn,Devotional,Shiva Devotional,Kishore Kumar,1,1,0
+Gahan Megher Chhaya Ghanay,bn,Adhunik Bangla,Monsoon Modern,Manna Dey,1,0,0
+Kato Naree Achhe E Gokule,bn,Bangla Film,Comic Folk-Film,Asha Bhosle|Kishore Kumar|Tanuja,0,1,0
+Karo Keu Naiko Aami,bn,Adhunik Bangla,Melancholic Modern,Kishore Kumar,0,0,0
+Balo Ki Achhe Go,bn,Bangla Film,Romantic Duet,R. D. Burman,0,0,0
+Ami Gaan Shonabo,bn,Adhunik Bangla,Light Modern,Hemant Kumar,0,1,0
+Na Mon Lage Na,bn,Bangla Film,Romantic Retro,Lata Mangeshkar,1,0,0
+Najar Diyo Na,bn,Adhunik Bangla,Playful Modern,Kishore Kumar,0,1,0
+Mon Janala Khule Dena,bn,Adhunik Bangla,Romantic Modern,Kishore Kumar,1,0,0
+Pora Banshi Shunle E Mon,bn,Adhunik Bangla,Folk-inspired Modern,Asha Bhosle,1,0,0
+Amar Deep Nebhano Raat,bn,Adhunik Bangla,Melancholic Modern,Kishore Kumar,0,1,0
+O Mor Moyna Go,bn,Bangla Folk,Folk Song,Lata Mangeshkar,0,1,0
+Abhimane Chole Jeo Na,bn,Adhunik Bangla,Romantic Modern,Manna Dey,1,0,0
+Prem Baro Madhur,bn,Adhunik Bangla,Romantic Modern,Kishore Kumar,1,0,0
+Na Na Na Aaj Raate Aar,bn,Bangla Film,Playful Romantic,Manna Dey,0,1,0
+Sedino Akashe Chhilo Kato Tara,bn,Adhunik Bangla,Nostalgic Modern,Kishore Kumar,0,1,0
+Bhuter Raja Dilo Bor,bn,Children's Music,Fantasy Film Song,Anup Ghoshal|Rabi Ghosh,1,0,0
+Naam Amar Kishore Kumar Ganguly,bn,Adhunik Bangla,Tribute Song,Kishore Kumar,1,0,0
+Bhoy Dekhas Na (Male) Voice & Guitars,bn,Adhunik Bangla,Acoustic Modern,Arijit Singh,1,0,-1
+Hoyto Tomari Janya,bn,Bangla Film,Romantic Film Song,Manna Dey,1,0,0
+Piya Bholo Abhimaan,bn,Bangla Film,Romantic Retro,Ajoy Chakrabarty,1,0,-1
+Ami Nei Ami Nei,bn,Adhunik Bangla,Melancholic Modern,Kishore Kumar,0,1,0
+Shono Mon Boli Tomay,bn,Adhunik Bangla,Philosophical Modern,R. D. Burman,0,0,0
+Hai Hai Ki Herilam,bn,Bangla Folk,Folk Ballad,Utpalendu Chowdhury,0,1,0
+Kolkata Kolkata,bn,Bangla Film,City Travel,Bappi Lahiri,1,0,0
+Gharete Bhramar Elo Gunguniye,bn,Adhunik Bangla,Folk-inspired Modern,Arundhati Holme Chowdhury,0,1,0
+Mor Bhabanare Ki Haoway Matalo,bn,Rabindra Sangeet,Tagore Nature,Hemant Kumar,1,0,0
+Ami Ek Jajabar,bn,Adhunik Bangla,Wanderer Song,Bhupen Hazarika,1,0,0
+Dekhore Nayan Melay,bn,Bangla Folk,Folk Ballad,Anup Ghoshal,0,1,0
+Ek Je Chhilo Raja,bn,Children's Music,Story Song,Anup Ghoshal|Rabi Ghosh,0,1,0
+Ei Meghla Dine Ekla,bn,Adhunik Bangla,Monsoon Modern,Hemant Kumar,1,0,0
+Ami Pathbhola Ek Pathik Esechhi (Duet),bn,Bangla Film,Romantic Duet,Kanika Banerjee|Suchitra Mitra|Hemant Kumar,1,0,0
+Shudhu Bhalobasha Diye,bn,Adhunik Bangla,Romantic Modern,Hemant Kumar,0,1,0
+Deke Deke Kato,bn,Bangla Film,Romantic Retro,R. D. Burman,0,1,0
+Manush Manusher Jannya,bn,Bangla Patriotic,Humanist Song,Bhupen Hazarika,0,1,0
+Aha Ki Ananda,bn,Children's Music,Fantasy Film Song,Anup Ghoshal,0,1,0
+Darjeeling Jatra,bn,Children's Music,Travel Comic,R. D. Burman,0,1,0
+Moner Manush :- (Mon Jakhan Jagli Nare and Milan Habe Kata Dine),bn,Bangla Folk,Lalon Baul,Dohar,1,0,0
+Katha Diye Ele Na,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Amar Shilpi Tumi Kishore Kumar,bn,Bangla Film,Romantic Playback,Kumar Sanu,1,0,0
+Champa Chameli Golaperi Baage,bn,Bangla Film,Duet Playback,Manna Dey|Sandhya Mukherjee,1,0,0
+Nishidin Nishidin,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Jete Jete Pathe Holo,bn,Bangla Film,Romantic Playback,R. D. Burman,1,0,0
+Saat Bhai Champa Jagore,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Antabihin Kate Na Aar Jeno (Baro Shunya Shunya),bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Ei Mom Jochhonay Ango Bhijiye,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,0,0
+Tomar Pujar Chhaley,bn,Rabindra Sangeet,Tagore Devotional,Debabrata Biswas,1,0,0
+Tomate Amate Dekha Hoyechhilo,bn,Bangla Film,Romantic Playback,R. D. Burman,0,1,0
+Jete Jete Pathe Holo,bn,Bangla Film,Romantic Playback,R. D. Burman,0,1,0
+Ei Sundar Swarnali Sandhaye,bn,Bangla Film,Romantic Playback,Geeta Dutt,0,1,0
+Mayur Aakaash,bn,Bangla Film,Romantic Playback,Bappi Lahiri,1,0,0
+Olir Katha Shune Bakul Hase,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,0,0
+Aebar Pujoye Chaaye,bn,Bangla Film,Romantic Playback,Alka Yagnik,0,1,0
+Jani Na Aaj Je Apon,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Takhon Tomar Ekush Bachhar,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,1,0
+Nagor Amar Kancha Peerit,bn,Bangla Film,Duet Playback,Asha Bhosle|Shailender Singh,1,0,0
+Oi Dustu Chokher Mishti Hasi,bn,Bangla Film,Duet Playback,Sandhya Mukherjee|Hemant Kumar,0,1,0
+Mor Bina Othe Kon Sure Baji,bn,Rabindra Sangeet,Tagore Classic,Swagatalakshmi Dasgupta,0,1,0
+Phire Eso Anuradha,bn,Bangla Film,Romantic Playback,R. D. Burman,0,1,0
+Sajani Go Premer Katha,bn,Bangla Film,Romantic Playback,R. D. Burman,1,0,0
+Jete Dao Amay Dekona,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Jibane Ki Pabo Na,bn,Bangla Film,Romantic Playback,Manna Dey,0,0,0
+Tolo Chhinnabeena,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Kalo Meyer Payer Tolaaye,bn,Devotional,Shyama Sangeet,Panna Lal Bhattacharjee,0,1,0
+O Amar Sajani Go,bn,Bangla Film,Duet Playback,Kishore Kumar|Lata Mangeshkar,1,0,0
+Chhande Chhande Gaane Gaane,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,0,0
+Badhu Kon Alo (Part 1),bn,Rabindra Sangeet,Tagore Nature,Arundhati Holme Chowdhury,1,0,0
+Eshe Hirok Deshe,bn,Children's Music,Comic Song,Anup Ghoshal,0,1,0
+Jana - Gana - Mana - Orchestra,bn,Children's Music,Comic Song,Akashvani Vadya Vrinda,0,1,0
+O Tui Nayan Pakhi Amar Re,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Aasbo Aar Ekdin Aaj Jai,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Chokhe Chokhe Katha Balo,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Phire Eso Anuradha,bn,Bangla Film,Romantic Playback,R. D. Burman,1,0,0
+Ami Dur Hote Tomarei Dekhechhi,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Hey Nutan Dekha Dik Aar-Bar,bn,Rabindra Sangeet,Tagore Classic,Swagatalakshmi Dasgupta,0,1,0
+Ek Je Chhilo Maachhi,bn,Children's Music,Children's Song,Antara Chwdhury,0,1,0
+Ami Mon Diye Chi,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Bidhir Bandhan Katbe Tumi,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Maharaja Tomarey Shelam,bn,Children's Music,Fantasy Song,Anup Ghoshal|Rabi Ghosh,0,1,0
+Ami Je Jalsaghare (Stereo),bn,Bangla Film,Romantic Playback,Sandhya Mukherjee,0,1,0
+Aamar Eche Korche Bhalo,bn,Bangla Film,Duet Playback,Bappi Lahiri|Asha Bhosle,1,0,0
+Balo Ki Achhe Go,bn,Bangla Film,Romantic Duet,R. D. Burman,0,1,0
+Tomari Chalar Pathe,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Ore Baba Dekho Cheye,bn,Children's Music,Comic Song,Anup Ghoshal,0,1,0
+Keno Kichhu Katha Balo Na,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Aayre Chhute Aai,bn,Children's Music,Comic Song,Antara Chwdhury,0,1,0
+Je Khanei Thako Sukhe Thako,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Dekhle Kemon Tumi Khel,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Aei Gaaneri Shure Shure,bn,Bangla Film,Romantic Playback,Mohammad Aziz,1,0,0
+Phire Elam Dure Giye,bn,Bangla Film,Duet Playback,Asha Bhosle|R. D. Burman,0,1,0
+Pa Ma Ga Re Sa,bn,Devotional,Spiritual,Lata Mangeshkar,1,0,0
+Na Dir Dir Da,bn,Children's Music,Comic Song,Antara Chwdhury,0,1,0
+Swapna Mahale Ajo Nishirate,bn,Bangla Film,Romantic Playback,Bappi Lahiri,1,0,0
+Nadir Paare Uthchhe Dhonya,bn,Bangla Film,Romantic Playback,R. D. Burman,1,1,0
+Keu Jane Na Tumi Je Amar,bn,Bangla Film,Romantic Playback,R. D. Burman,0,0,0
+Ore Amar Mon,bn,Adhunik Bangla,Romantic Modern,Dwijen Mukherjee,1,0,0
+Bujhbe Na Keu Bujhbe Na,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Taare Bole Diyo,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Dongshili Tui,bn,,Romantic Playback,Lata Mangeshkar,0,1,0
+Jani Na Kothay Tumi,bn,,Duet Playback,Asha Bhosle|R. D. Burman,0,1,0
+Bolchi Tomar Kane Kane- Duet,bn,,Romantic Solo,Bappi Lahiri|Rema Lahiri,1,0,0
+Lakshmiti Dohai Tomar,bn,,Romantic Playback,Asha Bhosle,0,0,0
+Phire Elam Dure Giye,bn,,Duet Playback,Asha Bhosle|R. D. Burman,1,1,0
+Chupi Chupi Kaache Aesho,bn,,Romantic Playback,Alka Yagnik,0,1,0
+Ei Purnima Raat,bn,,Romantic Playback,Hemant Kumar,0,1,0
+Kono Kaaj Noy Aaj,bn,,Duet Playback,Asha Bhosle|Kishore Kumar,0,0,0
+Shudhu Jaowa Asa,bn,,Romantic Modern,Lopamudra Mitra,0,1,0
+Otho Otho Surjayre,bn,,Romantic Playback,Lata Mangeshkar,1,0,0
+Drishya Dekhi Anya,bn,,Comic Song,Anup Ghoshal,0,1,0
+Nei Sei Purnima Raat,bn,,Melancholy Playback,Asha Bhosle,0,1,0
+Ogo Aar Kichhu To Naai,bn,,Romantic Playback,Lata Mangeshkar,1,0,0
+Kobe Je Kothay,bn,,Romantic Playback,Bhupinder Singh,0,1,0
+Sei Raate Raat Chhilo Purnima,bn,,Romantic Modern,Kishore Kumar,1,0,0
+Sukher Majhey Tomay,bn,,Tagore Classic,Indrani Sen,0,1,0
+Saraswati,bn,,Romantic Modern,Atanu Sanyal,0,1,0
+Sunilo Saagarey,bn,,Tagore Nature,Debabrata Biswas,0,1,0
+Otho Otho Suryai Re,bn,,Romantic Playback,Lata Mangeshkar,1,0,0
+E Jiban Premeri Ek Patabahar Kabita,bn,,Romantic Playback,Kishore Kumar,1,0,0
+Bistirna Dupare,bn,,Romantic Modern,Bhupen Hazarika,1,0,0
+Menokaa Maathaay Dilo Ghomtaa,bn,,Baul,Purna Das Baul,0,1,0
+Paye Pari Baghmama,bn,,Comic Song,Anup Ghoshal,1,0,0
+Joriye Dhorechhi Jare,bn,,Romantic Playback,Kishore Kumar,0,1,0
+Amar Natun Gaaner Janamatithi,bn,,Romantic Playback,Hemant Kumar,1,1,0
+Ami Tomar Preme Habo Sabar,bn,,Tagore Romantic,Sagar Sen,1,0,0
+Bhalo Jodi Baso Sakhi,bn,,Tagore Nature,Chinmoy Chatterjee,0,0,0
+Katha Kichhu Kichhu Bujhe Nite Hoy,bn,,Duet Playback,Shyamal Mitra|Aarti Mukherji,1,0,0
+Jiban Khatar Prati Patay,bn,,Romantic Modern,Shyamal Mitra,1,0,0
+Amar Moner Ei Mayurmahale,bn,,Romantic Playback,Kishore Kumar,1,0,0
+Alo Aar Alo Diye (Mone Hoy Aaj Ami),bn,,Romantic Playback,Asha Bhosle,0,1,0
+Godhuli Gaganey,bn,,Tagore Classic,Debabrata Biswas,0,1,0
+Abar Habe To Dekha,bn,,Romantic Playback,Manna Dey,1,0,0
+Akash Keno Daake,bn,,Romantic Playback,Kishore Kumar,1,0,0
+Madhabi Phutechhe Oi,bn,,Duet Playback,Lata Mangeshkar|R. D. Burman,0,1,0
+Ek Je Chhilo Dushtu Chhele,bn,,Children's Song,Antara Chwdhury,0,1,0
+Ki Hobe Aar Purono Diner Katha,bn,,Romantic Playback,R. D. Burman,1,0,0
+Mone Naa Rang Lagle,bn,,Duet Playback,Asha Bhosle|Kishore Kumar|Chorus,1,0,0
+Monta Aamar Hariye Geche,bn,,Melancholy Playback,Vijayta Pandit,1,0,0
+Ei To Jiban,bn,,Romantic Playback,Kishore Kumar,0,1,0
+Kato Madhur E Jibon,bn,,Romantic Playback,Kishore Kumar,1,0,0
+Ei Je Nadi Jay Sagare,bn,,Romantic Playback,Kishore Kumar,0,1,0
+Teenti Mantra Niye,bn,,Romantic Modern,Shyamal Mitra,1,0,0
+Sakhi Bhabana Kahare Bale,bn,,Tagore Romantic,Lata Mangeshkar|Kavita Krishnamurthy,1,0,0
+Ketechhe Ekela Biraher Bela,bn,,Tagore Nostalgia,Chinmoy Chatterjee,1,0,0
+Deke Deke Kato,bn,,Romantic Retro,R. D. Burman,0,0,0
+Eso Amar Ghare - Hemanta Mukherjee,bn,,Romantic Playback,Hemant Kumar,1,0,0
+Jay Din Emni Jodi,bn,,Romantic Playback,Hemant Kumar,0,1,0
+Ki Name Deke Bolbo Tomake,bn,,Romantic Modern,Shyamal Mitra,0,1,0
+O Pakhi Ure Aay,bn,,Romantic Playback,Asha Bhosle,1,0,0
+Phool Koli Re Phool Koli,bn,,Duet Playback,Kishore Kumar|Asha Bhosle,1,0,0
+Hey Dola Hey Dola,bn,,Romantic Modern,Bhupen Hazarika,0,1,0
+Ei Chhotto Chhotto Paye,bn,,Duet Playback,Aarti Mukherji|Pratima Banerjee,0,1,0
+Chandra Je Tui,bn,,Romantic Playback,Lata Mangeshkar,1,0,0
+Ganga Amar Ma,bn,,Spiritual,Bhupen Hazarika,0,1,0
+Chintamoyee Tara Tumi,bn,,Shyama Sangeet,Panna Lal Bhattacharjee,0,1,0
+Tumi Je Premer,bn,,Duet Playback,Kishore Kumar|Aarti Mukherji,1,0,0
+Jani Na Kothay Tumi,bn,,Duet Playback,Asha Bhosle|R. D. Burman,0,1,0
+Dure Akash Samiyanai,bn,,Melancholy Playback,Lata Mangeshkar,1,0,0
+Rui Katla Ilish Bhebe,bn,,Romantic Modern,Sabina Yasmeen,1,0,0
+Ektu Baso Chole Jeo Na,bn,,Melancholy Playback,Asha Bhosle,1,0,0
+Charon Dhorite Diyo Go (Male),bn,,Tagore Classic,Hemant Kumar,0,0,0
+Aaro Kachakachi,bn,,Duet Playback,Kishore Kumar|Asha Bhosle,1,0,0
+Ekbar Bidaay De Ma,bn,,Spiritual,Lata Mangeshkar,0,1,0
+Banshi Shune Ki,bn,,Romantic Playback,Asha Bhosle,1,0,0
+Pora Banshi Shunle E Mon,bn,,Folk-inspired Modern,Asha Bhosle,0,1,0
+Aami Ekjon Saanto Sishto,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Halla Cholechhe Juddhe,bn,Children's Music,Comic Song,Kamu Mukherjee|Jahor Roy,0,0,0
+"O,sona Byang",bn,Children's Music,Children's Song,Antara Chwdhury,1,0,0
+Ki Ashai Bandhi Khelaghar,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Chand Aar Shurjo,bn,Bangla Film,Romantic Playback,Alka Yagnik,1,0,0
+Jana Ajana Pathey Cholechhi,bn,Bangla Film,Duet Playback,Kishore Kumar|Asha Bhosle,1,0,0
+Aay Aay Chhute Aay,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,0,1,0
+Oi Mahasindhur Opar Theke,bn,Bangla Film,Romantic Playback,Manna Dey,0,1,0
+Ei Chhande Chhande Bhara,bn,Bangla Film,Duet Playback,Sandhya Mukherjee|Hemant Kumar,0,1,0
+Dinguli Mor,bn,Rabindra Sangeet,Tagore Nostalgia,Debabrata Biswas,1,0,0
+Hridayer Gaan Shikhe To Gaay Go Sabai,bn,Adhunik Bangla,Philosophical Modern,Manna Dey,0,1,0
+Mone Pore Ruby Roy,bn,Adhunik Bangla,Urban Nostalgia,R. D. Burman,1,0,0
+Tumi Jodi Thaktey,bn,Bangla Film,Romantic Playback,Kumar Sanu,1,1,0
+Mor Bhabonare (Duet),bn,Rabindra Sangeet,Tagore Classic,Saptarshi|SAHANA BAJPEI,0,0,0
+Namo Mata Saraswati,bn,Bangla Film,Duet Playback,Sandhya Mukherjee|Tarun Banerjee|Aarti Mukherji,1,0,0
+O Prajapati Prajapati,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Sagar Sangame,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,0,1,0
+Katha Dao Aabar Asbe,bn,Bangla Film,Romantic Playback,Manna Dey,0,1,0
+Tomake Lagche Bhari Chena,bn,Bangla Film,Duet Playback,Bappi Lahiri|Alka Yagnik,1,0,0
+Esho Go Jweley,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,1,0
+Amar Sakal Raser Dhara,bn,Bangla Film,Duet Playback,Hemant Kumar|Aarti Mukherji,1,0,0
+"Ore Bondhure, Ore Sathi Re",bn,Bangla Film,Romantic Playback,Kishore Kumar,0,0,0
+Na Bole Esechhi,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,0,0
+Ja Ja Ja Bhule Ja,bn,Bangla Film,Melancholy Playback,Lata Mangeshkar,0,1,0
+Keno Je Kandao Bare Bare,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+E Ki Chanchalata Jage,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Moner Janala Dhore Unki Diye,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Ogo Moner Duyare Danriye Theko Na,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,1,0
+Kichhu To Chahini Ami,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Ektu Baso Chole Jeo Na,bn,Bangla Film,Melancholy Playback,Asha Bhosle,1,0,0
+Akash Keno Daake,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Aakash Bhara,bn,Rabindra Sangeet,Tagore Nature,Debabrata Biswas,1,0,0
+Dhoronako Shantrimoshai,bn,Children's Music,Comic Song,Anup Ghoshal,0,1,0
+Aaj Jiban Khunje Pabi,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,0,1,0
+Bhoy Dekhas Na (The Agnee Version),bn,Adhunik Bangla,Romantic Modern,Mohan Kannan,1,0,0
+Ami Sahebo Noi Golamo Noi,bn,Bangla Film,Melancholy Playback,Hemant Kumar,0,1,0
+Hayre Pora Banshi,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,-1
+Tomader Aasare Aaj,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Amar Mon Manne Na,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Gun Gun Kare Mon,bn,Bangla Film,Duet Playback,Amit Kumar|Asha Bhosle,1,0,0
+Phule Gandha Nei,bn,Bangla Film,Melancholy Playback,Asha Bhosle,0,1,0
+Katha Hoyechhilo,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Ami Dukkhake Sukh Bhebe,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+E Monihar Amay,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,1,0,0
+Ek Din Aaro Gelo,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Na Ekhoni Noy Jabe,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Tomar Akash Duti Chokhe,bn,Adhunik Bangla,Romantic Modern,Nirmal Mishra,0,1,0
+Aar Bilamba Noy,bn,Children's Music,Comic Song,Anup Ghoshal,0,1,0
+Tumi Ele Anek Diner Pare,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Kajol Kajol Chokhe,bn,Bangla Film,Duet Playback,Geeta Dutt|Hemant Kumar,1,0,0
+Tomaar Holo Shuru (db),bn,Rabindra Sangeet,Tagore Nostalgia,Debabrata Biswas,1,0,0
+Phul Phute Jhore Jaay,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Ele Na Tumi Je,bn,Bangla Film,Romantic Playback,R. D. Burman,0,1,0
+Khelbo Holi Rang Debo Na,bn,Bangla Film,Duet Playback,Asha Bhosle|Kavita Krishnamurthy,0,1,0
+Sajani Go Premer Katha,bn,Bangla Film,Romantic Playback,R. D. Burman,0,1,0
+Ek Din Pakhi Ure Jabe,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Ek Tanete Jemon Temon,bn,Bangla Folk,Folk-inspired Light,Kishore Kumar|Swapan Chakraborty,1,0,0
+Ek Din Pakhi Ure Jabe,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Emon Madhur Sandhyay,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Aamar Bhalobasar Rajprasade,bn,Adhunik Bangla,Romantic Modern,Manna Dey,1,0,0
+Naari Charitra Bejaay Jatil,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Bhalobeshe Dekei Dekho Na,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Gaane Bhuban Bhoriye Debe,bn,Adhunik Bangla,Romantic Modern,Shyamal Mitra,0,1,0
+Ei Korechho Bhalo,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Baro Asha Kore Esechhi Go,bn,Rabindra Sangeet,Tagore Classic,Arundhati Holme Chowdhury|Hemant Kumar,0,1,0
+Ore Batas Phulshakhate,bn,Bangla Film,Duet Playback,Sandhya Mukherjee|Hemant Kumar,1,0,0
+Kine De Reshmi Churi,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Moner Naam Madhumati,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Nadir Paare Uthchhe Dhonya,bn,Bangla Film,Romantic Playback,R. D. Burman,1,0,0
+Bristi Bristi Bristi,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Guru Bine Bondhu Naai Re Aar,bn,Bangla Folk,Regional Folk,Amar Pal,0,1,0
+Cigarette Naho Tumi Swet-Pari,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Charon Dhorite Diyo Go (Female),bn,Rabindra Sangeet,Tagore Classic,Arundhati Holme Chowdhury,0,1,0
+Ke Jabi Aay,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Ebar Ami Amar Theke,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Tumi Aamar Asha,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,-1
+Chokhe Naame Brishti,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Ami Premer Pather Pathik,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Tarpar Tar Aar Par Nei,bn,Bangla Film,Melancholy Playback,Hemant Kumar,0,1,0
+Aay Khuku Aay (Keta Na Somay),bn,Bangla Film,Duet Playback,Hemant Kumar|Sravanti Mazumder,0,1,0
+Ektuku Chhonwa Lage,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Danriye Achho Tumi Amar Gaaner O Paare,bn,Bangla Film,Romantic Playback,Sandhya Mukherjee,1,0,0
+Moyna Balo Tumi,bn,Bangla Folk,Regional Folk,Asha Bhosle,1,0,0
+Keu Jane Na Tumi Je Amar,bn,Bangla Film,Romantic Playback,R. D. Burman,0,1,0
+Du Chokhe Brishti,bn,Bangla Film,Romantic Playback,Alka Yagnik,1,0,0
+Emon Ekta Jhinuk Khunje,bn,Adhunik Bangla,Romantic Modern,Nirmal Mishra,0,1,0
+Thuilam Re Mon Padmapatay,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,0,0
+Jana Gana Mana - Military Band,bn,Adhunik Bangla,Romantic Modern,Normon Richardazz|Harbert Murril,0,1,0
+Bone Noy Mone Mor,bn,Adhunik Bangla,Romantic Modern,Manabendra Mukherjee,1,0,0
+Dake Loke Amake Clown,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Kolahal To Baron Holo,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,1,0,0
+"Aar Nai Re Bela, Namlo Chhaya",bn,Rabindra Sangeet,Tagore Classic,Sumitra Sen,0,0,0
+Ami Cholte Cholte Theme Gechhi,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,1,0
+Swapan Jodi Madhur Emon,bn,Bangla Film,Romantic Playback,Manna Dey,0,1,0
+Madhumas Jay,bn,Bangla Film,Romantic Playback,R. D. Burman,0,1,0
+Shamla Gaanyer Kajla Meye,bn,Bangla Film,Duet Playback,Hemant Kumar|Aarti Mukherji,0,0,0
+Dil Dariyar Majhete,bn,Bangla Folk,Baul,Purna Das Baul,0,1,0
+Ami Chaee Chaee Chaee,bn,Bangla Film,Romantic Playback,Sapna Mukherjee,0,1,0
+Tari:- (Ebar Tor Mora Gange and Samal Samal Samal),bn,Bangla Folk,Regional Folk,Dohar,1,0,0
+Madhobi Modhupey Holo Mitali,bn,Bangla Film,Romantic Playback,Aarti Mukherji,1,0,0
+Ki Je Kori Dure Jete Hay,bn,Bangla Film,Melancholy Playback,Lata Mangeshkar,1,0,0
+Ami Je Jalsaghare,bn,Bangla Film,Romantic Playback,Manna Dey,0,1,0
+Mon Bolchhe,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Amar Balar Kichhu Chhilo Na,bn,Adhunik Bangla,Romantic Modern,Haimanti Shukla,0,0,0
+Chaaridike Paaper Andhar (Manush Janam Diye Bidhi),bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Ami Je Ke Tomar,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Shaon Raate Jodi,bn,Bangla Film,Romantic Playback,Manna Dey,0,1,0
+Rui Katla Ilish To Noy,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Hay Re Kala Eki Jwala,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Mukhe Bolleye Prem Hoye Na,bn,Bangla Film,Romantic Playback,Alka Yagnik,1,0,0
+Chakrita Ami Peyegechi Bela 2441139,bn,Adhunik Bangla,Romantic Modern,Anjan Dutt,1,0,0
+O Amar Pran Sajani (Champabothi Kanya),bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Jodi Bhabo Bhalobeshe,bn,Bangla Film,Romantic Playback,Alka Yagnik,1,0,0
+Andhakarer Ei Raater Sheshe,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Amar Raat Pohaalo (d B),bn,Rabindra Sangeet,Tagore Nature,Debabrata Biswas,0,1,0
+Bangla:- (Ami Bangla Mayer Chhele and Amar Sonar Bangla),bn,Bangla Folk,Regional Folk,Dohar,1,0,-1
+Sukno Patar Nupur Paye,bn,Nazrul Geeti,Nazrul Romantic,Feroza Begum,0,1,0
+Jodi Kagoje Lekho Naam,bn,Bangla Film,Romantic Playback,Manna Dey,0,0,0
+Na Chahile Jare Paoya Jaay - Manna Dey,bn,Bangla Film,Romantic Playback,Manna Dey,1,0,0
+Jhilik Jhilik Jhinuk,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Purano Sei Diner Kotha,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+O Tota Pakhi Re,bn,Adhunik Bangla,Romantic Modern,Nirmal Mishra,0,0,0
+She Keno Amay,bn,Adhunik Bangla,Romantic Modern,Pankaj Udhas,1,0,0
+Jeevanamaraner,bn,Rabindra Sangeet,Tagore Devotional,Debabrata Biswas,1,0,0
+Eureka Eureka,bn,Bangla Film,Duet Playback,Kishore Kumar|Ranu Mukherjee|Chorus,1,0,0
+Chhinnapatar Sajai Taranee,bn,Rabindra Sangeet,Tagore Classic,Sumitra Sen,1,0,0
+Amar Chetana Chaitanya Kore,bn,Devotional,Spiritual,Panna Lal Bhattacharjee,1,0,0
+Amar Hriday Tomar Aapan Haater Dole (Duet),bn,Rabindra Sangeet,Tagore Classic,Arundhati Holme Chowdhury|Santu Mukherjee,0,0,0
+Ek Din Aaro Gelo,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Madhumas Jay,bn,Bangla Film,Romantic Playback,R. D. Burman,1,0,0
+Hotam Jodi Tota Pakhi,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Aadho Aalo Chhayte,bn,Bangla Film,Duet Playback,Kishore Kumar|Asha Bhosle,1,0,0
+Ami Tomar Majhe Pelam Khunje,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Ore Mon-Mayana,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Machher Kanta Khonpar Kanta,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,0,0
+Bhalobese Sakhi Nibhrite Jatane,bn,Rabindra Sangeet,Tagore Nature,Chinmoy Chatterjee,0,1,0
+Nahin Surya Nahin Jyoti,bn,Devotional,Bhajan,Anup Jalota,1,0,0
+Ek Baishakhe Dekha Holo Dujanay,bn,Bangla Film,Romantic Playback,Aarti Mukherji,1,0,0
+Ei Sundar Raatri,bn,Bangla Film,Romantic Playback,Sandhya Mukherjee,0,0,0
+O Montrimoshai,bn,Children's Music,Comic Song,Rabi Ghosh|Anup Ghoshal,1,0,0
+Iskabaner Deshe,bn,Children's Music,Comic Song,Antara Chwdhury,1,0,0
+Gun Gun Gun Kunje Amar,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Golemale Gole Male Pirit Koiro Na,bn,Bangla Folk,Baul,Purna Das Baul,0,1,0
+Tomaro Ashimey,bn,Rabindra Sangeet,Tagore Devotional,Debabrata Biswas,1,0,0
+Amar Moner Ei Mayurmahale,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Ami Je Ke Tomar,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Tomate Amate Dekha Hoyechhilo,bn,Bangla Film,Romantic Playback,R. D. Burman,1,0,0
+Raat Je Madhumati,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Ei Brishtite Bhije Mati,bn,Bangla Folk,Regional Folk,Manna Dey|Lata Mangeshkar,1,0,0
+Ke Pratham Kachhe Esechhi,bn,Bangla Film,Duet Playback,Lata Mangeshkar|Manna Dey,1,0,0
+Pherano Jabe Na Aar,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Chanchal Moyuri E Raat,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Ei To Bhalo Legechhilo - Hemanta Mukherjee,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Eso Pranbharan,bn,Rabindra Sangeet,Tagore Classic,Arundhati Holme Chowdhury|Bitu Samajpati,0,1,0
+Ami Aaj Bhebechhi Mone,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Baro Eka Laage,bn,Bangla Film,Melancholy Playback,Manna Dey,0,1,0
+Nohi Jantra,bn,Children's Music,Comic Song,Anup Ghoshal,1,0,0
+Pranbhara Swapna,bn,Bangla Film,Duet Playback,Kishore Kumar|Chandrani Mukherjee,0,1,0
+Sabar Aarale,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Tapur Tupur Sara Dupur,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,1,0
+Amay Bolo Na Gahite,bn,Rabindra Sangeet,Tagore Classic,Suchitra Mitra,1,0,0
+Ore Sujan Naiya,bn,Bangla Film,Romantic Playback,R. D. Burman,0,1,-1
+Aami Dasyir Sathey Kori Dosti,bn,Bangla Film,Romantic Playback,Manna Dey,1,0,0
+Na Na Emon Korey,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Katha Hoyechhilo,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Pathey Chhile Jetey,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,1,1,0
+Jakhan Porbe Na Mor Payer Chinha,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Kana Machhi Bhon Bhon,bn,Children's Music,Comic Song,Antara Chwdhury|Sabita Chowdhury,0,1,0
+Dui Naukaye Diya Pa,bn,Bangla Film,Romantic Playback,Alka Yagnik,0,1,0
+Shiter Shishir Bheja Raat,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,0,0,0
+Mon Tomar Ei Bhram Gelo Na,bn,Devotional,Spiritual,Panna Lal Bhattacharjee,0,0,0
+Ami Tomar Preme Habo Sabar,bn,Rabindra Sangeet,Tagore Romantic,Sagar Sen,0,1,0
+Mahabiswey Mahabiswey,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,0,0
+Priyotamo Ki Likhi Tomay,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+O Bideshi Bandhu,bn,Adhunik Bangla,Urban Modern,Bhupen Hazarika,1,0,0
+Nayan Chherey Geley,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,1,0
+Aaro Katodin Ami Khunjechhi Tomake,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,1,0
+Kalyankarini Saptanadi Bhagini,bn,Rabindra Sangeet,Tagore Classic,Chandrabali Rudra Dutta,0,1,0
+Shono Go Dakhin Hawa,bn,Adhunik Bangla,Romantic Modern,S. D. Burman,1,0,0
+Prem Kise Hoy,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+King Of The Ghosts Gives 3 Boons,bn,Children's Music,Fantasy Song,Satyajit Ray,1,0,0
+Kon Pakhi Dhara Dite Chaaye,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Bharaa Thaak Smritisudhaay,bn,Rabindra Sangeet,Tagore Nostalgia,Debabrata Biswas,0,1,0
+Naam Rekhechhi Bonolata,bn,Adhunik Bangla,Romantic Modern,Shyamal Mitra,1,0,0
+Ami Apon Koriya Chahini,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+"Barne, Gandhe, Chhande, Gitite",bn,Adhunik Bangla,Romantic Modern,S. D. Burman,1,0,0
+Hay Go Amar Mon Mane Na,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,0,0
+Darjeeling Jatra,bn,Children's Music,Travel Comic,R. D. Burman,0,1,0
+Ja Peyechhi,bn,Bangla Film,Romantic Playback,Amit Kumar,0,1,0
+Se To Elo Na,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Na Na Jeo Na,bn,Bangla Film,Melancholy Playback,Manna Dey,0,1,0
+Pratidhwani Suni,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,0,1,0
+Ke Jay Amritadhamjatri,bn,Rabindra Sangeet,Tagore Classic,Ritu Guha,0,1,0
+Badal Kalo Ghirlo Go,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Baro Asha Kare,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Onek Khujechi Khuje Payine,bn,Bangla Film,Romantic Playback,Mohammad Aziz,1,0,0
+Aar Nai Je Deri,bn,Rabindra Sangeet,Tagore Classic,Chinmoy Chatterjee,1,0,0
+Rai Jago Rai Jago Bole,bn,Bangla Folk,Polli Geeti,Amar Pal,0,1,0
+"Ogo Kangal, Amare Kangal Karechho",bn,Rabindra Sangeet,Tagore Classic,Ritu Guha,0,1,0
+Eto Kachhe Dujane,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Amra Korbo Joy,bn,Bangla Patriotic,Inspirational Anthem,Bhupen Hazarika|Chorus,1,0,0
+E Jiban Premeri Ek Patabahar Kabita,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Megh Aar Kuyashay Hok,bn,Bangla Film,Duet Playback,Kishore Kumar|Aarti Mukherji,0,0,0
+Amar Bela Je Jai,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Badhu Kon Alo (Part 2),bn,Rabindra Sangeet,Tagore Nature,Arundhati Holme Chowdhury,0,1,0
+Shudhu Jaoya Aasa,bn,Rabindra Sangeet,Tagore Classic,Arundhati Holme Chowdhury,1,0,0
+Chanchal Mon Anmona Hoy,bn,Bangla Film,Duet Playback,Lata Mangeshkar|Hemant Kumar,0,0,0
+Bhola Mon Moner Katha,bn,Adhunik Bangla,Romantic Modern,Shyamal Mitra,0,1,0
+Amar Andhar Bhubane,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Banshi Keno Hai,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Hey Priyotama Ami To Tomay,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+"Sakhi, Bhabana Kahare Bale",bn,Rabindra Sangeet,Tagore Romantic,Sumitra Sen,0,1,0
+Klaanti Aamaar Kshamaa Koro,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,0,0
+Tunhu Mamo Monpran Hey (Stereo),bn,Bangla Film,Romantic Playback,Sandhya Mukherjee,0,1,0
+Jabo Ki Jabo Na,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Dekhe Elam Ruper Agun,bn,Bangla Film,Romantic Playback,Manna Dey,0,1,0
+E Ki Holo,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Gharete Bhramar Elo,bn,Rabindra Sangeet,Tagore Classic,Sumitra Sen,0,1,0
+Ma Tui Amay Daya Korbi Ki Na Bal,bn,Devotional,Spiritual,Manna Dey,1,1,0
+Aaj Bikeler Dake Tomar Chithi,bn,Adhunik Bangla,Romantic Modern,Banasree Sengupta,0,1,0
+Aaro Bhalo Hoto,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Tumi Je Amar,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Amar Khela Jakhon Chhilo Tomar Sane,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Shono Ei To Samay,bn,Bangla Film,Romantic Playback,R. D. Burman,1,0,0
+Ami Gun Kormu Ekjonare,bn,Devotional,Bhajan,Anuradha Paudwal,1,0,0
+Nibhrita Praner,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,1,0
+Dinguli Mor Sonar Khanchay Roilo Na,bn,Adhunik Bangla,Romantic Modern,Dwijen Mukherjee,1,0,0
+Keno Dure Thako,bn,Bangla Film,Melancholy Playback,Hemant Kumar,0,1,0
+Jabar Belay Pichhu Theke,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Tomake Shonate E Gaan,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Akash Keno Daake,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Jani Jani Tumi Esechho E Pathe,bn,Adhunik Bangla,Romantic Modern,Sudeshna Chatterjee,1,0,0
+Hey Mor Debota,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,1,0,0
+Jodi Baran Karo Tabe Gabo Na,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,0,0
+Ami Jani Na,bn,Bangla Film,Duet Playback,Asha Bhosle|Abhijeet Bhattacharya,0,1,0
+Aaro Kachakachi,bn,Bangla Film,Duet Playback,Kishore Kumar|Asha Bhosle,1,0,0
+Ogo Abar Natun Kore,bn,Bangla Film,Romantic Playback,Mukesh,0,1,0
+Deep Nibhey Gechhey,bn,Rabindra Sangeet,Tagore Classic,Indrani Sen,0,1,0
+Mon Mor Megher Sangi,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Aachhey Dukkha,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,1,0
+Saat Sakaale,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,0,0
+Jakhan Ami Anek Dure,bn,Bangla Film,Melancholy Playback,Kishore Kumar,0,1,0
+Prano Bhariye Trisha Hariye,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,1,0,0
+Mor Bhabonare (Female),bn,Rabindra Sangeet,Tagore Classic,SAHANA BAJPEI,0,0,0
+Hai Re Poda Banshi,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Tomar Oi Dhupchhaya Rang,bn,Adhunik Bangla,Romantic Modern,Shyamal Mitra,0,1,0
+Je Chhilo Amar Swapancharini,bn,Adhunik Bangla,Romantic Modern,Srikanto Acharya,0,1,0
+Dinguli Mor,bn,Rabindra Sangeet,Tagore Nostalgia,Debabrata Biswas,1,0,0
+Mora Dujonai Rajar Jamai,bn,Children's Music,Fantasy Song,Anup Ghoshal,0,1,0
+Amay Nahe Go,bn,Nazrul Geeti,Nazrul Romantic,Feroza Begum,0,1,0
+Naam Dhore Kejano,bn,Bangla Film,Romantic Playback,Alka Yagnik,1,0,0
+Shai Pakhitar,bn,Bangla Film,Romantic Playback,Alka Yagnik,0,1,0
+Deko Naa Aamarey,bn,Rabindra Sangeet,Tagore Classic,Indrani Sen,1,0,0
+O Amar Pran Sajani (Champabothi Kanya),bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Phote Je Rakta Golap,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Bhulo Na Pratham Se Din,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Jadi Akash Hoto Ankhi,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,1,0
+Tung Tung Tung,bn,Adhunik Bangla,Romantic Modern,C.L.T.,0,1,0
+Habuchandra Raja,bn,Children's Music,Fantasy Song,Antara Chwdhury,1,0,0
+E Mon Amar Hariye Jay,bn,Bangla Film,Melancholy Playback,Asha Bhosle,0,0,0
+Rangiye Diye Jao,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Tomar Kaache Jabo,bn,Bangla Film,Romantic Playback,Alka Yagnik,0,1,0
+Sei Raate Raat Chhilo Purnima,bn,Adhunik Bangla,Romantic Modern,Kishore Kumar,0,1,0
+Jafrani Rang Akashe,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Tomar Pujar Chhaley,bn,Rabindra Sangeet,Tagore Devotional,Debabrata Biswas,0,1,0
+Shyam Roop Dhariya,bn,Adhunik Bangla,Romantic Modern,S. D. Burman,1,0,0
+O Jhar Jhar Jharna,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,0,0
+"Madhur, Tomar Shesh Jey Na Pai",bn,Rabindra Sangeet,Tagore Classic,Indrani Sen,1,0,0
+Kar Milano Chao Birahi,bn,Rabindra Sangeet,Tagore Classic,Indrani Sen,0,0,0
+Pran Chay Chokkhu Na Chay,bn,Rabindra Sangeet,Tagore Classic,Sagar Sen,0,1,0
+Amar Ga Chhamchham Kare,bn,Bangla Film,Duet Playback,Asha Bhosle|Bappi Lahiri,1,0,0
+Esse Chhile Tobu,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,1,0
+Ore Mon Pakhi,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Bare Bare Ke Jeno Dake,bn,Adhunik Bangla,Romantic Modern,Manabendra Mukherjee,0,0,0
+Beshi Ki Boli Jakhon Boli,bn,Bangla Film,Duet Playback,Bappi Lahiri|Asha Bhosle,1,0,-1
+Chalo Chole Jai Haate Haat Rekhe,bn,Bangla Film,Duet Playback,Asha Bhosle|R. D. Burman,1,0,0
+Bandha Moner Duar Diyechhi,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Haowa Megh Saraye Phul Jharaye,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Khukumani Go Sonaa,bn,Children's Music,Children's Song,Antara Chwdhury|Sabita Chowdhury,1,0,0
+Diner Shese Ghumer Deshe,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Tari Amar Hathat Dubey Jai,bn,Rabindra Sangeet,Tagore Classic,Indrani Sen,0,1,0
+Ami Tomay Jato Shuniyechhilem Gaan,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Tomar Dake Sara Dite,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,1,0
+Ki Je Bhabi Elomelo,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Ekta Gaan Likho Amar Janyo,bn,Adhunik Bangla,Romantic Modern,Pratima Banerjee,1,0,0
+Ei Agune Haat Rakho,bn,Adhunik Bangla,Romantic Modern,Nachiketa Chakraborty,1,0,0
+Ami To Tomar Chirodiner Hnasi Kannar Sathi,bn,Adhunik Bangla,Romantic Modern,Nirmal Mishra,0,1,0
+Dekte Dekte Din Chole,bn,Bangla Film,Romantic Playback,Mahendra Kapoor,0,0,0
+Amio Pather Mato,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+Dure Dure Kachhe Kachhe,bn,Bangla Film,Melancholy Playback,Aarti Mukherji,0,1,0
+Lakshmiti Dohai Tomar,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Ekhono Sarengita Bajchhe,bn,Adhunik Bangla,Romantic Modern,Haimanti Shukla,0,1,0
+Angur Angur Chokh,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Je Jon Premer Bhav Jane Na,bn,Adhunik Bangla,Romantic Modern,Runa Laila,0,1,0
+O Duti Ankhi Jeno,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,0,0
+Tumi Nirmal Karo Mangal Kare,bn,Devotional,Spiritual,Panna Lal Bhattacharjee,1,0,0
+Nabo Anande Jago Aaji,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Kaharba Noy Dadra Bajao,bn,Bangla Film,Romantic Playback,Manna Dey,1,0,0
+Amay Prashna Kare Neel Dhrubatara,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Banya Banya E Aranya,bn,Bangla Film,Romantic Playback,Aarti Mukherji,0,1,0
+Ki Gabo Ami Ki Shunabo,bn,Bangla Film,Romantic Playback,Aarti Mukherji,1,0,0
+Praaney Gaan Naai,bn,Rabindra Sangeet,Tagore Classic,Indrani Sen,0,1,0
+Dak Pathale Kaal Sakale,bn,Bangla Film,Duet Playback,Asha Bhosle|R. D. Burman,1,0,0
+Tumi Esechhile Porshu,bn,Adhunik Bangla,Romantic Modern,S. D. Burman,1,0,-1
+Jani Na Se Kon Sudur Pare,bn,Adhunik Bangla,Romantic Modern,Haimanti Shukla,1,0,0
+Dil Dariyar Majhete,bn,Bangla Folk,Baul,Purna Das Baul,1,0,0
+Jani Nai Go Sadhan,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas|Others,0,1,0
+Ei Je Nadi Jay Sagare,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Kar Manjir Baje Rini,bn,Adhunik Bangla,Romantic Modern,Shyamal Mitra,1,0,0
+Khonpar Ei Golap Diye,bn,Adhunik Bangla,Romantic Modern,Sivaji Chatterjee,0,0,0
+Tumi Jey Surer Aagun,bn,Rabindra Sangeet,Tagore Classic,Indrani Sen,1,0,0
+Bharat Amar Bharat Barsha,bn,Bangla Film,Romantic Playback,Manna Dey,0,1,0
+Din Jaye Raat Jaye,bn,Devotional,Bhajan,Anuradha Paudwal,1,0,0
+Bahudiner Agete Godhulir Belate,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,0,0,0
+Amar Sesh Paraner Kodi,bn,Rabindra Sangeet,Tagore Romantic,Debabrata Biswas,0,1,0
+Aaj Mon Cheyechhe,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Ei Je Heri Go Debi Amari,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Jiya Manat Na - Thumree,bn,Bangla Film,Romantic Playback,Mahendra Kapoor,0,1,0
+Akaraney Akaley Mor,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,0,0
+Se To Elo Na,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,0,0
+Ei Sundar Swarnali Sandhaye,bn,Bangla Film,Romantic Playback,Geeta Dutt,0,1,0
+Payal Baje Chham Chham Chham - Thumree,bn,Bangla Film,Romantic Playback,Mahendra Kapoor,1,0,0
+Chinechhi Chinechhi Tomar E Mon,bn,Bangla Film,Romantic Playback,Aarti Mukherji,1,0,0
+Bhalobashar Moto Bhalo Kauke,bn,Bangla Film,Romantic Playback,Udit Narayan,0,0,0
+Swapney Aamaar Mone Holo,bn,Rabindra Sangeet,Tagore Classic,Indrani Sen,0,1,0
+Ei Edike Eso Esona,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Milan Hobe Katodine,bn,Bangla Folk,Lalon,Farida Parveen,0,1,0
+Baani Tabo Dhai,bn,Rabindra Sangeet,Tagore Classic,Debabrata Biswas,0,1,0
+Na Na Kache Eso Na,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,1,0
+Tomar Bhubane Phuler Mela,bn,Adhunik Bangla,Romantic Modern,Akhil Bandhu Ghosh,0,1,0
+Bojho Na Keno Je,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,0,0,0
+Oi Padma Chokher Neel Jamunay,bn,Adhunik Bangla,Romantic Modern,Shyamal Mitra,0,1,0
+Kon Bhiruke Bhoy Dekhabi,bn,Rabindra Sangeet,Tagore Classic,Suchitra Mitra,0,0,0
+Pather Shes Kothay,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Jodi Jante Chao Tumi,bn,Bangla Film,Romantic Playback,Hemant Kumar,1,0,0
+O Mago Ma,bn,Children's Music,Comic Song,Antara Chwdhury,1,0,0
+Tomari Jharnatalar Nirjane,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,1,0
+Aaha Ki Darun Dekhtey,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Baro Bishad Bhara Rajani,bn,Bangla Film,Duet Playback,Lata Mangeshkar|Chorus,0,1,0
+E Kemon Ranga Jadu,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,1,1,0
+Tobu Bole Keno Sahasai,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Krishnachura Shon Shon Shon,bn,Bangla Film,Romantic Playback,Lata Mangeshkar,1,0,0
+Tui Ki Amar Putul Putul,bn,Children's Music,Children's Song,Manna Dey,0,1,0
+Naam Amar Kishore Kumar Ganguly,bn,Adhunik Bangla,Tribute Song,Kishore Kumar,1,0,0
+Jeno Kichhu Mone Korona,bn,Adhunik Bangla,Romantic Modern,Akhil Bandhu Ghosh,0,1,0
+Chokhe Naame Brishti,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Opare Thakbo Ami,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Khub Chena Chena Mukhkhani,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+O Shyam Jakhan Takhan,bn,Bangla Film,Duet Playback,Sujata Mukherjee|Aarti Mukherji,1,0,0
+Baba O Khoka,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,1,0
+Amar Mon Manne Na,bn,Bangla Film,Romantic Playback,Asha Bhosle,0,0,0
+Ekti Kunri Duti Pata,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,0,1,0
+Putul Putul,bn,Children's Music,Children's Song,Antara Chwdhury,0,1,0
+Aamar Moner Kato Sukh Niye,bn,Bangla Film,Romantic Playback,Mukesh,0,1,0
+Jaubansarosinire,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+O Mor Moyna Go,bn,Bangla Folk,Folk Song,Lata Mangeshkar,0,0,0
+Nijhum Nishithe,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+E Manihar Amay Nahi Saje,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+O Aamar Kandher Anchal,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Anek Jamano Byatha,bn,Bangla Film,Romantic Playback,Kishore Kumar,0,1,0
+Jodi Jante Chao Tumi,bn,Bangla Film,Romantic Playback,Hemant Kumar,0,1,0
+Saat Suron Ki Bandh Payeliya,bn,Bangla Film,Duet Playback,Hemant Kumar|Shakti Thakur,1,0,0
+Ekkhana Megh Bhese Elo Akashe,bn,Adhunik Bangla,Romantic Modern,Bhupen Hazarika,0,1,0
+Chokhe Chokh Rekhe - Kishore Kumar,bn,Bangla Film,Romantic Playback,Kishore Kumar,1,0,0
+Ore Mon Ke Emon Daga,bn,Bangla Film,Duet Playback,Amit Kumar|Bhupinder Singh|Mohammed Rafi|Aarti Mukherji,1,0,-1
+E Mon Mor Jani Na Kotha Je Haralo,bn,Adhunik Bangla,Romantic Modern,Nirmal Mishra,1,1,0
+Amar Silpi Kishore Kumar,bn,Bangla Film,Romantic Playback,Kumar Sanu,1,0,0
+Ke Jay Re,bn,Bangla Film,Romantic Playback,Asha Bhosle,1,0,0
+Pretty in Pink,en,rock,permanent wave,The Psychedelic Furs,0,0,0
+Good Stuff,en,rap,southern hip hop,UGK,0,1,0
+Upgraded,en,edm,progressive electro house,Capital Kings,0,1,2
+Body Language (feat. Usher & Tinashe),en,pop,post-teen pop,Kid Ink,1,0,0
+My Homeboy's Girlfriend,en,rap,southern hip hop,8Ball,1,0,0
+The Needle And The Spoon,en,rock,classic rock,Lynyrd Skynyrd,1,0,0
+Rain,en,rock,hard rock,Status Quo,0,1,0
+X's We Share,en,r&b,new jack swing,Jodeci,1,0,0
+Feelin' Alright,en,rock,album rock,Joe Cocker,1,0,0
+Hurts 2B Human (feat. Khalid) - Midnight Kids Remix,en,edm,big room,P!nk,0,0,0
+No One Knows Who We Are (Radio Edit) (feat. Lights),en,edm,progressive electro house,Kaskade,0,1,0
+Stronger,en,pop,electropop,Prismo,0,1,0
+I Feel The Love,en,pop,dance pop,Tritonal,0,0,0
+Futsal Shuffle 2020,en,rap,hip hop,Lil Uzi Vert,0,1,1
+Baby I'm Yours - Re-Recorded,en,r&b,new jack swing,Shai,1,0,0
+Come To Life,en,pop,dance pop,Neon Feather,0,1,0
+Homicide (feat. Eminem),en,rap,hip hop,Logic,0,1,-1
+The Ghost in You,en,rock,permanent wave,The Psychedelic Furs,1,0,0
+Is It Love,en,latin,tropical,3LAU,0,1,0
+On GOD (with YG & Tyga feat. A$AP Ferg & A$AP Rocky),en,rap,hip hop,Mustard,0,1,0
+Glory Days,en,rock,hard rock,Bruce Springsteen,1,0,0
+Jungle Boogie,en,r&b,urban contemporary,Kool & The Gang,1,0,0
+Everything and More (feat. Aaron Cole),en,pop,dance pop,Hollyn,1,0,0
+In The Lap Of The Gods... Revisited - Remastered 2011,en,rock,album rock,Queen,1,0,0
+The Humpty Dance,en,r&b,new jack swing,Digital Underground,1,0,-1
+Shake Whatcha Mama Gave Ya',en,rap,southern hip hop,Poison Clan,0,1,1
+Have You Ever,en,r&b,new jack swing,Brandy,1,0,0
+The Way I Are (Dance with Somebody) (feat. Lil Wayne) - Spotify Version,en,r&b,hip pop,Bebe Rexha,0,1,0
+Don't Check On Me (feat. Justin Bieber & Ink),en,latin,latin pop,Chris Brown,1,0,0
+Hail Mary,en,rap,gangster rap,2Pac,1,0,-1
+Centerfold,en,rock,classic rock,The J. Geils Band,1,0,0
+Waverunners,en,rap,southern hip hop,dopeSMOOTHIES,0,1,-1
+Hallucinogenics,en,pop,indie poptimism,Matt Maeson,0,0,0
+Somebody I'm Not,en,latin,tropical,Martin Jensen,1,0,0
+Fangirl,en,r&b,urban contemporary,Lil Peep,0,1,0
+Lovers on the Sun (feat. Sam Martin),en,edm,electro house,David Guetta,0,1,0
+Round and Round,en,rock,classic rock,Ratt,0,1,0
+With You,en,r&b,new jack swing,Tony Terry,1,0,0
+More Than You Know,en,pop,dance pop,Axwell /\ Ingrosso,0,1,0
+But God,en,r&b,neo soul,Isaac Carree,0,1,0
+OCD (with Dwn2earth),en,rap,hip hop,Logic,0,1,0
+Cool,en,r&b,hip pop,Jonas Brothers,1,0,0
+Sunshine (feat. Lea) - Explicit Album Version,en,rap,hip hop,Lil' Flip,1,0,0
+Cum on Feel the Noize,en,rock,classic rock,Quiet Riot,0,1,0
+Electricity,en,edm,pop edm,Culture Code,0,1,0
+Emotion,en,r&b,hip pop,Mia Rodriguez,0,1,0
+Take Me Home (feat. Bebe Rexha),en,edm,progressive electro house,Cash Cash,0,1,0
+Animals,en,edm,big room,Martin Garrix,0,1,0
+I Need A Lover,en,rock,classic rock,John Mellencamp,1,0,0
+Rock Wit U (Awww Baby),en,r&b,hip pop,Ashanti,1,0,0
+Keep Yourself Alive - 2011 Mix,en,rock,album rock,Queen,1,1,0
+The Next Time I Fall (with Amy Grant),en,rock,album rock,Peter Cetera,1,0,0
+Where The Hood At,en,rap,gangster rap,DMX,0,1,2
+Animal Instinct,en,rock,album rock,The Cranberries,0,1,0
+I'm Ready,en,r&b,new jack swing,Tevin Campbell,1,0,0
+The Boys Of Summer,en,rock,album rock,Don Henley,1,0,0
+Did You Ever Think - Remix - Radio Edit,en,r&b,new jack swing,R. Kelly,1,0,0
+Redbone,en,r&b,urban contemporary,Childish Gambino,1,0,0
+I Just Want You,en,r&b,neo soul,Caleb Hawley,1,0,0
+Treat You Better,en,pop,dance pop,Shawn Mendes,0,1,0
+Bia' Bia',en,rap,southern hip hop,Lil Jon,1,1,0
+Clan In Da Front,en,rap,southern hip hop,Wu-Tang Clan,1,0,0
+When I See You Smile,en,rock,album rock,Bad English,1,0,0
+Alladat,en,r&b,urban contemporary,Jarren Benton,0,1,2
+Fireflies,en,pop,post-teen pop,Owl City,0,1,0
+Thinking About You (feat. Ayah Marar),en,pop,electropop,Calvin Harris,0,0,0
+Be the One,en,pop,electropop,Dua Lipa,1,0,0
+Not Gon' Cry,en,r&b,new jack swing,Mary J. Blige,1,0,0
+Feel,en,pop,indie poptimism,Victors,0,0,0
+"You're Gonna Go Far, Kid",en,pop,post-teen pop,The Offspring,0,1,0
+Can't You See,en,rock,album rock,The Marshall Tucker Band,1,0,0
+Money For Nothing,en,rock,classic rock,Dire Straits,1,0,-1
+Used To,en,r&b,urban contemporary,Drake,1,0,0
+Banquet,en,rock,album rock,Bloc Party,0,1,0
+How We Party,en,edm,big room,R3HAB,0,1,0
+Outta My System,en,r&b,hip pop,Bow Wow,1,0,0
+2 MUCH (feat. 24hrs) (feat. 24hrs),en,rap,trap,Flosstradamus,0,1,0
+Better Give U Up,en,r&b,neo soul,FKJ,1,0,0
+With Me,en,r&b,neo soul,dvsn,1,0,0
+Bang Bang,en,rap,hip hop,YNW Melly,0,1,-1
+Renaissance (feat. Clairity),en,edm,pop edm,Steve James,1,0,0
+2U (feat. Justin Bieber),en,pop,electropop,David Guetta,0,1,0
+Stutter,en,pop,post-teen pop,Marianas Trench,0,0,0
+Boom Boom Pow,en,pop,post-teen pop,The Black Eyed Peas,0,1,0
+Make tha Trap Say Aye (feat. Gucci Mane),en,rap,southern hip hop,OJ Da Juiceman,0,1,-1
+You Are the One Thing,en,edm,progressive electro house,Bright City,0,1,0
+High School Dropout,en,pop,electropop,Neon Dreams,0,1,0
+Make 'Em Say Ugh,en,rap,southern hip hop,Master P,0,1,0
+Ruby,en,rock,permanent wave,Kaiser Chiefs,0,0,0
+Paranoid,en,rock,classic rock,Black Sabbath,0,1,0
+Easy Love,en,latin,tropical,Sigala,0,0,0
+Paradise,en,rap,southern hip hop,Demun Jones,1,0,0
+The Flute Song,en,rap,hip hop,Russ,0,1,-1
+Radar Love,en,rock,album rock,Golden Earring,1,0,0
+slow motion,en,pop,indie poptimism,flor,1,0,0
+Thief,en,rap,trap,Ookay,0,1,0
+Society,en,rock,permanent wave,Eddie Vedder,1,0,0
+Starstruck,en,pop,post-teen pop,Christopher Wilde,0,1,0
+I Don't Fuck With You,en,pop,post-teen pop,Big Sean,1,0,0
+Still Frame,en,rock,hard rock,Trapt,0,1,0
+Issues/Hold On,en,r&b,urban contemporary,Teyana Taylor,1,0,0
+Stellar,en,r&b,neo soul,Jamila Woods,1,0,0
+Sloppy Seconds,en,pop,indie poptimism,Watsky,1,0,0
+Party Rock Anthem,en,pop,post-teen pop,LMFAO,0,1,0
+Right Down the Line,en,rock,album rock,Gerry Rafferty,1,0,-1
+Ether,en,rap,gangster rap,Nas,0,1,-1
+Bootie in Your Face - No Rock Drop,en,edm,electro house,Deorro,0,1,0
+Calm Down,en,rap,hip hop,G-Eazy,0,1,0
+Cheerleader (Felix Jaehn Remix) - Radio Edit,en,latin,latin hip hop,OMI,1,0,0
+Heartbeat,en,pop,electropop,Claptone,1,0,0
+Kali Yuga,en,rap,gangster rap,Ghostemane,0,1,0
+First Time - Gryffin Remix,en,edm,electro house,Kygo,0,0,0
+Finally // beautiful stranger,en,pop,dance pop,Halsey,0,1,0
+My Body,en,pop,indie poptimism,Young the Giant,0,1,0
+Save It For A Rainy Day,en,rock,classic rock,Stephen Bishop,1,0,0
+Do You Think About Me,en,rap,gangster rap,50 Cent,0,1,0
+One Woman Man,en,r&b,new jack swing,Dave Hollister,1,0,0
+No More,en,rock,hard rock,Disturbed,0,0,0
+Lullaby - Calvo Remix,en,edm,electro house,Sigala,0,1,0
+You Make My Dreams - Remastered,en,pop,post-teen pop,Daryl Hall & John Oates,1,0,0
+United We Are,en,edm,big room,Hardwell,0,1,0
+Love Will Tear Us Apart - 2010 Remaster,en,pop,electropop,Joy Division,0,0,0
+Again,en,latin,tropical,Wun Two,1,0,-1
+Perfect Strangers,en,pop,indie poptimism,Jonas Blue,1,0,0
+Applause,en,pop,post-teen pop,Lady Gaga,0,1,0
+Turnin' Me Up,en,r&b,neo soul,BJ The Chicago Kid,1,0,0
+Faded - Dash Berlin Remix,en,pop,electropop,Alan Walker,0,1,0
+TRUE - Single Edit,en,pop,electropop,Spandau Ballet,1,0,0
+Heroes (we could be),en,pop,dance pop,Alesso,0,1,0
+Picture Perfect,en,pop,post-teen pop,Man Overboard,0,1,0
+Shoot Shoot - 2007 Remastered Version,en,rock,hard rock,UFO,0,0,0
+Back In Black,en,pop,post-teen pop,AC/DC,0,1,0
+The Weekend - Funk Wav Remix,en,pop,electropop,SZA,1,0,0
+Beauty,en,r&b,urban contemporary,Dru Hill,1,0,0
+The Boys Are Back In Town,en,rock,hard rock,Thin Lizzy,1,0,0
+Down 4 Whateva,en,r&b,new jack swing,Nuttin' Nyce,1,0,0
+Another Day,en,rock,album rock,Jamie Lidell,1,0,0
+Gz And Hustlas (feat. Nancy Fletcher),en,rap,gangster rap,Snoop Dogg,0,1,0
+Turning Up,en,pop,dance pop,ARASHI,1,0,0
+Sometimes When We Touch,en,rock,album rock,Dan Hill,1,0,0
+Closely,en,pop,indie poptimism,August Roads,1,0,0
+High Pressure Dave,en,pop,electropop,HEALTH,0,0,0
+Metal,en,rock,permanent wave,Gary Numan,1,0,0
+Take Me Home Tonight,en,rock,album rock,Eddie Money,1,0,0
+Blue Lights,en,r&b,urban contemporary,Jorja Smith,1,0,0
+Rehab,en,r&b,neo soul,Amy Winehouse,1,0,0
+Emotionless,en,r&b,hip pop,Drake,0,1,0
+Morning Starship,en,rock,classic rock,Morrissey,0,1,0
+Don't Worry (feat. Ray Dalton) - Matoma Remix,en,edm,pop edm,Madcon,0,0,0
+CAPO,en,rap,gangster rap,NLE Choppa,0,1,0
+All Night,en,edm,electro house,Parov Stelar,1,0,0
+Burden,en,r&b,neo soul,Foy Vance,1,0,0
+Band of Gypsies - Edit,en,latin,latin hip hop,Cypress Hill,0,1,0
+Break Your Heart,en,edm,pop edm,Taio Cruz,0,0,0
+Adios,en,pop,dance pop,EVERGLOW,0,1,0
+Hate Me Now (feat.- Puff Daddy),en,rap,gangster rap,Nas,0,0,0
+Dancer,en,edm,progressive electro house,Gino Soccio,1,0,-1
+Look What You Made Me Do,en,pop,post-teen pop,Taylor Swift,0,1,0
+Sever,en,rock,hard rock,Red,0,1,0
+"Why You Get Funky On Me - From ""House Party"" Soundtrack",en,r&b,new jack swing,Today,1,0,0
+Snapping,en,pop,dance pop,CHUNG HA,0,0,0
+We Are,en,rock,album rock,ONE OK ROCK,0,1,0
+Adios,en,latin,latin pop,Kim Viera,0,1,0
+Girls Just Want to Have Fun,en,pop,electropop,Cyndi Lauper,1,0,0
+Amsterdam,en,rap,southern hip hop,Rick Ross,0,1,0
+Intoxicated - Radio Edit,en,pop,electropop,Martin Solveig,0,0,0
+Answer is near,en,rock,album rock,ONE OK ROCK,0,1,-1
+Loyal,en,rap,trap,ODESZA,0,1,0
+Work,en,rap,southern hip hop,Rihanna,1,0,0
+Go to Sleep Little Baby,en,pop,indie poptimism,Niykee Heaton,1,0,0
+Almeda,en,r&b,neo soul,Solange,1,0,0
+6 Man,en,r&b,urban contemporary,Drake,0,1,-1
+Show Me Love - Original Mix,en,edm,progressive electro house,Sam Feldt,1,0,0
+Las Palabras De Amor (The Words Of Love) - Remastered 2011,en,rock,album rock,Queen,1,0,0
+Holy,en,r&b,neo soul,Jamila Woods,1,0,0
+How Sweet It Is (To Be Loved by You),en,rock,classic rock,James Taylor,1,0,0
+No Fear (feat. Donna Missal),en,edm,electro house,Rudimental,0,0,0
+World In My Eyes - 2006 Remastered Version,en,pop,electropop,Depeche Mode,1,0,0
+ghostin,en,pop,post-teen pop,Ariana Grande,1,0,0
+Lost,en,edm,progressive electro house,Gareth Emery,0,1,0
+679 (feat. Remy Boyz),en,rap,hip hop,Fetty Wap,0,1,2
+Chemistry,en,edm,progressive electro house,Wiwek,0,1,0
+High Hopes,en,pop,post-teen pop,Panic! At The Disco,1,0,0
+Paris,en,pop,indie poptimism,Magic Man,0,1,0
+Cameras,en,pop,indie poptimism,Matt and Kim,0,1,0
+Ain't My Fault - R3hab Remix,en,rap,trap,Zara Larsson,0,1,0
+Blue Ocean Floor,en,r&b,urban contemporary,Justin Timberlake,1,0,0
+Behind Barz - Bonus,en,rap,hip hop,Drake,0,1,0
+Back To You - From 13 Reasons Why – Season 2 Soundtrack,en,pop,indie poptimism,Selena Gomez,1,0,0
+Sending My Love,en,r&b,new jack swing,Zhané,1,0,0
+Only Girl,en,r&b,neo soul,Kali Uchis,0,1,1
+Feeling Good,en,rap,southern hip hop,Demun Jones,0,0,0
+Invisible Touch - 2007 Remaster,en,rock,album rock,Genesis,1,0,0
+Another Day,en,rock,album rock,Paul McCartney,1,0,0
+Hey Now - Arty Remix,en,edm,progressive electro house,London Grammar,0,0,0
+Icarus,en,r&b,neo soul,Kojey Radical,0,1,-1
+I just need U. - Capital Kings Remix,en,edm,progressive electro house,TobyMac,0,1,0
+Wait For You (feat. Maia Wright),en,edm,progressive electro house,Mike Williams,0,1,0
+It's your life (feat. Chris Willis),en,edm,progressive electro house,David Guetta,0,1,0
+Get Down,en,rap,gangster rap,Nas,1,1,0
+New Light,en,pop,dance pop,John Mayer,1,0,0
+Nothin' But The Cavi Hit,en,rap,southern hip hop,Mack 10,1,0,0
+Gucci Gang,en,rap,gangster rap,Lil Pump,1,0,0
+Voices In My Head,en,edm,big room,NIVIRO,0,1,0
+Next To Me,en,pop,dance pop,Axel Johansson,0,1,0
+Self Importance,en,r&b,neo soul,Kilo Kish,1,0,0
+Neighbour,en,pop,dance pop,Verses,0,0,0
+Tonight,en,edm,progressive electro house,MOTi,0,1,0
+It's Alright,en,r&b,new jack swing,Jodeci,1,0,0
+Better,en,pop,electropop,Khalid,1,0,0
+Fractures,en,edm,pop edm,ILLENIUM,0,1,0
+Bad - 2012 Remaster,en,rock,classic rock,Michael Jackson,0,0,0
+Don't Miss Me? - UNKLFNKL Remix,en,pop,indie poptimism,Marianas Trench,0,1,0
+Feeling Lonely,en,pop,indie poptimism,boy pablo,1,0,0
+Afternoon,en,pop,indie poptimism,TENDER,0,1,0
+Take It Off,en,pop,indie poptimism,Two Friends,1,0,0
+I Luv It,en,rap,southern hip hop,Jeezy,1,0,0
+MMMBop,en,rock,permanent wave,Hanson,1,0,0
+This Love - Acoustic,en,latin,latin pop,Maroon 5,1,0,0
+Original Don (feat. The Partysquad) [Flosstradamus Remix],en,rap,trap,Major Lazer,0,1,0
+Jailhouse Rock,en,rock,classic rock,Elvis Presley,0,1,0
+The House of the Rising Sun,en,rock,hard rock,The Animals,1,0,0
+Ice Cream Man,en,r&b,urban contemporary,Tyga,0,1,0
+Where I Won't Be Found,en,edm,pop edm,Seven Lions,0,1,0
+Breakaway,en,pop,post-teen pop,Kelly Clarkson,0,1,0
+On my shoulders,en,rock,album rock,The Dø,1,0,0
+Kids in Love - Don Diablo Remix,en,pop,dance pop,Kygo,0,1,0
+2 Of Amerikaz Most Wanted,en,rap,southern hip hop,2Pac,1,0,0
+Torn,en,r&b,urban contemporary,LeToya,0,1,2
+Crashing (feat. Bahari),en,edm,pop edm,ILLENIUM,1,0,0
+Alarm,en,edm,progressive electro house,Olly James,0,1,0
+Rise (feat. Skylar Grey),en,pop,electropop,David Guetta,0,1,0
+Wild Wild Son - Club Mix,en,edm,progressive electro house,Armin van Buuren,0,1,0
+Back on the Chain Gang,en,rock,permanent wave,Morrissey,0,1,0
+Save Me Pt 2 (feat. Austin Lam),en,r&b,urban contemporary,Ski Mask The Slump God,1,0,0
+West End Girls - 2001 Remaster,en,rock,permanent wave,Pet Shop Boys,1,0,0
+Make Me Wanna Die,en,rock,hard rock,The Pretty Reckless,0,0,0
+Kobe,en,rap,southern hip hop,Chief Keef,0,1,0
+Faded - Tiesto's Northern Lights Remix,en,edm,electro house,Alan Walker,0,1,0
+Get to You Again,en,r&b,neo soul,Mac Ayres,1,0,0
+Cot Damn (feat. Ab-Liva & Rosco P. Coldchain),en,rap,southern hip hop,Clipse,0,1,0
+Joy To The World,en,rock,album rock,Three Dog Night,1,0,0
+Somebody That I Used To Know - 4FRNT Remix,en,edm,pop edm,Gotye,1,0,0
+Remember the Name (feat. Styles of Beyond),en,rock,hard rock,Fort Minor,1,0,0
+I Decided,en,r&b,neo soul,Liv Warfield,1,0,-1
+The Same Way,en,edm,pop edm,Don Diablo,0,1,0
+Losing U (feat. Daylight) - Radio Edit,en,pop,indie poptimism,Klingande,0,1,0
+Sneak Diss (feat. So6ix),en,rap,gangster rap,Ghostemane,0,1,0
+Cake By The Ocean,en,latin,latin hip hop,DNCE,1,0,0
+Molly,en,rap,gangster rap,Tyga,0,0,0
+Whole Lotta Love,en,rock,classic rock,Santana,0,1,0
+Do Me!,en,r&b,new jack swing,Bell Biv DeVoe,1,0,0
+Black Butterflies,en,edm,big room,Kill The Buzz,0,1,0
+Let Me Love You - Marshmello Remix,en,rap,trap,DJ Snake,0,1,0
+Gullah Gullah Island,en,r&b,urban contemporary,Dear Silas,0,1,0
+Before You Go,en,pop,post-teen pop,Lewis Capaldi,0,0,0
+Young,en,pop,electropop,The Chainsmokers,1,0,0
+Big Faces,en,rap,southern hip hop,Geto Boys,0,0,0
+Rumors,en,pop,post-teen pop,Lindsay Lohan,1,0,0
+I Just Wanna Party,en,rap,gangster rap,YG,0,1,1
+Sound of da Police,en,rap,southern hip hop,KRS-One,0,1,0
+No Right To Love You - Acoustic,en,r&b,urban contemporary,Rhys Lewis,1,0,0
+everything i wanted,en,pop,dance pop,Billie Eilish,1,0,0
+There for You,en,pop,electropop,Martin Garrix,1,0,0
+Bring Da Ruckus,en,rap,southern hip hop,Wu-Tang Clan,0,1,0
+Same Old Song,en,r&b,urban contemporary,The Weeknd,1,0,0
+Gimme Back My Bullets,en,rock,classic rock,Lynyrd Skynyrd,0,0,0
+Love My Way,en,rock,permanent wave,The Psychedelic Furs,0,0,0
+Limitless - Radio Mix,en,edm,progressive electro house,BURNS,0,1,0
+All That I Am,en,r&b,urban contemporary,Joe,1,0,0
+Nowhere to Run,en,rap,gangster rap,Brennan Savage,1,0,0
+Cool Side Of The Pillow,en,r&b,neo soul,Kyle Dion,0,1,0
+Wherever You Will Go,en,rock,album rock,The Calling,0,0,0
+If The World,en,rock,album rock,Guns N' Roses,1,0,0
+Step by Step,en,r&b,new jack swing,New Kids On The Block,1,0,0
+Silhouettes - Original Radio Edit,en,edm,pop edm,Avicii,0,0,0
+Who I Am,en,rock,hard rock,Wage War,0,1,0
+747,en,r&b,hip pop,Bill Callahan,1,0,0
+Never Know,en,r&b,urban contemporary,6LACK,0,1,-1
+Rattle Your Cage,en,rock,classic rock,Skrizzly Adams,0,1,0
+Beautiful Life,en,pop,indie poptimism,Lost Frequencies,0,1,0
+Act a Fool,en,rap,hip hop,Rick Ross,0,1,0
+Yeah!!!,en,rap,southern hip hop,Pastor Troy,0,1,0
+Malibu,en,pop,dance pop,Miley Cyrus,0,1,0
+Slow Ride,en,rock,classic rock,Foghat,1,0,-1
+No Denying,en,r&b,urban contemporary,J Hus,0,1,0
+Forever Live My Name,en,latin,latin hip hop,Lil Rob,0,1,0
+Dirty Deeds Done Dirt Cheap,en,rock,album rock,AC/DC,0,1,0
+"Glowstix, Neon & Blood",en,pop,electropop,Incubite,0,1,0
+The One - Radio Edit,en,r&b,neo soul,Jorja Smith,1,0,0
+Summiteer,en,rock,hard rock,Watch Out Stampede,0,1,0
+Someday,en,rock,permanent wave,The Strokes,1,0,0
+Brightest Light - Radio Edit,en,pop,indie poptimism,FDVM,1,0,0
+SOS - Laidback Luke Tribute Remix / Radio Edit,en,pop,dance pop,Avicii,0,1,0
+God Is a DJ,en,pop,dance pop,Faithless,0,1,0
+24K Magic - R3hab Remix,en,edm,pop edm,Bruno Mars,0,1,0
+Can't Feel My Face,en,pop,electropop,The Weeknd,1,0,0
+Lost In Stereo,en,pop,post-teen pop,All Time Low,0,1,0
+Message In A Bottle - Remastered 2003,en,rock,classic rock,The Police,0,0,0
+Supernatural,en,pop,indie poptimism,Apollo LTD,0,0,0
+Where The Hood At,en,rap,gangster rap,DMX,0,1,2
+Hear Me Calling,en,rap,trap,Juice WRLD,1,0,0
+Smooth (feat. Rob Thomas),en,rock,permanent wave,Santana,1,0,0
+Opposites Attract,en,r&b,new jack swing,Paula Abdul,1,0,0
+Into The Great Wide Open,en,rock,permanent wave,Tom Petty and the Heartbreakers,1,0,0
+Sittin' Sidewayz (feat. Big Pokey),en,rap,hip hop,Paul Wall,0,1,-1
+Shooter,en,rap,southern hip hop,Lil Wayne,1,1,0
+Titanium (feat. Sia),en,pop,post-teen pop,David Guetta,0,1,0
+Over And Over,en,edm,progressive electro house,Sylvester,1,0,-1
+2000 Rounds,en,rap,gangster rap,Pouya,0,1,-1
+Sweet Emotion - Single Version,en,rock,hard rock,Aerosmith,1,0,0
+Sketches of Pain,en,r&b,neo soul,Audible Mainframe,1,0,0
+Pray to God - R3hab Remix,en,edm,big room,Calvin Harris,0,1,0
+Confessions Part II - Confessions Special Edition Version,en,r&b,hip pop,Usher,0,0,0
+Little Do You Know,en,edm,pop edm,Alex & Sierra,1,0,0
+Fortunate,en,r&b,neo soul,Maxwell,1,0,0
+Pon De Floor,en,latin,latin hip hop,Major Lazer,0,1,0
+I Wonder if I Take You Home,en,r&b,new jack swing,Full Force,1,0,0
+We Are Never Ever Getting Back Together,en,pop,post-teen pop,Taylor Swift,1,0,0
+Shower the People,en,rock,classic rock,James Taylor,1,0,0
+Carillon (with Achille Lauro),en,pop,dance pop,Nahaze,0,1,1
+Heartbreaker,en,rock,hard rock,Her Bright Skies,0,1,0
+Wicked,en,pop,indie poptimism,GRiZ,1,0,0
+40th Street Black / We Will Fight,en,rap,southern hip hop,Wu-Tang Clan,0,1,1
+Woke Up Late (feat. Hailee Steinfeld),en,r&b,hip pop,Drax Project,0,1,0
+Sea Sick,en,rap,gangster rap,Fat Nick,0,1,-1
+"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",en,latin,latin hip hop,DJ Khaled,1,0,0
+Crazy On You,en,rock,hard rock,Heart,1,0,0
+Hella Neck,en,rap,hip hop,Carnage,0,1,-1
+Walk Away,en,rock,permanent wave,Franz Ferdinand,0,0,0
+Watching The World,en,r&b,neo soul,Surahn,1,0,-1
+Mary Jane's Last Dance,en,rap,southern hip hop,Tom Petty and the Heartbreakers,0,1,0
+Peanut Butter Jelly - Genairo Nvilla Remix,en,latin,latin hip hop,Galantis,0,1,0
+Howl,en,rap,southern hip hop,Beware Of Darkness,0,0,0
+Paradise,en,pop,indie poptimism,Rex Orange County,1,0,0
+I Feel It Coming,en,pop,post-teen pop,The Weeknd,1,0,0
+Heart Don't Stand a Chance,en,r&b,urban contemporary,Anderson .Paak,1,0,0
+Whyyawannabringmedown,en,rock,hard rock,Aranda,0,0,0
+Days Gone By,en,rock,classic rock,Van Morrison,1,0,-1
+Patek Water,en,rap,gangster rap,Future,0,1,-1
+Your Side Of The Bed,en,pop,indie poptimism,Loote,1,0,0
+Patiently Waiting,en,rap,gangster rap,50 Cent,0,1,0
+I Need Love,en,r&b,new jack swing,LL Cool J,1,0,-1
+The Wrong Ones,en,latin,latin hip hop,JC Stewart,0,1,0
+Time of Dying,en,rock,hard rock,Three Days Grace,0,1,0
+Don't Cry (Original),en,rock,classic rock,Guns N' Roses,1,0,0
+Die For You,en,rock,hard rock,Red,0,1,0
+Let You Know - Nathan C Remix,en,edm,progressive electro house,Flume,0,1,0
+On Top Of The World,en,latin,latin hip hop,Imagine Dragons,0,0,0
+One Day,en,rap,southern hip hop,UGK,0,1,1
+Black Horse And The Cherry Tree,en,rock,album rock,KT Tunstall,1,0,0
+You & Me - Flume Remix,en,rap,trap,Disclosure,1,0,0
+High On Life (feat. Bonn),en,pop,dance pop,Martin Garrix,0,1,0
+"Rhythm Is A Dancer - 7"" Edit",en,pop,dance pop,SNAP!,1,0,0
+Can't Fight This Feeling,en,rock,hard rock,REO Speedwagon,1,0,0
+Runaway,en,latin,tropical,Halcyon,0,1,2
+Smilin,en,rap,southern hip hop,Demun Jones,0,1,0
+BOSS,en,r&b,hip pop,The Carters,0,1,1
+Self Control,en,r&b,neo soul,Frank Ocean,1,0,0
+Fool's Gold,en,r&b,neo soul,Jill Scott,1,0,0
+Lockjaw (feat. Kodak Black),en,rap,gangster rap,French Montana,0,1,2
+Glory Days,en,rock,classic rock,Bruce Springsteen,1,0,0
+Whatever It Takes,en,pop,post-teen pop,Imagine Dragons,0,1,0
+Sunday Bloody Sunday - Remastered 2008,en,rock,classic rock,U2,1,0,0
+All or Nothing - Sultan + Shepard Remix,en,latin,tropical,Lost Frequencies,0,1,0
+Dive (feat. Cosmos & Creature) (feat. Cosmos & Creature),en,edm,pop edm,Attom,0,1,0
+Kiss You All Over,en,rock,classic rock,Exile,1,0,-1
+Candy Rain,en,r&b,new jack swing,Soul For Real,0,1,0
+GAMES ON YOUR PHONE,en,r&b,urban contemporary,24kGoldn,0,1,0
+Don't Give Up,en,edm,progressive electro house,Chicane,1,0,0
+Time In,en,rap,trap,Billy Marchiafava,0,0,0
+In The Middle,en,pop,indie poptimism,dodie,1,0,0
+That's Why (You Go Away) - 2014 Remastered Version,en,rock,album rock,Michael Learns To Rock,1,0,0
+I Need A Hot Girl,en,rap,hip hop,Hot Boys,1,0,0
+Express Yourself,en,r&b,urban contemporary,Charles Wright & The Watts 103rd Street Rhythm Band,1,0,0
+BAD KID,en,rap,gangster rap,Night Lovell,1,0,0
+Unstoppable,en,pop,indie poptimism,Paperwhite,1,0,0
+It's a Sin - 2001 Remaster,en,pop,electropop,Pet Shop Boys,0,1,0
+Nothin' But The Cavi Hit,en,rap,gangster rap,Mack 10,0,0,0
+Unknown (To You),en,r&b,urban contemporary,Jacob Banks,0,1,0
+Killing In The Name,en,rock,permanent wave,Rage Against The Machine,0,1,0
+There Are Too Many Of Us,en,rock,permanent wave,Blur,1,0,0
+Do Me Right,en,r&b,new jack swing,Guy,1,0,0
+Bow Down,en,rock,hard rock,I Prevail,0,1,0
+Glow - JSapp Remix,en,edm,progressive electro house,Britt Nicole,0,1,0
+Cough Syrup,en,pop,post-teen pop,Young the Giant,0,1,0
+Blame,en,r&b,neo soul,Bryson Tiller,1,1,0
+Stone,en,pop,indie poptimism,Agnes Obel,1,0,-1
+Tell Your Friends,en,r&b,neo soul,The Weeknd,1,0,0
+Is It Good To You,en,r&b,new jack swing,Teddy Riley,1,0,0
+I Gotta Feeling,en,latin,latin hip hop,The Black Eyed Peas,1,0,0
+Carry On - Nicky Romero Remix,en,pop,dance pop,Kygo,0,1,0
+Before You Hit The Ground,en,rock,classic rock,Jonny Lang,1,0,0
+Driftin' Blues,en,rock,classic rock,Charles Brown,1,0,0
+Between The Devil And The Deep Blue Sea,en,rock,permanent wave,George Harrison,1,0,0
+Since U Been Gone,en,latin,latin hip hop,Kelly Clarkson,0,0,0
+Miss You Much,en,r&b,new jack swing,Janet Jackson,1,0,0
+Stars,en,edm,electro house,VIZE,0,1,0
+Flash Funk (feat. Marshmello),en,edm,big room,League of Legends,0,1,0
+Oxygen,en,pop,post-teen pop,Maia Mitchell,0,1,0
+I Found You (with Calvin Harris),en,pop,dance pop,benny blanco,0,1,0
+Don't Stop Me Now - 2011 Mix,en,rock,album rock,Queen,0,1,0
+MONOMANIA,en,rock,hard rock,The Word Alive,0,1,0
+This Ain't My Day,en,rap,southern hip hop,Fredro Starr,1,0,0
+Do Me Right,en,r&b,new jack swing,Guy,1,0,0
+Stitches,en,pop,post-teen pop,Shawn Mendes,0,0,0
+Twenty Eight,en,r&b,urban contemporary,The Weeknd,1,0,0
+In the Morning (feat. Syd & Thundercat),en,r&b,hip pop,Mac Miller,0,1,-1
+In Trance - Studio Edit,en,rock,hard rock,Scorpions,0,1,0
+Bad Blood,en,r&b,urban contemporary,Nao,1,1,0
+Somethin Out of Nothin' (feat. Saara Maria),en,r&b,neo soul,Joomanji,1,0,0
+Never Really Over - R3HAB Remix,en,pop,dance pop,Katy Perry,0,1,0
+Bankroll,en,rap,gangster rap,Taz,1,0,0
+Sometimes I Wonder,en,r&b,neo soul,Darius Rucker,1,0,0
+I Never Loved a Man (The Way I Love You),en,r&b,neo soul,Aretha Franklin,1,0,0
+Me and My Downfall,en,rock,album rock,DeeExpus,1,0,0
+Steambreather,en,rock,hard rock,Mastodon,0,1,0
+Heartbreaker - 1990 Remaster,en,rock,classic rock,Led Zeppelin,1,0,0
+Chainsmoking,en,pop,indie poptimism,Jacob Banks,0,1,0
+Tilt,en,rock,permanent wave,Scott Walker,1,0,0
+Body Parts,en,r&b,neo soul,Raphael Saadiq,1,0,0
+Tainted Love,en,rock,classic rock,Soft Cell,0,0,0
+Love Me Less (feat. Quinn XCII) - Party Pupils Remix,en,pop,dance pop,MAX,0,0,0
+Sweet November,en,r&b,new jack swing,Troop,1,0,0
+make daddy proud,en,pop,electropop,blackbear,1,0,0
+The Pressure,en,rock,album rock,The Cranberries,0,0,0
+Riot Rhythm,en,rock,album rock,Sleigh Bells,0,1,0
+Your Love,en,r&b,neo soul,Tom Misch,1,0,0
+Would You Mind,en,r&b,hip pop,PRETTYMUCH,0,1,0
+Odessa,en,pop,dance pop,Caribou,1,0,0
+Sanguine Paradise,en,rap,hip hop,Lil Uzi Vert,0,0,0
+For Life (feat. Clint Lowery),en,rock,hard rock,3 Years Hollow,0,1,0
+Milkshake,en,rap,southern hip hop,Kelis,1,0,0
+Together Forever,en,latin,latin hip hop,Lisette Melendez,1,0,0
+Only Can Get Better (feat. Daniel Merriweather),en,latin,tropical,Silk City,0,0,0
+Cars,en,rock,permanent wave,Gary Numan,1,0,0
+Travelin' Band,en,rock,classic rock,Creedence Clearwater Revival,0,1,0
+Stay (Electro Swing Remix),en,edm,electro house,11 Acorn Lane,0,0,0
+I'm Blessed,en,r&b,urban contemporary,Charlie Wilson,0,1,0
+In the Air Tonight,en,rock,hard rock,Nonpoint,0,0,0
+No Love Like Yours,en,r&b,neo soul,Edward Sharpe & The Magnetic Zeros,0,1,0
+Now That We Found Love,en,r&b,new jack swing,Heavy D & The Boyz,1,0,0
+Beat Of My Drum,en,pop,indie poptimism,POWERS,0,0,0
+All Falls Down (feat. Juliander),en,edm,electro house,Alan Walker,1,0,0
+Take Me Out,en,rock,permanent wave,Franz Ferdinand,1,0,0
+Stardust,en,rock,hard rock,Gemini Syndrome,0,1,0
+Swingin Party - 2008 Remaster,en,rock,permanent wave,The Replacements,1,0,0
+Mother - Fedde Le Grand Remix,en,pop,dance pop,Charlie Puth,0,1,0
+Animals - Radio Edit,en,edm,big room,Martin Garrix,0,1,0
+Don't Be Afraid,en,r&b,new jack swing,Aaron Hall,0,1,0
+Feels - Jai Wolf Remix,en,pop,indie poptimism,Kiiara,0,1,0
+Palm Beach,en,latin,tropical,Vicente Garcia,1,0,0
+In My Life - Remastered 2009,en,rock,classic rock,The Beatles,1,0,0
+Peace of Mind,en,rock,album rock,Boston,1,0,0
+Use Somebody,en,rock,classic rock,Kings of Leon,0,1,0
+Superstar,en,edm,pop edm,Said the Sky,0,1,0
+To Cut a Long Story Short - 2010 Remaster,en,rock,permanent wave,Spandau Ballet,0,0,0
+Check Yo Self - Remix,en,rap,southern hip hop,Ice Cube,1,0,0
+Move To The City - Live In Japan / 1992,en,rock,album rock,Guns N' Roses,0,0,-1
+My Way,en,rock,hard rock,Limp Bizkit,1,0,0
+Motor City Madhouse - Edit,en,rock,hard rock,Ted Nugent,0,0,0
+Flick Of The Wrist - Remastered 2011,en,rock,album rock,Queen,0,1,0
+Burden,en,pop,indie poptimism,TENDER,1,0,0
+Hardwired,en,rock,hard rock,Metallica,0,1,0
+Colors,en,r&b,hip pop,Black Pumas,0,1,0
+High And Dry,en,pop,indie poptimism,Radiohead,1,0,0
+Burn - Original Mix,en,edm,electro house,KSHMR,0,1,0
+Unwritten,en,pop,post-teen pop,Natasha Bedingfield,1,0,0
+Chocolate Jesus,en,rock,permanent wave,Tom Waits,1,0,-1
+Neon,en,pop,indie poptimism,Frida Sundemo,1,0,0
+Stay,en,edm,progressive electro house,David Guetta,1,0,0
+Won't Get Fooled Again - Original Album Version,en,rock,hard rock,The Who,1,0,-1
+Is This It,en,rock,permanent wave,The Strokes,1,0,0
+Trouble,en,pop,indie poptimism,Cage The Elephant,1,0,0
+do re mi,en,rap,hip hop,blackbear,1,1,0
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",en,pop,dance pop,Justin Timberlake,1,0,0
+"What Christmas Means to Me - from ""The Best Man Holiday Original Motion Picture Soundtrack""",en,r&b,neo soul,Fantasia,0,0,0
+Wolf,en,pop,indie poptimism,Skott,1,0,0
+Thiago Silva,en,rap,hip hop,Dave,0,1,0
+Lean On (feat. MØ & DJ Snake) - Tiësto & MOTi Remix,en,pop,electropop,Major Lazer,0,1,0
+Easy Love - Original Mix,en,latin,tropical,Sigala,0,0,0
+Thursday,en,r&b,neo soul,Leven Kali,1,0,0
+Feelin' Alright?,en,rock,classic rock,Traffic,1,0,0
+Stupid for You,en,pop,post-teen pop,Waterparks,0,1,0
+Paranoid,en,rock,hard rock,Black Sabbath,0,1,0
+Electric (feat. Khalid),en,pop,indie poptimism,Alina Baraz,1,0,0
+Blowin' Trees (+ Napdonalds Skit),en,rap,southern hip hop,Nappy Roots,0,1,0
+Last Request,en,rock,album rock,Paolo Nutini,1,0,0
+CYANIDE,en,r&b,urban contemporary,Daniel Caesar,0,1,-1
+Dang! (feat. Anderson .Paak),en,r&b,neo soul,Mac Miller,0,0,0
+Divinity - filous Remix,en,pop,indie poptimism,Porter Robinson,1,0,0
+Without Me,en,rap,southern hip hop,Eminem,1,0,0
+Owner of a Lonely Heart,en,rock,album rock,Yes,1,0,0
+Ghost,en,r&b,neo soul,Lianne La Havas,1,0,0
+Faucet Failure,en,rap,gangster rap,Ski Mask The Slump God,0,1,0
+Ghost,en,rock,permanent wave,Motorama,0,1,0
+Spring Summer Feeling,en,r&b,neo soul,Jill Scott,1,0,-1
+Dontcha,en,r&b,neo soul,The Internet,1,0,0
+I Think of You,en,r&b,neo soul,Sandra Lynn,1,0,0
+Roses,en,r&b,neo soul,BJ The Chicago Kid,0,0,0
+Barracuda,en,rock,classic rock,Heart,0,1,0
+Gold,en,pop,indie poptimism,Kiiara,0,1,-1
+I'm Shakin',en,rock,classic rock,Jack White,1,1,0
+SOS,en,r&b,neo soul,McClenney,1,0,0
+Glory of Love,en,rock,album rock,Peter Cetera,1,1,0
+Inside the Lines (feat. Casso),en,latin,tropical,Mike Perry,0,0,0
+Hard 2 Love,en,rap,southern hip hop,Haystak,1,0,0
+It's Going Down,en,rap,southern hip hop,South Circle,1,0,0
+The Voices,en,rap,trap,dreamEater,0,1,0
+Superstar,en,rap,southern hip hop,Lupe Fiasco,0,1,1
+Let's Wait Awhile,en,r&b,new jack swing,Janet Jackson,1,0,-1
+Adore You,en,pop,post-teen pop,Maisie Peters,1,0,0
+Ballin,en,rap,hip hop,Logic,0,1,0
+but,en,edm,pop edm,Keys of Philadelphia,0,1,0
+Woman,en,rock,hard rock,Wolfmother,0,1,0
+Lovers on the Sun (feat. Sam Martin) - Stadiumx Remix,en,edm,big room,David Guetta,0,0,-1
+Tropic Love,en,pop,electropop,Diviners,1,0,0
+Pizza,en,edm,big room,Anti Up,0,1,0
+Cocaine,en,rock,album rock,Eric Clapton,1,0,0
+Screwed Up,en,rap,southern hip hop,Ludacris,0,1,0
+Hello,en,pop,electropop,Adele,0,0,0
+Tuesday (feat. Drake),en,edm,pop edm,ILOVEMAKONNEN,0,1,0
+Slam,en,rap,gangster rap,Onyx,0,1,0
+Calypso,en,latin,latin hip hop,Luis Fonsi,0,0,0
+Town Called Malice,en,rock,permanent wave,The Jam,1,0,0
+In Love With You,en,r&b,neo soul,Erykah Badu,1,0,-1
+Anything Could Happen,en,pop,dance pop,Ellie Goulding,1,0,0
+Speechless (feat. Erika Sirola) - MOTi Remix,en,pop,dance pop,Robin Schulz,1,0,0
+Backseat,en,r&b,urban contemporary,Ari Lennox,0,1,0
+Kaputt,en,pop,dance pop,Destroyer,1,0,0
+Spoonful,en,pop,indie poptimism,Grizfolk,0,1,0
+Who Needs Love,en,rap,trap,Trippie Redd,1,0,0
+Love,en,r&b,neo soul,Musiq Soulchild,1,0,0
+Catalina Breeze,en,rock,permanent wave,The Blue Jean Committee,1,0,0
+Uma,en,pop,indie poptimism,Panama Wedding,1,0,0
+Lovergirl,en,r&b,urban contemporary,Teena Marie,1,0,0
+Lonely (feat. Lorine Chia),en,r&b,neo soul,Jamila Woods,1,0,0
+Be Like You,en,latin,tropical,CVBZ,0,1,0
+Meaning of Life,en,rock,hard rock,Disturbed,0,0,0
+Animals,en,pop,post-teen pop,Maroon 5,0,1,0
+First Things First,en,rap,southern hip hop,Stormzy,0,1,0
+Apollo - Radio Edit,en,edm,progressive electro house,Hardwell,0,1,0
+I Gotta Clean Up,en,rap,southern hip hop,Marvin Sease,1,0,-1
+Still Alive,en,rock,hard rock,Prison,0,1,0
+Got 'Til It's Gone,en,r&b,new jack swing,Janet Jackson,1,0,0
+Karma Chameleon,en,pop,electropop,Culture Club,1,0,0
+Limelight,en,rock,classic rock,Rush,1,0,0
+Puttin' On The Ritz - Disco Mix Radio Edit,en,edm,electro house,Taco,0,0,0
+Mork,en,edm,electro house,The Bloody Beetroots,0,1,0
+Climbing Walls,en,pop,indie poptimism,Strange Talk,0,0,0
+No Money,en,pop,electropop,Galantis,0,0,0
+2 Cigarettes,en,r&b,urban contemporary,Jack & Jack,1,0,0
+Eenie Meenie,en,latin,latin hip hop,Justin Bieber,1,0,0
+Stay,en,pop,indie poptimism,Post Malone,1,0,0
+Honey Dove,en,r&b,neo soul,Lee Fields & The Expressions,0,1,0
+Hail Mary,en,rap,gangster rap,2Pac,0,1,-1
+Hey Jealousy,en,rock,permanent wave,Gin Blossoms,0,1,0
+Music,en,r&b,neo soul,Leela James,1,0,0
+Low Life,en,rock,hard rock,Crobot,1,0,0
+Down to the River,en,rap,southern hip hop,Danny Boone,1,0,0
+Side To Side - Slushii Remix,en,edm,pop edm,Ariana Grande,0,1,0
+Susie Q - Single Version,en,rock,hard rock,Creedence Clearwater Revival,1,0,0
+Fuck You,en,edm,pop edm,CeeLo Green,0,0,0
+Just As I Am,en,pop,dance pop,Marshall Marshall,0,1,0
+Bridges,en,pop,indie poptimism,Broods,0,1,0
+Tears Don't Fall,en,rock,hard rock,Bullet For My Valentine,0,1,-1
+Don't Worry Bout Me - Alle Farben Remix,en,pop,dance pop,Zara Larsson,0,1,0
+3 Nights,en,latin,latin pop,Dominic Fike,0,1,0
+Love Me Like You Do,en,pop,post-teen pop,Ellie Goulding,1,0,0
+Heaven,en,edm,electro house,The Blaze,1,0,0
+WORKIN ME,en,latin,latin pop,Quavo,0,1,0
+Drops of Jupiter,en,rock,permanent wave,Train,1,0,0
+Easy Love,en,latin,tropical,Sigala,0,0,0
+CAN YOU HEAR ME NOW?,en,rock,permanent wave,Bishop Briggs,1,0,0
+Women Who Look Like You (feat. Guapdad 4000),en,r&b,urban contemporary,JP Saxe,1,0,0
+Sweet Home Alabama,en,rap,southern hip hop,Lynyrd Skynyrd,1,0,0
+Southbound,en,rock,classic rock,The Allman Brothers Band,1,0,0
+Da' Dip,en,rap,southern hip hop,Freak Nasty,1,1,-1
+High Rises,en,rap,hip hop,CHIKA,0,1,-1
+Jekyll and Hyde,en,rock,hard rock,Five Finger Death Punch,0,1,0
+Panic Room,en,edm,progressive electro house,Au/Ra,0,1,0
+Funky Town,en,pop,post-teen pop,Lipps Inc.,1,0,0
+I'm Your Baby Tonight,en,r&b,new jack swing,Whitney Houston,0,1,0
+Rockstar (feat. DV8),en,edm,progressive electro house,Timmy Trumpet,0,1,0
+Kings & Queens (feat. Run The Jewels),en,rap,gangster rap,DJ Shadow,0,1,0
+Breaking the Habit,en,rock,album rock,Linkin Park,0,0,0
+Nightrain,en,rock,album rock,Guns N' Roses,0,1,0
+End Of The Road,en,r&b,new jack swing,Boyz II Men,1,0,-1
+Freefall,en,rock,album rock,Camel,1,0,0
+This Is What It Feels Like,en,edm,progressive electro house,Armin van Buuren,0,1,0
+Ready For Love,en,r&b,neo soul,India.Arie,1,0,0
+You Really Got Me,en,rock,classic rock,Van Halen,0,1,0
+Every Little Thing I Do - Remix,en,r&b,new jack swing,Soul For Real,1,0,0

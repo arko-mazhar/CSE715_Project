@@ -1,0 +1,13 @@
+{
+    "main_hard_dataset_size": 1186,
+    "language_counts": {
+        "bn": 593,
+        "en": 593
+    },
+    "n_unique_genres": 14,
+    "n_unique_subgenres": 86,
+    "source_dataset": "/content/drive/MyDrive/project/data/lyrics/medium_hybrid_dataset_clean.csv",
+    "hard_dataset_csv_path": "/content/drive/MyDrive/project/results/hard_task_data/hard_hybrid_dataset.csv",
+    "hard_helper_py_path": "/content/drive/MyDrive/project/src/hard_task_data.py",
+    "gtzan_comparison_dataset_size": 999
+}

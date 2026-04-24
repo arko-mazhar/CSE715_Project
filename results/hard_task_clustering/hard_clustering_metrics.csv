@@ -1,0 +1,4 @@
+method,feature_type,dataset_size,n_clusters,silhouette_score,adjusted_rand_index,normalized_mutual_info,cluster_purity
+Beta-VAE + KMeans,audio_plus_lyrics_latent,1120,14,0.16561786830425262,0.09161545487054601,0.24413406741543317,0.4080357142857143
+Autoencoder + KMeans,audio_plus_lyrics_latent,1120,14,0.11579437553882599,0.10900633768744286,0.31414003968610377,0.4455357142857143
+PCA + KMeans,audio_plus_lyrics_latent,1120,14,0.10913500228041238,0.10489758919252887,0.27734663964118994,0.44642857142857145

@@ -1,0 +1,5 @@
+task_stage,branch,method,feature_type,dataset_name,dataset_size,n_clusters,silhouette_score,calinski_harabasz_index,davies_bouldin_index,adjusted_rand_index,normalized_mutual_info,cluster_purity,notes
+Easy,Hybrid audio features,VAE + KMeans,,balanced_bn_en_1186,1186,2.0,0.3515287935733795,745.036865234375,,,,,Basic VAE vs PCA baseline on balanced Bengali-English dataset
+Medium,Hybrid audio + lyrics,KMeans,audio_plus_lyrics_latent,balanced_bn_en_1186,1186,,0.3023217,,1.2702211589098875,-0.0007004802486128,,,Medium hybrid branch with fused audio and lyrics latent features
+Medium,GTZAN Conv-VAE / spectral baseline,Direct MFCC + KMeans,mfcc_summary_direct,gtzan_valid_999,999,,0.1263018399477005,,2.0057857371088064,0.1718169491618877,0.3049943001343657,,GTZAN mel-spectrogram Conv-VAE and direct MFCC baseline
+Hard,Multimodal audio + lyrics + genre,Beta-VAE(beta=1.0) + KMeans,audio_plus_lyrics_latent,hard_hybrid_1120,1120,14.0,0.239983,,,0.122936568141082,0.2802130892086313,0.4446428571428571,Tuned Beta-VAE with beta=1.0

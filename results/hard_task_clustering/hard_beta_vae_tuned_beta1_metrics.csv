@@ -1,0 +1,2 @@
+method,feature_type,dataset_size,n_clusters,silhouette_score,adjusted_rand_index,normalized_mutual_info,cluster_purity
+Beta-VAE(beta=1.0) + KMeans,audio_plus_lyrics_latent,1120,14,0.239983,0.12293656814108202,0.28021308920863136,0.4446428571428571

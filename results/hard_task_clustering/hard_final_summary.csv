@@ -1,0 +1,5 @@
+method,feature_type,dataset_name,comparison_scope,dataset_size,n_clusters,silhouette_score,davies_bouldin_index,adjusted_rand_index,normalized_mutual_info,cluster_purity,experiment,best_by_silhouette,best_by_ari,best_by_nmi,best_by_purity
+Beta-VAE + KMeans,audio_plus_lyrics_latent,hard_hybrid_1120,main_hard_task,1120,14,0.1656178683042526,,0.091615454870546,0.2441340674154331,0.4080357142857143,hard_task_beta_vae_multimodal,True,False,False,False
+Autoencoder + KMeans,audio_plus_lyrics_latent,hard_hybrid_1120,main_hard_task,1120,14,0.1157943755388259,,0.1090063376874428,0.3141400396861037,0.4455357142857143,hard_task_beta_vae_multimodal,False,True,True,False
+PCA + KMeans,audio_plus_lyrics_latent,hard_hybrid_1120,main_hard_task,1120,14,0.1091350022804123,,0.1048975891925288,0.2773466396411899,0.4464285714285714,hard_task_beta_vae_multimodal,False,False,False,True
+Direct MFCC + KMeans,mfcc_summary_direct,gtzan_999,direct_spectral_baseline,999,10,0.1263018399477005,2.0057857371088064,0.1718169491618877,0.3049943001343657,,hard_task_beta_vae_multimodal,False,False,False,False

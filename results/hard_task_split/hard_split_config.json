@@ -1,0 +1,10 @@
+{
+    "dataset_size_after_cleaning": 1120,
+    "train_size": 896,
+    "val_size": 224,
+    "fused_feature_dim": 111,
+    "audio_feature_dim": 11,
+    "lyrics_feature_dim": 100,
+    "stratified_by": "genre_encoded",
+    "random_state": 42
+}

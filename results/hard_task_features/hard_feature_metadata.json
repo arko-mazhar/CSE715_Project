@@ -1,0 +1,12 @@
+{
+    "dataset_size": 1120,
+    "audio_feature_dim": 11,
+    "lyrics_feature_dim": 100,
+    "fused_feature_dim": 111,
+    "n_genres": 14,
+    "n_languages": 2,
+    "audio_scaled_path": "/content/drive/MyDrive/project/results/hard_task_features/X_hard_audio_scaled.npy",
+    "lyrics_reduced_path": "/content/drive/MyDrive/project/results/hard_task_features/X_hard_lyrics_reduced.npy",
+    "fused_features_path": "/content/drive/MyDrive/project/results/hard_task_features/X_hard_fused.npy",
+    "labels_csv_path": "/content/drive/MyDrive/project/results/hard_task_features/hard_labels.csv"
+}

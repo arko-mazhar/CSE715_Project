@@ -1,0 +1,4 @@
+method,feature_type,dataset_size,dbscan_eps,n_clusters_found,noise_count,silhouette_score,davies_bouldin_index,adjusted_rand_index
+KMeans,audio_plus_lyrics_latent,1186,,2,0,0.3023217,1.2702211589098875,-0.000700480248612845
+Agglomerative,audio_plus_lyrics_latent,1186,,2,0,0.2610906,1.3564822029948223,0.0005412965244971659
+DBSCAN,audio_plus_lyrics_latent,1186,1.503620684146881,3,54,0.13333955,0.8768980903425353,0.0058517284809698035
